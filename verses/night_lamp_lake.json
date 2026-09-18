@@ -17,6 +17,15 @@
     {
       "text": "Summon the Braavosi banker Tycho Nestoris to seal the war loan.",
       "nextId": "braavosi_banker_deal"
+    },
+    {
+      "text": "Stannis's teeth grinding: Stannis clenches his jaw so hard the acoustic resonance shears the Wall.",
+      "nextId": "stannis_teeth_grinding_wall_collapse",
+      "bonusAchievementId": "ach_seismic_teeth",
+      "introducesPlotHole": "Acoustic Enamel Seismology"
     }
-  ]
+  ],
+  "prerequisites": [],
+  "mutuallyExclusiveWith": [],
+  "introducesPlotHole": null
 }

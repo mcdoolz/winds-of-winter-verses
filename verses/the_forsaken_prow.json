@@ -14,5 +14,8 @@
       "text": "Call upon the true Drowned God to shatter the iron fleet.",
       "nextId": "aeron_drowned_god_awakens"
     }
-  ]
+  ],
+  "prerequisites": [],
+  "mutuallyExclusiveWith": [],
+  "introducesPlotHole": null
 }

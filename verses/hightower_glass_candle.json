@@ -14,5 +14,8 @@
       "text": "Descend into the forbidden vaults to retrieve the Death of Dragons manuscript.",
       "nextId": "citadel_forbidden_vaults"
     }
-  ]
+  ],
+  "prerequisites": [],
+  "mutuallyExclusiveWith": [],
+  "introducesPlotHole": null
 }

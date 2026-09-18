@@ -1,0 +1,25 @@
+{
+  "id": "dusky_woman_high_valyrian_reveal",
+  "title": "THE MUTE SPEAKS // SHADOW OF ASSHAI",
+  "pov": "The Dusky Woman",
+  "narrative": "Aboard the Silence, Euron turns his back to polish his Valyrian armor. The Dusky Woman clears her throat. 'Honestly, Euron, your High Valyrian grammar is embarrassing,' she says in crisp, Oxford-educated Valyrian. She pulls off her wig to reveal the obsidian mask of Quaithe of the Shadow. 'I don't even have my tongue cut out; I just pretended to be mute so I wouldn't have to listen to you brag about squids for six straight months.'",
+  "resolvesPlotHole": "The Dusky Woman's True Identity",
+  "bonusAchievementId": "ach_dusky_speaks",
+  "introducesPlotHole": "The Silent Shadowbinder of the Iron Fleet",
+  "prerequisites": [],
+  "mutuallyExclusiveWith": [],
+  "options": [
+    {
+      "text": "Expose Euron as Daario and Benjen on the ship intercom.",
+      "nextId": "euron_is_daario_benjen"
+    },
+    {
+      "text": "Blow Dragonbinder horn with earplugs.",
+      "nextId": "dragonbinder_horn_sounded"
+    },
+    {
+      "text": "Untie Aeron Damphair from the prow before he turns into a raisin.",
+      "nextId": "the_forsaken_prow"
+    }
+  ]
+}

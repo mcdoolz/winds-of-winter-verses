@@ -19,5 +19,8 @@
       "nextId": "darkstar_sword_dawn",
       "bonusAchievementId": "ach_darkstar_confronted"
     }
-  ]
+  ],
+  "prerequisites": [],
+  "mutuallyExclusiveWith": [],
+  "introducesPlotHole": null
 }

@@ -13,6 +13,15 @@
     {
       "text": "Keep Theon alive as a tactical hostage to claim the Iron Islands.",
       "nextId": "braavosi_banker_deal"
+    },
+    {
+      "text": "Listen to Mormont's raven scream on the sill: 'CORN! SUBSCRIBE TO THE WEIRWOOD PODCAST!'",
+      "nextId": "mormont_raven_bloodraven_podcaster",
+      "bonusAchievementId": "ach_corn_podcast",
+      "introducesPlotHole": "The 24/7 Weirwood Corn Broadcast"
     }
-  ]
+  ],
+  "prerequisites": [],
+  "mutuallyExclusiveWith": [],
+  "introducesPlotHole": null
 }

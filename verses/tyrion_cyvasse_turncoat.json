@@ -14,5 +14,8 @@
       "text": "Unite the sellswords and burn the blockade of Slaver's Bay.",
       "nextId": "meereenese_knot_untied"
     }
-  ]
+  ],
+  "prerequisites": [],
+  "mutuallyExclusiveWith": [],
+  "introducesPlotHole": null
 }

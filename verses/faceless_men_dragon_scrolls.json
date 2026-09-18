@@ -14,5 +14,8 @@
       "text": "Steal a face from the wall and board the first galley to Westeros.",
       "nextId": "arya_sails_westeros"
     }
-  ]
+  ],
+  "prerequisites": [],
+  "mutuallyExclusiveWith": [],
+  "introducesPlotHole": null
 }

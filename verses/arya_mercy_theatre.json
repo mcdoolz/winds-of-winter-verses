@@ -13,6 +13,15 @@
     {
       "text": "Slip through the secret passages into Cersei's royal apartments.",
       "nextId": "faceless_men_iron_throne"
+    },
+    {
+      "text": "Syrio Forel is everybody: The entire cast of Westeros was played by one unionized Braavosi actor.",
+      "nextId": "syrio_forel_is_everybody",
+      "bonusAchievementId": "ach_syrio_omnipresent",
+      "introducesPlotHole": "The 47 Characters Played by Syrio Forel"
     }
-  ]
+  ],
+  "prerequisites": [],
+  "mutuallyExclusiveWith": [],
+  "introducesPlotHole": null
 }

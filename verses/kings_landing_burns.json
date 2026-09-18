@@ -18,5 +18,8 @@
       "text": "Melt the Iron Throne itself \u2014 no more kings, no more thrones.",
       "nextId": "melt_throne_ending"
     }
-  ]
+  ],
+  "prerequisites": [],
+  "mutuallyExclusiveWith": [],
+  "introducesPlotHole": null
 }

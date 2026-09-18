@@ -1,0 +1,27 @@
+{
+  "id": "ghost_of_high_heart_pop_culture",
+  "title": "DREAMS OF TELEVISION // 2026 SUPER BOWL PROPHECY",
+  "pov": "The Ghost of High Heart",
+  "narrative": "The tiny bent woods witch rocks on the weirwood stump, weeping into her rags. 'I gorged on grief at Summerhall,' she wails. 'I dreamt of a shadow with a burning heart... and I dreamt of a great metallic box with glowing liquid crystals! Men in shiny helmets ran across painted grass chasing a pigskin egg while three billion people watched thirty-second adverts for carbonated sugar water! And the Kansas City Chiefs scored in double overtime!'",
+  "resolvesPlotHole": "The Woods Witch Has Visions of the 21st Century",
+  "bonusAchievementId": "ach_high_heart_streamer",
+  "introducesPlotHole": "The Woods Witch 2026 Super Bowl Broadcast",
+  "prerequisites": [],
+  "mutuallyExclusiveWith": [],
+  "options": [
+    {
+      "text": "Deliver the television prophecy to Lady Stoneheart's hollow hill.",
+      "nextId": "stoneheart_jaime"
+    },
+    {
+      "text": "Warn the Blackfish before he places bets on the Riverrun sports book.",
+      "nextId": "blackfish_riverrun_rally"
+    },
+    {
+      "text": "Connect the psychic feed directly to George's 1987 WordStar PC.",
+      "nextId": "wordstar_ai_sentience_singularity",
+      "bonusAchievementId": "ach_wordstar_skynet",
+      "introducesPlotHole": "DOS WordStar 4.0 Skynet Singularity"
+    }
+  ]
+}

@@ -32,6 +32,21 @@
       "text": "The Citadel Thieves: Pate delivers the stolen Archmaester master key to the Alchemist.",
       "nextId": "pate_jaqen_conspiracy",
       "bonusAchievementId": "ach_alchemist_caught"
+    },
+    {
+      "text": "The Triple Identity: Daario removes his blue beard to reveal Euron, who reveals Benjen Stark.",
+      "nextId": "euron_is_daario_benjen",
+      "bonusAchievementId": "ach_triple_identity",
+      "introducesPlotHole": "The Triple Quantum Superposition of Daario/Euron/Benjen"
+    },
+    {
+      "text": "Varys emerges from the surf: The Master of Whisperers reveals his emerald fish tail.",
+      "nextId": "varys_merman_revelation",
+      "bonusAchievementId": "ach_merling_varys",
+      "introducesPlotHole": "The Subterranean King's Landing Merling Civilization"
     }
-  ]
+  ],
+  "prerequisites": [],
+  "mutuallyExclusiveWith": [],
+  "introducesPlotHole": null
 }

@@ -1,0 +1,31 @@
+{
+  "id": "varys_merman_revelation",
+  "title": "UNDER THE RED KEEP // THE MERLING SPYMASTER",
+  "pov": "Varys",
+  "narrative": "In the subterranean tunnels below Maegor's Holdfast, Lord Varys hoists his voluminous silk robes, kicking aside his embroidered slippers. Two gleaming emerald fins and a shimmering emerald tail splash into the salty brackish tide. \"Little birds?\" he giggles, spitting seawater. \"I said little HERRINGS! Why do you think I smell like lilac perfume? To mask the stench of low-tide brine! King's Landing will drown, and the Merling Kingdom shall rule the dry land!\"",
+  "resolvesPlotHole": "Varys is a Literal Merling",
+  "bonusAchievementId": "ach_merling_varys",
+  "introducesPlotHole": "The Subterranean King's Landing Merling Civilization",
+  "prerequisites": [],
+  "mutuallyExclusiveWith": [
+    "wildfire_ending"
+  ],
+  "options": [
+    {
+      "text": "Challenge Patchface to an undersea rap battle beneath the waves.",
+      "nextId": "patchface_rap_battle_melisandre",
+      "bonusAchievementId": "ach_undersea_rap_god",
+      "introducesPlotHole": "Rhymes Under the Sea Diss Track Protocol"
+    },
+    {
+      "text": "Swim into Tywin's private pneumatic subway tunnel.",
+      "nextId": "tywin_secret_brothel_tunnel_subway",
+      "bonusAchievementId": "ach_tywin_subway",
+      "introducesPlotHole": "The Lannister High-Speed Pneumatic Brothel Metro"
+    },
+    {
+      "text": "Surface at the harbor and warn the realm.",
+      "nextId": "root"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "howland_reed_high_sparrow",
+  "title": "REED AT THE ALTAR // BAREFOOT BOG JUSTICE",
+  "pov": "The High Sparrow",
+  "narrative": "The High Sparrow stands barefoot on the sept marble, grinning as Cersei is marched to the cells. He wipes swamp peat from his toes and winks at the Great Sept rafters. \"You thought I was a pious septon?\" he whispers. \"I'm Howland Reed! I got tired of waiting in Greywater Watch for twenty-eight years, so I bought a coarse robe, walked south, and decided to bankrupt House Lannister with religious bureaucracy. Ned would have loved this.\"",
+  "resolvesPlotHole": "Howland Reed is the High Sparrow",
+  "bonusAchievementId": "ach_sparrow_bogman",
+  "introducesPlotHole": "The Muddy Bogman Papacy",
+  "prerequisites": [],
+  "mutuallyExclusiveWith": [
+    "high_sparrow_purged"
+  ],
+  "options": [
+    {
+      "text": "Purge the sept with wildfire anyway just to be safe.",
+      "nextId": "high_sparrow_purged"
+    },
+    {
+      "text": "Share a goblet of 298 vintage with Cersei while she evaluates the tannins.",
+      "nextId": "cersei_wine_connoisseur_sommelier",
+      "bonusAchievementId": "ach_cersei_sommelier",
+      "introducesPlotHole": "Cersei's Sommelier Certification in Arbor Gold"
+    },
+    {
+      "text": "Produce Lyanna's marriage certificate and wedding harp.",
+      "nextId": "howland_reed_appears"
+    }
+  ]
+}

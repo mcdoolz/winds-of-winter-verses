@@ -14,5 +14,8 @@
       "text": "Parley with Ser Barristan Selmy beneath the walls of Meereen.",
       "nextId": "barristan_victarion_parley"
     }
-  ]
+  ],
+  "prerequisites": [],
+  "mutuallyExclusiveWith": [],
+  "introducesPlotHole": null
 }

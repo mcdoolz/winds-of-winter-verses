@@ -13,6 +13,21 @@
     {
       "text": "Order Qyburn to ignite the wildfire caches beneath the Faith's septs.",
       "nextId": "high_sparrow_purged"
+    },
+    {
+      "text": "Ned Stark screams inside the sword: Widow's Wail vibrates with Eddard's disembodied soul.",
+      "nextId": "ned_stark_warged_into_sword",
+      "bonusAchievementId": "ach_sword_stark",
+      "introducesPlotHole": "Conscious Cutlery (Valyrian Steel Metempsychosis)"
+    },
+    {
+      "text": "Ser Boros Blount's competitive eating: Boros downs forty capons to prove his stomach acid is acid-proof.",
+      "nextId": "boros_blount_food_tester_championship",
+      "bonusAchievementId": "ach_boros_competitive_eater",
+      "introducesPlotHole": "The Royal Kingsguard Competitive Hot Dog Eating Trophy"
     }
-  ]
+  ],
+  "prerequisites": [],
+  "mutuallyExclusiveWith": [],
+  "introducesPlotHole": null
 }

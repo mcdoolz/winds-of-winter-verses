@@ -14,5 +14,8 @@
       "text": "Warg through time to witness the tragedy of Hodor.",
       "nextId": "hold_the_door_revelation"
     }
-  ]
+  ],
+  "prerequisites": [],
+  "mutuallyExclusiveWith": [],
+  "introducesPlotHole": null
 }

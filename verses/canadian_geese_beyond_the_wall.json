@@ -1,0 +1,25 @@
+{
+  "id": "canadian_geese_beyond_the_wall",
+  "title": "HONKERS OF THE FROZEN NORTH // THE TRUE THREAT",
+  "pov": "Bowen Marsh",
+  "narrative": "Bowen Marsh peeks over the parapet of the Wall through a brass spyglass. In the valley below, it is not an army of blue-eyed wights advancing. It is twelve million giant black-necked Canadian Geese, hissing with their tongues out, pooping on the ice, and aggressively charging anything that breathes. 'Brandon the Builder did not build a seven-hundred-foot wall to stop White Walkers!' Bowen cries in terror. 'He built it because these winged demons will chase you across five counties if you walk near their goslings!'",
+  "resolvesPlotHole": "The Ancient Evil the Wall Was Actually Built For",
+  "bonusAchievementId": "ach_canadian_geese_fear",
+  "introducesPlotHole": "The Ancient Evil of Arctic Migratory Waterfowl",
+  "prerequisites": [],
+  "mutuallyExclusiveWith": [],
+  "options": [
+    {
+      "text": "Return the Night King's overdue Citadel library book to placate the geese.",
+      "nextId": "night_king_overdue_library_book"
+    },
+    {
+      "text": "Have Craster's sons form a hockey defense perimeter against the flock.",
+      "nextId": "craster_ice_hockey_dynasty"
+    },
+    {
+      "text": "Resonate Stannis's jaw to sonic frequencies that repel birds.",
+      "nextId": "stannis_teeth_grinding_wall_collapse"
+    }
+  ]
+}

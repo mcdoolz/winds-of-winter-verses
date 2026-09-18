@@ -14,5 +14,8 @@
       "text": "Melt down the swords of the conqueror with dragonfire.",
       "nextId": "melt_throne_ending"
     }
-  ]
+  ],
+  "prerequisites": [],
+  "mutuallyExclusiveWith": [],
+  "introducesPlotHole": null
 }

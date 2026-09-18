@@ -1,0 +1,27 @@
+{
+  "id": "cersei_wine_connoisseur_sommelier",
+  "title": "ARBOR GOLD VINTAGE 298 // TASTING NOTES OF TREASON",
+  "pov": "Cersei Lannister",
+  "narrative": "Cersei pours her twenty-fourth silver flagon of the afternoon. She swirls the golden liquid against the candlelight, sniffs the rim, and swishes it across her teeth. 'Notes of oak barrel, crisp pear, honeysuckle, and a subtle undertone of brotherly treason,' she muses. 'People think I'm drinking to cope with the collapse of House Lannister. In truth, I am studying for my Level 4 Master Sommelier certification. Once Stannis is dead, I am opening a tasting room in the Maidenvault.'",
+  "resolvesPlotHole": "Cersei's Alcohol Intake Outpacing Robert Baratheon",
+  "bonusAchievementId": "ach_cersei_sommelier",
+  "introducesPlotHole": "Cersei's Sommelier Certification in Arbor Gold",
+  "prerequisites": [],
+  "mutuallyExclusiveWith": [
+    "wildfire_ending"
+  ],
+  "options": [
+    {
+      "text": "Offer Daenerys a glass of Arbor Gold during the standoff.",
+      "nextId": "cersei_standoff"
+    },
+    {
+      "text": "Spill the vintage on the High Sparrow's barefoot toes.",
+      "nextId": "high_sparrow_purged"
+    },
+    {
+      "text": "Compare notes with Robert Baratheon's tropical Summer Isles rum bar.",
+      "nextId": "robert_baratheon_summer_isles_dj"
+    }
+  ]
+}

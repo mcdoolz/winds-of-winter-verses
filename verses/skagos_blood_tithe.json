@@ -14,5 +14,8 @@
       "text": "Transport Tycho Nestoris's mercenary gold to the Wall.",
       "nextId": "braavosi_banker_deal"
     }
-  ]
+  ],
+  "prerequisites": [],
+  "mutuallyExclusiveWith": [],
+  "introducesPlotHole": null
 }

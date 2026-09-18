@@ -14,5 +14,8 @@
       "text": "Join the spearwives to execute the planned diversion in the stables.",
       "nextId": "ghost_of_winterfell"
     }
-  ]
+  ],
+  "prerequisites": [],
+  "mutuallyExclusiveWith": [],
+  "introducesPlotHole": null
 }

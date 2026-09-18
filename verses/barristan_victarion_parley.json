@@ -14,5 +14,8 @@
       "text": "Sign the contract drafted by Tyrion Lannister.",
       "nextId": "tyrion_cyvasse_turncoat"
     }
-  ]
+  ],
+  "prerequisites": [],
+  "mutuallyExclusiveWith": [],
+  "introducesPlotHole": null
 }

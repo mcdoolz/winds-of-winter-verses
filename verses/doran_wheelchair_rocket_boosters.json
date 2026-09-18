@@ -1,0 +1,25 @@
+{
+  "id": "doran_wheelchair_rocket_boosters",
+  "title": "THE GOUT MOBILE // VALYRIAN NITRO CHARGE",
+  "pov": "Doran Martell",
+  "narrative": "Prince Doran sits in his ebony wheelchair beside the reflecting pools. Darkstar approaches with a drawn dagger. Doran sighs, flips open the armrest, and hits a red toggle switch. Two twin Valyrian steel exhaust pipes roar with wildfire flames. The wheelchair accelerates from 0 to 60 in 1.4 seconds, leaving twin trails of burning rubber across the marble courtyard. 'You thought gout made me immobile?' Doran cackles over the engine roar. 'I have four hundred horsepower of Dornish engineering!'",
+  "resolvesPlotHole": "Doran Martell's Secret Mobility Enhancements",
+  "bonusAchievementId": "ach_rocket_wheelchair",
+  "introducesPlotHole": "The Valyrian Nitro-Boosted Gout Wheelchair",
+  "prerequisites": [],
+  "mutuallyExclusiveWith": [],
+  "options": [
+    {
+      "text": "Drift through the Water Gardens to crush the overripe blood oranges.",
+      "nextId": "doran_blood_orange_pact"
+    },
+    {
+      "text": "Tow Quentyn Martell behind the wheelchair on dragon skis.",
+      "nextId": "queyntin_martell_sunscreen_miracle"
+    },
+    {
+      "text": "Race to Griffin's Roost to negotiate with Aegon's war elephants.",
+      "nextId": "arianne_connington_parley"
+    }
+  ]
+}

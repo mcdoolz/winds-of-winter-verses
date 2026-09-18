@@ -1,0 +1,25 @@
+{
+  "id": "syrio_forel_is_everybody",
+  "title": "NOT TODAY // THE ENTIRE CAST WAS SYRIO FOREL",
+  "pov": "Syrio Forel",
+  "narrative": "Arya reaches the House of Black and White and pulls off the Kindly Man's face. It is Syrio Forel! Then Jaqen H'ghar pulls off his face\u2014Syrio Forel! Then Maester Aemon, Daario Naharis, Patchface, and the Night King all pull off their faces in unison, revealing forty-seven identical Braavosi fencing masters with curly hair and wooden swords. 'What do we say to the God of Death?' they chorus. 'NOT TODAY! We unionized! One actor playing the entire book series saves on royalties!'",
+  "resolvesPlotHole": "What Happened to Syrio Forel",
+  "bonusAchievementId": "ach_syrio_omnipresent",
+  "introducesPlotHole": "The 47 Characters Played by Syrio Forel",
+  "prerequisites": [],
+  "mutuallyExclusiveWith": [],
+  "options": [
+    {
+      "text": "Join the mummery troupe in Braavos as Mercy.",
+      "nextId": "arya_mercy_theatre"
+    },
+    {
+      "text": "Steal the dragon breeding scrolls from the Citadel vaults.",
+      "nextId": "faceless_men_dragon_scrolls"
+    },
+    {
+      "text": "Hand the stolen iron key to the Alchemist novice.",
+      "nextId": "pate_jaqen_conspiracy"
+    }
+  ]
+}

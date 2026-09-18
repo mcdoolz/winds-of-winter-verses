@@ -1,0 +1,27 @@
+{
+  "id": "mormont_raven_bloodraven_podcaster",
+  "title": "CORN! CORN! KING! // 24/7 ELDRITCH BROADCAST",
+  "pov": "Mormont's Raven",
+  "narrative": "The big black raven lands on the kettle in the Old Bear's solar. 'CORN!' it screams. 'CORN! SUBSCRIBE TO MY SUBSTACK! KING! MERCH LINK IN BIO!' Beneath the roots beyond the Wall, Brynden Rivers adjusts his micro-weirwood headphones. 'Hello listeners, welcome back to episode 4,118 of The Eye in the Tree. Today we analyze why Jon Snow refuses to brush his hair, followed by an ad read for Valyrian steel whetstones.'",
+  "resolvesPlotHole": "Bloodraven Annoying the Night's Watch via Raven",
+  "bonusAchievementId": "ach_corn_podcast",
+  "introducesPlotHole": "The 24/7 Weirwood Corn Broadcast",
+  "prerequisites": [],
+  "mutuallyExclusiveWith": [],
+  "options": [
+    {
+      "text": "Broadcast Theon's weirwood trial live to Castle Black.",
+      "nextId": "stannis_trial_theon"
+    },
+    {
+      "text": "Patch Howland Reed in as a call-in guest from Greywater Watch.",
+      "nextId": "howland_reed_appears"
+    },
+    {
+      "text": "Interview the Night King about his overdue Citadel library book.",
+      "nextId": "night_king_overdue_library_book",
+      "bonusAchievementId": "ach_overdue_library_others",
+      "introducesPlotHole": "The 8,000-Year Citadel Overdue Book Fee"
+    }
+  ]
+}

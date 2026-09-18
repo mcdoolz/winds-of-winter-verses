@@ -1,0 +1,29 @@
+{
+  "id": "strong_belwas_locust_immunity",
+  "title": "GASTRIC STEEL // FORTY HONEYED LOCUSTS",
+  "pov": "Strong Belwas",
+  "narrative": "In Daznak's Pit, Strong Belwas finishes the entire silver bowl of poisoned honeyed locusts, licking each sticky claw with gusto. The tears of Lys burn through horse stomachs; Belwas merely lets out an earthquake belch that knocks over two Brazen Beasts. 'Strong Belwas needs more liver!' he shouts, slapping his scarred belly. 'Poison makes Strong Belwas digest faster!' The Harpy's conspirators drop their daggers in existential despair.",
+  "resolvesPlotHole": "Strong Belwas Survives Lethal Poison Through Pure Mass",
+  "bonusAchievementId": "ach_belwas_iron_stomach",
+  "introducesPlotHole": "Hyper-Metabolic Locust Toxin Consumption",
+  "prerequisites": [],
+  "mutuallyExclusiveWith": [],
+  "options": [
+    {
+      "text": "Lead the cavalry charge outside Meereen on a full stomach.",
+      "nextId": "barristan_battle_of_fire"
+    },
+    {
+      "text": "Challenge Ser Boros Blount to a royal food tasting championship.",
+      "nextId": "boros_blount_food_tester_championship",
+      "bonusAchievementId": "ach_boros_competitive_eater",
+      "introducesPlotHole": "The Royal Kingsguard Competitive Hot Dog Eating Trophy"
+    },
+    {
+      "text": "Consult Victarion Greyjoy on digestive remedies for dual-god heartburn.",
+      "nextId": "victarion_dual_god_stomach_rumble",
+      "bonusAchievementId": "ach_theological_heartburn",
+      "introducesPlotHole": "The Gastric Holy War (R'hllor vs The Drowned God)"
+    }
+  ]
+}

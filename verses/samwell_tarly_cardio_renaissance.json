@@ -1,0 +1,25 @@
+{
+  "id": "samwell_tarly_cardio_renaissance",
+  "title": "TWO PUSHUPS // DISCOVERING VALYRIAN METALLURGY",
+  "pov": "Samwell Tarly",
+  "narrative": "In the Citadel library, Samwell drops his quill, sighs, and decides to do two pushups on the stone floor to impress Gilly. On his second pushup, his nose brushes against a loose floor tile, revealing a hollow lead cylinder containing the exact thermodynamic chemical formula for forging Valyrian steel using crushed dragonglass and pomegranate rind. 'Cardio really is good for you,' Sam pants, immediately eating a meat pie.",
+  "resolvesPlotHole": "Samwell Tarly's Sudden Citadel Intellect",
+  "bonusAchievementId": "ach_sam_cardio_breakthrough",
+  "introducesPlotHole": "Valyrian Steel Metallurgy Solved via Calisthenics",
+  "prerequisites": [],
+  "mutuallyExclusiveWith": [],
+  "options": [
+    {
+      "text": "Unlock the deepest vaults of the Citadel to smelt a fleet of swords.",
+      "nextId": "citadel_forbidden_vaults"
+    },
+    {
+      "text": "Warn the novice Pate before Jaqen steals the recipe.",
+      "nextId": "pate_jaqen_conspiracy"
+    },
+    {
+      "text": "Bring the formula to the glass candle observatory at the Hightower.",
+      "nextId": "hightower_glass_candle"
+    }
+  ]
+}

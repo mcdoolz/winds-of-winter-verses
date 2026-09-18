@@ -14,5 +14,8 @@
       "text": "Warn Archmaester Marwyn of the blood magic at sea.",
       "nextId": "hightower_glass_candle"
     }
-  ]
+  ],
+  "prerequisites": [],
+  "mutuallyExclusiveWith": [],
+  "introducesPlotHole": null
 }

@@ -14,5 +14,8 @@
       "text": "Proclaim the young wolf King in the North.",
       "nextId": "king_north_ending"
     }
-  ]
+  ],
+  "prerequisites": [],
+  "mutuallyExclusiveWith": [],
+  "introducesPlotHole": null
 }

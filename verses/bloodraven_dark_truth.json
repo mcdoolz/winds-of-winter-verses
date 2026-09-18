@@ -14,5 +14,8 @@
       "text": "Warg Viserion to watch over Westeros as an immortal dragon-seer.",
       "nextId": "viserion_warg_ending"
     }
-  ]
+  ],
+  "prerequisites": [],
+  "mutuallyExclusiveWith": [],
+  "introducesPlotHole": null
 }

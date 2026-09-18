@@ -1,0 +1,25 @@
+{
+  "id": "davos_boomerang_knuckles",
+  "title": "AERODYNAMIC PHALANGES // RETURN OF THE ONION LUCK",
+  "pov": "Davos Seaworth",
+  "narrative": "Davos sits in his Skagosi tent rubbing his shortened left fingertips. Suddenly, a whistle cuts through the arctic air. Four tiny calcified bone fragments burst through the tent flap like heat-seeking missiles, snapping cleanly back into Davos's empty leather pouch. 'My finger bones!' Davos gasps. 'They survived the wildfire, swam across the Narrow Sea, and homed in on my hand using magnetic onion resonance!'",
+  "resolvesPlotHole": "Davos's Lost Finger Bones In Blackwater Bay",
+  "bonusAchievementId": "ach_boomerang_knuckles",
+  "introducesPlotHole": "Homing Phalanges of Blackwater Bay",
+  "prerequisites": [],
+  "mutuallyExclusiveWith": [],
+  "options": [
+    {
+      "text": "Use the magical knuckle luck to tame Skagosi cannibal unicorns.",
+      "nextId": "davos_skagos_cannibals"
+    },
+    {
+      "text": "Pay the stone men of Skagos their ancient blood tithe.",
+      "nextId": "skagos_blood_tithe"
+    },
+    {
+      "text": "Fling the bones like boomerangs at Stannis's crofter's village camp.",
+      "nextId": "stannis_trial_theon"
+    }
+  ]
+}

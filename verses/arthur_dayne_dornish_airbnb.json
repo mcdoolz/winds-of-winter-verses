@@ -1,0 +1,25 @@
+{
+  "id": "arthur_dayne_dornish_airbnb",
+  "title": "THE SWORD IN THE RETIREMENT HOME // RED MOUNTAIN B&B",
+  "pov": "Ser Arthur Dayne",
+  "narrative": "In a peaceful whitewashed hacienda in the Dornish Marches, Ser Arthur Dayne pours fresh mint tea for two tourists from Oldtown. 'Yes, I am the Sword of the Morning,' he smiles, dusting off his five-star reviews on RedMountainStay.com. 'Ned Stark didn't kill me. We realized fighting over a baby was stressful, so Howland Reed forged seven death certificates and I opened a charming four-bedroom bed-and-breakfast. Complimentary lemon biscuits included.'",
+  "resolvesPlotHole": "Arthur Dayne Didn't Die at the Tower of Joy",
+  "bonusAchievementId": "ach_arthur_dayne_host",
+  "introducesPlotHole": "The Red Mountain Sword Bed & Breakfast",
+  "prerequisites": [],
+  "mutuallyExclusiveWith": [],
+  "options": [
+    {
+      "text": "Lend Dawn to the true Sword of the Morning candidate.",
+      "nextId": "dawn_sword_of_morning"
+    },
+    {
+      "text": "Kick Gerold 'Darkstar' Dayne out for refusing to pay the cleaning fee.",
+      "nextId": "darkstar_sword_dawn"
+    },
+    {
+      "text": "Tell Howland Reed his security deposit from 283 AC has cleared.",
+      "nextId": "howland_reed_appears"
+    }
+  ]
+}

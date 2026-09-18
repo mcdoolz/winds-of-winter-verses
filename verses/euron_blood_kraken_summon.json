@@ -14,5 +14,8 @@
       "text": "Sail the conquered Arbor fleet straight to the iron throne.",
       "nextId": "kraken_arbor_ending"
     }
-  ]
+  ],
+  "prerequisites": [],
+  "mutuallyExclusiveWith": [],
+  "introducesPlotHole": null
 }

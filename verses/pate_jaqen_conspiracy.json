@@ -14,5 +14,8 @@
       "text": "Follow the trail to the House of Black and White's secret contracts.",
       "nextId": "faceless_men_dragon_scrolls"
     }
-  ]
+  ],
+  "prerequisites": [],
+  "mutuallyExclusiveWith": [],
+  "introducesPlotHole": null
 }

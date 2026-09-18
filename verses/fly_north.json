@@ -14,5 +14,8 @@
       "text": "Dive Drogon into the frozen forest to draw the Other commanders out.",
       "nextId": "duel_night_king_ending"
     }
-  ]
+  ],
+  "prerequisites": [],
+  "mutuallyExclusiveWith": [],
+  "introducesPlotHole": null
 }

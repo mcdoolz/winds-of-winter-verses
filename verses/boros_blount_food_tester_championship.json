@@ -1,0 +1,25 @@
+{
+  "id": "boros_blount_food_tester_championship",
+  "title": "COMPETITIVE TASTING // FORTY ROASTED CAPONS",
+  "pov": "Ser Boros Blount",
+  "narrative": "Ser Boros Blount wipes goose fat from his white Kingsguard cloak. Cersei assigned him as royal taster to humiliate him with poison risks. Instead, Boros entered the Seventh Annual King's Landing Competitive Eating Derby. He downs forty roasted partridges, twelve venison pies, and a bucket of pickled lampreys in eight minutes flat, shattering the world record. 'Poison?' Boros snorts, chewing through an entire chicken carcass. 'My stomach acid could dissolve Valyrian steel!'",
+  "resolvesPlotHole": "Boros Blount Survives Being Royal Food Poison Tester",
+  "bonusAchievementId": "ach_boros_competitive_eater",
+  "introducesPlotHole": "The Royal Kingsguard Competitive Hot Dog Eating Trophy",
+  "prerequisites": [],
+  "mutuallyExclusiveWith": [],
+  "options": [
+    {
+      "text": "Step into the sept to face Ser Robert Strong in an eating duel.",
+      "nextId": "cersei_trial_by_combat"
+    },
+    {
+      "text": "Challenge Strong Belwas to an international locust eating match.",
+      "nextId": "strong_belwas_locust_immunity"
+    },
+    {
+      "text": "Devote fourteen consecutive pages to describing your dessert course.",
+      "nextId": "grease_dribble_fourteen_pages"
+    }
+  ]
+}

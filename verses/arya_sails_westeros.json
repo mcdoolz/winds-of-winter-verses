@@ -14,5 +14,8 @@
       "text": "Ride north toward the Neck to hunt the Freys and Boltons.",
       "nextId": "arya_sent_ending"
     }
-  ]
+  ],
+  "prerequisites": [],
+  "mutuallyExclusiveWith": [],
+  "introducesPlotHole": null
 }

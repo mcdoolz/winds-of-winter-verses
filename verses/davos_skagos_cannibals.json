@@ -13,6 +13,15 @@
     {
       "text": "Bargain with the Magnar of Skagos for an alliance of stone men.",
       "nextId": "skagos_blood_tithe"
+    },
+    {
+      "text": "The boomerang knuckles: Davos's lost finger bones fly across the sea and land in his pouch.",
+      "nextId": "davos_boomerang_knuckles",
+      "bonusAchievementId": "ach_boomerang_knuckles",
+      "introducesPlotHole": "Homing Phalanges of Blackwater Bay"
     }
-  ]
+  ],
+  "prerequisites": [],
+  "mutuallyExclusiveWith": [],
+  "introducesPlotHole": null
 }

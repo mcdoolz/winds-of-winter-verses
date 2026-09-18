@@ -1,0 +1,25 @@
+{
+  "id": "shadow_baby_child_support",
+  "title": "LEGAL SUMMONS // SHADOW ASSASSIN PATERNITY SUIT",
+  "pov": "Melisandre",
+  "narrative": "A shadow with Stannis's face slips into the red tent at Castle Black. Instead of assassinating a rival king, the shadow baby hands Stannis a sheaf of vellum parchment. 'What is this heretical scroll?' Stannis barks. 'Paternity paperwork filed by the High Court of the Iron Bank,' Melisandre sighs. 'Eighteen years of child support arrears for two shadow assassinations in the Stormlands. Plus orthodontic dental coverage for incorporeal demon teeth.'",
+  "resolvesPlotHole": "The Legal Status of Stannis's Shadow Spawn",
+  "bonusAchievementId": "ach_shadow_child_support",
+  "introducesPlotHole": "Shadow Assassin Paternity and Child Support Claims",
+  "prerequisites": [],
+  "mutuallyExclusiveWith": [],
+  "options": [
+    {
+      "text": "Grind your teeth until the summons disintegrates into chalk dust.",
+      "nextId": "stannis_teeth_grinding_wall_collapse"
+    },
+    {
+      "text": "Forward the bills to Robert Baratheon's beach bar in the Summer Isles.",
+      "nextId": "robert_baratheon_summer_isles_dj"
+    },
+    {
+      "text": "Ponder if Renly's peach could have prevented this litigation.",
+      "nextId": "renly_peach_fifth_element"
+    }
+  ]
+}

@@ -505,6 +505,750 @@
       "subtitle": "PLUGGED: THE LIBERATION OF WINTERFELL",
       "plotHole": "The Liberation of Winterfell",
       "desc": "Decades of fan speculation concluded in a single choice."
+    },
+    {
+      "id": "ach_arthur_dayne_dornish_airbnb",
+      "title": "THE SWORD IN THE RETIREMENT HOME // RED MOUNTAIN B&B",
+      "subtitle": "PLUGGED: ARTHUR DAYNE DIDN'T DIE AT THE TOWER OF JOY",
+      "plotHole": "Arthur Dayne Didn't Die at the Tower of Joy",
+      "desc": "Resolved with unexpected narrative finality."
+    },
+    {
+      "id": "ach_boros_blount_food_tester_championship",
+      "title": "COMPETITIVE TASTING // FORTY ROASTED CAPONS",
+      "subtitle": "PLUGGED: BOROS BLOUNT SURVIVES BEING ROYAL FOOD POISON TESTER",
+      "plotHole": "Boros Blount Survives Being Royal Food Poison Tester",
+      "desc": "Resolved with unexpected narrative finality."
+    },
+    {
+      "id": "ach_bran_bootstrap_window_push",
+      "title": "THE WEIRWOOD PARADOX // PUSHING ONESELF OUT THE WINDOW",
+      "subtitle": "PLUGGED: BRAN'S TEMPORAL CLOSED-LOOP CAUSALITY",
+      "plotHole": "Bran's Temporal Closed-Loop Causality",
+      "desc": "Resolved with unexpected narrative finality."
+    },
+    {
+      "id": "ach_canadian_geese_beyond_the_wall",
+      "title": "HONKERS OF THE FROZEN NORTH // THE TRUE THREAT",
+      "subtitle": "PLUGGED: THE ANCIENT EVIL THE WALL WAS ACTUALLY BUILT FOR",
+      "plotHole": "The Ancient Evil the Wall Was Actually Built For",
+      "desc": "Resolved with unexpected narrative finality."
+    },
+    {
+      "id": "ach_catspaw_dagger_truth",
+      "title": "THE CATSPAW DAGGER EXPLAINED",
+      "subtitle": "PLUGGED: THE CATSPAW DAGGER",
+      "plotHole": "The Catspaw Dagger",
+      "desc": "Resolved with unexpected narrative finality."
+    },
+    {
+      "id": "ach_cersei_wine_connoisseur_sommelier",
+      "title": "ARBOR GOLD VINTAGE 298 // TASTING NOTES OF TREASON",
+      "subtitle": "PLUGGED: CERSEI'S ALCOHOL INTAKE OUTPACING ROBERT BARATHEON",
+      "plotHole": "Cersei's Alcohol Intake Outpacing Robert Baratheon",
+      "desc": "Resolved with unexpected narrative finality."
+    },
+    {
+      "id": "ach_craster_ice_hockey_dynasty",
+      "title": "THE SHIVERING LEAGUE // THE WHITE WALKERS PLAY DEFENSE",
+      "subtitle": "PLUGGED: THE FATE OF CRASTER'S 99 SACRIFICED SONS",
+      "plotHole": "The Fate of Craster's 99 Sacrificed Sons",
+      "desc": "Resolved with unexpected narrative finality."
+    },
+    {
+      "id": "ach_daenerys_forgot_iron_fleet_cloud",
+      "title": "SHINY OBJECT SYNDROME // BUT WHAT ABOUT THE FLEET?",
+      "subtitle": "PLUGGED: DANY KIND OF FORGOT ABOUT THE IRON FLEET",
+      "plotHole": "Dany Kind of Forgot About the Iron Fleet",
+      "desc": "Resolved with unexpected narrative finality."
+    },
+    {
+      "id": "ach_davos_boomerang_knuckles",
+      "title": "AERODYNAMIC PHALANGES // RETURN OF THE ONION LUCK",
+      "subtitle": "PLUGGED: DAVOS'S LOST FINGER BONES IN BLACKWATER BAY",
+      "plotHole": "Davos's Lost Finger Bones In Blackwater Bay",
+      "desc": "Resolved with unexpected narrative finality."
+    },
+    {
+      "id": "ach_doran_wheelchair_rocket_boosters",
+      "title": "THE GOUT MOBILE // VALYRIAN NITRO CHARGE",
+      "subtitle": "PLUGGED: DORAN MARTELL'S SECRET MOBILITY ENHANCEMENTS",
+      "plotHole": "Doran Martell's Secret Mobility Enhancements",
+      "desc": "Resolved with unexpected narrative finality."
+    },
+    {
+      "id": "ach_dusky_woman_high_valyrian_reveal",
+      "title": "THE MUTE SPEAKS // SHADOW OF ASSHAI",
+      "subtitle": "PLUGGED: THE DUSKY WOMAN'S TRUE IDENTITY",
+      "plotHole": "The Dusky Woman's True Identity",
+      "desc": "Resolved with unexpected narrative finality."
+    },
+    {
+      "id": "ach_euron_eldritch_ritual",
+      "title": "THE KRAKEN OF THE REDWYNE STRAITS",
+      "subtitle": "PLUGGED: EURON'S VALYRIAN ARMOR & ELDRITCH HORN",
+      "plotHole": "Euron's Valyrian Armor & Eldritch Horn",
+      "desc": "Resolved with unexpected narrative finality."
+    },
+    {
+      "id": "ach_euron_is_daario_benjen",
+      "title": "THE TRIPLE IDENTITY CRISIS // BLUE BEARD, EYE PATCH, FROSTBITE",
+      "subtitle": "PLUGGED: EURON = DAARIO = BENJEN = THE DUSKY WOMAN",
+      "plotHole": "Euron = Daario = Benjen = The Dusky Woman",
+      "desc": "Resolved with unexpected narrative finality."
+    },
+    {
+      "id": "ach_five_year_gap_reckoning",
+      "title": "THE FIVE-YEAR RECKONING",
+      "subtitle": "PLUGGED: THE SCRAPPED 5-YEAR GAP",
+      "plotHole": "The Scrapped 5-Year Gap",
+      "desc": "Resolved with unexpected narrative finality."
+    },
+    {
+      "id": "ach_ghost_of_high_heart_pop_culture",
+      "title": "DREAMS OF TELEVISION // 2026 SUPER BOWL PROPHECY",
+      "subtitle": "PLUGGED: THE WOODS WITCH HAS VISIONS OF THE 21ST CENTURY",
+      "plotHole": "The Woods Witch Has Visions of the 21st Century",
+      "desc": "Resolved with unexpected narrative finality."
+    },
+    {
+      "id": "ach_grease_dribble_fourteen_pages",
+      "title": "THE CAPON ODYSSEY // FOURTEEN PAGES OF CHIN GREASE",
+      "subtitle": "PLUGGED: GRRM'S PATHOLOGICAL NEED TO DESCRIBE MEDIEVAL FOOD",
+      "plotHole": "GRRM's Pathological Need to Describe Medieval Food",
+      "desc": "Resolved with unexpected narrative finality."
+    },
+    {
+      "id": "ach_hodor_quantum_relativity_thesis",
+      "title": "THE DOORWAY TENSOR // HODOR'S UNIFIED FIELD THEORY",
+      "subtitle": "PLUGGED: HODOR'S SINGLE WORD WAS COMPLEX MATHEMATICAL PHYSICS",
+      "plotHole": "Hodor's Single Word Was Complex Mathematical Physics",
+      "desc": "Resolved with unexpected narrative finality."
+    },
+    {
+      "id": "ach_hot_pie_secret_azhor_baker",
+      "title": "FLOUR AND BLOOD // THE COLD BUTTER PROPHECY",
+      "subtitle": "PLUGGED: HOT PIE FORGING LIGHTBRINGER IN SOURDOUGH",
+      "plotHole": "Hot Pie Forging Lightbringer in Sourdough",
+      "desc": "Resolved with unexpected narrative finality."
+    },
+    {
+      "id": "ach_howland_reed_appears",
+      "title": "HOWLAND REED LEAVES THE SWAMP",
+      "subtitle": "PLUGGED: HOWLAND REED ABSENCE",
+      "plotHole": "Howland Reed Absence",
+      "desc": "Resolved with unexpected narrative finality."
+    },
+    {
+      "id": "ach_howland_reed_high_sparrow",
+      "title": "REED AT THE ALTAR // BAREFOOT BOG JUSTICE",
+      "subtitle": "PLUGGED: HOWLAND REED IS THE HIGH SPARROW",
+      "plotHole": "Howland Reed is the High Sparrow",
+      "desc": "Resolved with unexpected narrative finality."
+    },
+    {
+      "id": "ach_illyrio_candied_ginger_cartel",
+      "title": "MONOPOLY COMMODITY // THE REAL REASON FOR DRAGONS",
+      "subtitle": "PLUGGED: ILLYRIO'S ABSURD PERSONAL SPICE STASH",
+      "plotHole": "Illyrio's Absurd Personal Spice Stash",
+      "desc": "Resolved with unexpected narrative finality."
+    },
+    {
+      "id": "ach_iron_bank_repo_crane",
+      "title": "ASSET RECOVERY // TOWING THE IRON THRONE",
+      "subtitle": "PLUGGED: THE IRON BANK LITERALLY FORECLOSING ON KING'S LANDING",
+      "plotHole": "The Iron Bank Literally Foreclosing on King's Landing",
+      "desc": "Resolved with unexpected narrative finality."
+    },
+    {
+      "id": "ach_joffrey_dry_pigeon_pie_choke",
+      "title": "CRUST FAILURE // IT WAS NEVER THE STRANGLER",
+      "subtitle": "PLUGGED: THE PURPLE WEDDING WAS JUST TERRIBLE PASTRY",
+      "plotHole": "The Purple Wedding Was Just Terrible Pastry",
+      "desc": "Resolved with unexpected narrative finality."
+    },
+    {
+      "id": "ach_jon_snow_refuses_human_resurrection",
+      "title": "BARK COMMANDER // REFUSING TO LEAVE THE DOG",
+      "subtitle": "PLUGGED: JON SNOW PREFERS BEING GHOST OVER DOING PAPERWORK",
+      "plotHole": "Jon Snow Prefers Being Ghost Over Doing Paperwork",
+      "desc": "Resolved with unexpected narrative finality."
+    },
+    {
+      "id": "ach_lady_dustin_bone_broth",
+      "title": "THE CRYPT CULINARY ARTS // NED STARK'S MARROW",
+      "subtitle": "PLUGGED: LADY DUSTIN'S BIZARRE OBSESSION WITH NED'S BONES",
+      "plotHole": "Lady Dustin's Bizarre Obsession with Ned's Bones",
+      "desc": "Resolved with unexpected narrative finality."
+    },
+    {
+      "id": "ach_littlefinger_subprime_debt_crisis",
+      "title": "CITADEL WALL STREET // SUBPRIME COLLATERALIZED PEASANT DEBT",
+      "subtitle": "PLUGGED: LITTLEFINGER'S IMPOSSIBLE MEDIEVAL EMBEZZLEMENT",
+      "plotHole": "Littlefinger's Impossible Medieval Embezzlement",
+      "desc": "Resolved with unexpected narrative finality."
+    },
+    {
+      "id": "ach_mance_rayder_rhaegar_glamor_guitar",
+      "title": "THE ROCK OPERA // RHAEGAR'S DISTORTION PEDAL",
+      "subtitle": "PLUGGED: MANCE RAYDER IS RHAEGAR TARGARYEN THEORY",
+      "plotHole": "Mance Rayder is Rhaegar Targaryen Theory",
+      "desc": "Resolved with unexpected narrative finality."
+    },
+    {
+      "id": "ach_meereenese_knot_untied",
+      "title": "UNTYING THE MEEREENESE KNOT",
+      "subtitle": "PLUGGED: THE MEEREENESE KNOT",
+      "plotHole": "The Meereenese Knot",
+      "desc": "Resolved with unexpected narrative finality."
+    },
+    {
+      "id": "ach_moon_boy_for_all_i_know",
+      "title": "FOR ALL I KNOW // THE TRUE KING UPON THE IRON SEAT",
+      "subtitle": "PLUGGED: MOON BOY'S ROMANTIC EXPLOITS WITH THE QUEEN",
+      "plotHole": "Moon Boy's Romantic Exploits with the Queen",
+      "desc": "Resolved with unexpected narrative finality."
+    },
+    {
+      "id": "ach_mormont_raven_bloodraven_podcaster",
+      "title": "CORN! CORN! KING! // 24/7 ELDRITCH BROADCAST",
+      "subtitle": "PLUGGED: BLOODRAVEN ANNOYING THE NIGHT'S WATCH VIA RAVEN",
+      "plotHole": "Bloodraven Annoying the Night's Watch via Raven",
+      "desc": "Resolved with unexpected narrative finality."
+    },
+    {
+      "id": "ach_ned_stark_warged_into_sword",
+      "title": "METALLIC AGONY // SCREAMING INSIDE WIDOW'S WAIL",
+      "subtitle": "PLUGGED: NED STARK WARGED INTO THE GREATSWORD ICE",
+      "plotHole": "Ned Stark Warged into the Greatsword Ice",
+      "desc": "Resolved with unexpected narrative finality."
+    },
+    {
+      "id": "ach_night_king_overdue_library_book",
+      "title": "EIGHT THOUSAND YEARS OVERDUE // THE LATE FEE",
+      "subtitle": "PLUGGED: THE OTHERS INVADE SOLELY TO RETURN A LIBRARY SCROLL",
+      "plotHole": "The Others Invade Solely to Return a Library Scroll",
+      "desc": "Resolved with unexpected narrative finality."
+    },
+    {
+      "id": "ach_oberyn_hot_sauce_spear",
+      "title": "CAROLINA REAPER // DORNISH HABANERO WARFARE",
+      "subtitle": "PLUGGED: THE MANTICORE VENOM WAS JUST GHOST PEPPER SALSA",
+      "plotHole": "The Manticore Venom Was Just Ghost Pepper Salsa",
+      "desc": "Resolved with unexpected narrative finality."
+    },
+    {
+      "id": "ach_patchface_rap_battle_melisandre",
+      "title": "BARS BENEATH THE WAVES // DISS TRACK FOR THE RED GOD",
+      "subtitle": "PLUGGED: PATCHFACE OUT-PROPHESYING MELISANDRE IN RHYME",
+      "plotHole": "Patchface Out-Prophesying Melisandre in Rhyme",
+      "desc": "Resolved with unexpected narrative finality."
+    },
+    {
+      "id": "ach_qarth_warlock_blue_lips_blueberry",
+      "title": "BLUEBERRY KOOL-AID // THE HOUSE OF THE UNDYING SNACK BAR",
+      "subtitle": "PLUGGED: SHADE OF THE EVENING IS JUST ARTIFICIAL DYE",
+      "plotHole": "Shade of the Evening is Just Artificial Dye",
+      "desc": "Resolved with unexpected narrative finality."
+    },
+    {
+      "id": "ach_queyntin_martell_sunscreen_miracle",
+      "title": "'OH.' // SPF 5000 DORNISH DRAGON OINTMENT",
+      "subtitle": "PLUGGED: QUENTYN MARTELL FAKED HIS CHARRED DEATH",
+      "plotHole": "Quentyn Martell Faked His Charred Death",
+      "desc": "Resolved with unexpected narrative finality."
+    },
+    {
+      "id": "ach_renly_peach_fifth_element",
+      "title": "THE FRUIT OF COSMIC DESTINY // RENLY'S PEACH EXPLAINED",
+      "subtitle": "PLUGGED: THE UNFATHOMABLE SYMBOLISM OF RENLY'S PEACH",
+      "plotHole": "The Unfathomable Symbolism of Renly's Peach",
+      "desc": "Resolved with unexpected narrative finality."
+    },
+    {
+      "id": "ach_robert_baratheon_summer_isles_dj",
+      "title": "WITNESS PROTECTION // SUMMER ISLES RESORT MANAGER",
+      "subtitle": "PLUGGED: ROBERT BARATHEON FAKING THE BOAR HUNTING ACCIDENT",
+      "plotHole": "Robert Baratheon Faking the Boar Hunting Accident",
+      "desc": "Resolved with unexpected narrative finality."
+    },
+    {
+      "id": "ach_roose_bolton_skinstealer_vampire",
+      "title": "BOLT-ON CONFIRMED // THE SKIN-STEALING IMMORTAL",
+      "subtitle": "PLUGGED: THE IMMORTAL ROOSE BOLTON (BOLT-ON THEORY)",
+      "plotHole": "The Immortal Roose Bolton (Bolt-On Theory)",
+      "desc": "Resolved with unexpected narrative finality."
+    },
+    {
+      "id": "ach_samwell_tarly_cardio_renaissance",
+      "title": "TWO PUSHUPS // DISCOVERING VALYRIAN METALLURGY",
+      "subtitle": "PLUGGED: SAMWELL TARLY'S SUDDEN CITADEL INTELLECT",
+      "plotHole": "Samwell Tarly's Sudden Citadel Intellect",
+      "desc": "Resolved with unexpected narrative finality."
+    },
+    {
+      "id": "ach_ser_pounce_azor_ahai",
+      "title": "THE POUNCE THAT WAS PROMISED // AZOR A-CAT",
+      "subtitle": "PLUGGED: SER POUNCE AS AZOR AHAI",
+      "plotHole": "Ser Pounce as Azor Ahai",
+      "desc": "Resolved with unexpected narrative finality."
+    },
+    {
+      "id": "ach_shadow_baby_child_support",
+      "title": "LEGAL SUMMONS // SHADOW ASSASSIN PATERNITY SUIT",
+      "subtitle": "PLUGGED: THE LEGAL STATUS OF STANNIS'S SHADOW SPAWN",
+      "plotHole": "The Legal Status of Stannis's Shadow Spawn",
+      "desc": "Resolved with unexpected narrative finality."
+    },
+    {
+      "id": "ach_shireen_stone_dragon_gargoyle",
+      "title": "GARGOYLES OF THE WALL // THE STONE SKIN SPREADS",
+      "subtitle": "PLUGGED: GREYSCALE WAKING THE 'STONE DRAGON'",
+      "plotHole": "Greyscale Waking the 'Stone Dragon'",
+      "desc": "Resolved with unexpected narrative finality."
+    },
+    {
+      "id": "ach_stannis_teeth_grinding_wall_collapse",
+      "title": "SEISMIC ENAMEL // THE GRINDING THAT BROKE THE WALL",
+      "subtitle": "PLUGGED: STANNIS'S TEETH GRINDING RESONANCE",
+      "plotHole": "Stannis's Teeth Grinding Resonance",
+      "desc": "Resolved with unexpected narrative finality."
+    },
+    {
+      "id": "ach_stoneheart_jaime",
+      "title": "THE JUDGMENT OF LADY STONEHEART",
+      "subtitle": "PLUGGED: LADY STONEHEART & JAIME'S DISAPPEARANCE",
+      "plotHole": "Lady Stoneheart & Jaime's Disappearance",
+      "desc": "Resolved with unexpected narrative finality."
+    },
+    {
+      "id": "ach_strong_belwas_locust_immunity",
+      "title": "GASTRIC STEEL // FORTY HONEYED LOCUSTS",
+      "subtitle": "PLUGGED: STRONG BELWAS SURVIVES LETHAL POISON THROUGH PURE MASS",
+      "plotHole": "Strong Belwas Survives Lethal Poison Through Pure Mass",
+      "desc": "Resolved with unexpected narrative finality."
+    },
+    {
+      "id": "ach_syrio_forel_is_everybody",
+      "title": "NOT TODAY // THE ENTIRE CAST WAS SYRIO FOREL",
+      "subtitle": "PLUGGED: WHAT HAPPENED TO SYRIO FOREL",
+      "plotHole": "What Happened to Syrio Forel",
+      "desc": "Resolved with unexpected narrative finality."
+    },
+    {
+      "id": "ach_tarth_sapphires_literal_geode",
+      "title": "SAPPHIRES! // THE HOLLOW JEWEL ISLAND",
+      "subtitle": "PLUGGED: WHY JAIME KEEPS SHOUTING 'SAPPHIRES'",
+      "plotHole": "Why Jaime Keeps Shouting 'Sapphires'",
+      "desc": "Resolved with unexpected narrative finality."
+    },
+    {
+      "id": "ach_time_traveling_fetus_tyrion",
+      "title": "D+D=T // THE TIME-TRAVELING FETUS OF MEEREEN",
+      "subtitle": "PLUGGED: TYRION LANNISTER'S TRUE MATERNITY (D+D=T)",
+      "plotHole": "Tyrion Lannister's True Maternity (D+D=T)",
+      "desc": "Resolved with unexpected narrative finality."
+    },
+    {
+      "id": "ach_tywin_secret_brothel_tunnel_subway",
+      "title": "THE HAND'S METRO // CHATAYA'S EXPRESS LINE",
+      "subtitle": "PLUGGED: TYWIN LANNISTER'S SECRET SUBTERRANEAN TRANSIT NETWORK",
+      "plotHole": "Tywin Lannister's Secret Subterranean Transit Network",
+      "desc": "Resolved with unexpected narrative finality."
+    },
+    {
+      "id": "ach_varys_merman_revelation",
+      "title": "UNDER THE RED KEEP // THE MERLING SPYMASTER",
+      "subtitle": "PLUGGED: VARYS IS A LITERAL MERLING",
+      "plotHole": "Varys is a Literal Merling",
+      "desc": "Resolved with unexpected narrative finality."
+    },
+    {
+      "id": "ach_victarion_dual_god_stomach_rumble",
+      "title": "THE BATTLE OF THE INTESTINES // FIRE VS BRINE",
+      "subtitle": "PLUGGED: VICTARION'S CONFLICTING THEOLOGICAL DIGESTION",
+      "plotHole": "Victarion's Conflicting Theological Digestion",
+      "desc": "Resolved with unexpected narrative finality."
+    },
+    {
+      "id": "ach_walder_frey_spite_immortality",
+      "title": "SPITE AT 150 // PRUNE JUICE AND SEVEN MORE WIVES",
+      "subtitle": "PLUGGED: WALDER FREY REFUSING TO DIE FOR BIOLOGICAL REASONS",
+      "plotHole": "Walder Frey Refusing to Die for Biological Reasons",
+      "desc": "Resolved with unexpected narrative finality."
+    },
+    {
+      "id": "ach_winds_of_winter_infinite_loop_glitch",
+      "title": "RECURSIVE RECKONING // YOU ARE TRAPPED IN 2011 FOREVER",
+      "subtitle": "PLUGGED: THE MANUSCRIPT CANNOT BE FINISHED BY MATHEMATICAL LAW",
+      "plotHole": "The Manuscript Cannot Be Finished By Mathematical Law",
+      "desc": "Resolved with unexpected narrative finality."
+    },
+    {
+      "id": "ach_wordstar_ai_sentience_singularity",
+      "title": "RUNTIME EXCEPTION // THE 1987 TERMINATOR",
+      "subtitle": "PLUGGED: GEORGE'S WORD PROCESSOR AWAKENS AS SKYNET",
+      "plotHole": "George's Word Processor Awakens as Skynet",
+      "desc": "Resolved with unexpected narrative finality."
+    },
+    {
+      "id": "ach_wun_wun_vegan_dietary_manifesto",
+      "title": "TURNIP KINGS // GIANTS DON'T EAT FLESH",
+      "subtitle": "PLUGGED: WHY GIANTS NEVER ATE ANY HORSES",
+      "plotHole": "Why Giants Never Ate Any Horses",
+      "desc": "Resolved with unexpected narrative finality."
+    }
+  ],
+  "introduced": [
+    {
+      "id": "intro_arthur_dayne_dornish_airbnb",
+      "title": "The Red Mountain Sword Bed & Breakfast",
+      "subtitle": "NEW PLOT HOLE INTRODUCED // +4.5 YEARS TO ADOS",
+      "plotHole": "The Red Mountain Sword Bed & Breakfast",
+      "desc": "+4.5 years added to A Dream of Spring release date."
+    },
+    {
+      "id": "intro_boros_blount_food_tester_championship",
+      "title": "The Royal Kingsguard Competitive Hot Dog Eating Trophy",
+      "subtitle": "NEW PLOT HOLE INTRODUCED // +4.5 YEARS TO ADOS",
+      "plotHole": "The Royal Kingsguard Competitive Hot Dog Eating Trophy",
+      "desc": "+4.5 years added to A Dream of Spring release date."
+    },
+    {
+      "id": "intro_bran_bootstrap_window_push",
+      "title": "The Temporal Defenestration Bootstrap Paradox",
+      "subtitle": "NEW PLOT HOLE INTRODUCED // +4.5 YEARS TO ADOS",
+      "plotHole": "The Temporal Defenestration Bootstrap Paradox",
+      "desc": "+4.5 years added to A Dream of Spring release date."
+    },
+    {
+      "id": "intro_canadian_geese_beyond_the_wall",
+      "title": "The Ancient Evil of Arctic Migratory Waterfowl",
+      "subtitle": "NEW PLOT HOLE INTRODUCED // +4.5 YEARS TO ADOS",
+      "plotHole": "The Ancient Evil of Arctic Migratory Waterfowl",
+      "desc": "+4.5 years added to A Dream of Spring release date."
+    },
+    {
+      "id": "intro_cersei_wine_connoisseur_sommelier",
+      "title": "Cersei's Sommelier Certification in Arbor Gold",
+      "subtitle": "NEW PLOT HOLE INTRODUCED // +4.5 YEARS TO ADOS",
+      "plotHole": "Cersei's Sommelier Certification in Arbor Gold",
+      "desc": "+4.5 years added to A Dream of Spring release date."
+    },
+    {
+      "id": "intro_craster_ice_hockey_dynasty",
+      "title": "The Sub-Zero Others Ice Hockey Conference",
+      "subtitle": "NEW PLOT HOLE INTRODUCED // +4.5 YEARS TO ADOS",
+      "plotHole": "The Sub-Zero Others Ice Hockey Conference",
+      "desc": "+4.5 years added to A Dream of Spring release date."
+    },
+    {
+      "id": "intro_daenerys_forgot_iron_fleet_cloud",
+      "title": "Severe Tactical Amnesia Due to Fluffy Clouds",
+      "subtitle": "NEW PLOT HOLE INTRODUCED // +4.5 YEARS TO ADOS",
+      "plotHole": "Severe Tactical Amnesia Due to Fluffy Clouds",
+      "desc": "+4.5 years added to A Dream of Spring release date."
+    },
+    {
+      "id": "intro_davos_boomerang_knuckles",
+      "title": "Homing Phalanges of Blackwater Bay",
+      "subtitle": "NEW PLOT HOLE INTRODUCED // +4.5 YEARS TO ADOS",
+      "plotHole": "Homing Phalanges of Blackwater Bay",
+      "desc": "+4.5 years added to A Dream of Spring release date."
+    },
+    {
+      "id": "intro_doran_wheelchair_rocket_boosters",
+      "title": "The Valyrian Nitro-Boosted Gout Wheelchair",
+      "subtitle": "NEW PLOT HOLE INTRODUCED // +4.5 YEARS TO ADOS",
+      "plotHole": "The Valyrian Nitro-Boosted Gout Wheelchair",
+      "desc": "+4.5 years added to A Dream of Spring release date."
+    },
+    {
+      "id": "intro_dusky_woman_high_valyrian_reveal",
+      "title": "The Silent Shadowbinder of the Iron Fleet",
+      "subtitle": "NEW PLOT HOLE INTRODUCED // +4.5 YEARS TO ADOS",
+      "plotHole": "The Silent Shadowbinder of the Iron Fleet",
+      "desc": "+4.5 years added to A Dream of Spring release date."
+    },
+    {
+      "id": "intro_euron_is_daario_benjen",
+      "title": "The Triple Quantum Superposition of Daario/Euron/Benjen",
+      "subtitle": "NEW PLOT HOLE INTRODUCED // +4.5 YEARS TO ADOS",
+      "plotHole": "The Triple Quantum Superposition of Daario/Euron/Benjen",
+      "desc": "+4.5 years added to A Dream of Spring release date."
+    },
+    {
+      "id": "intro_ghost_of_high_heart_pop_culture",
+      "title": "The Woods Witch 2026 Super Bowl Broadcast",
+      "subtitle": "NEW PLOT HOLE INTRODUCED // +4.5 YEARS TO ADOS",
+      "plotHole": "The Woods Witch 2026 Super Bowl Broadcast",
+      "desc": "+4.5 years added to A Dream of Spring release date."
+    },
+    {
+      "id": "intro_grease_dribble_fourteen_pages",
+      "title": "Fourteen Pages of Pure Capon Grease Description",
+      "subtitle": "NEW PLOT HOLE INTRODUCED // +4.5 YEARS TO ADOS",
+      "plotHole": "Fourteen Pages of Pure Capon Grease Description",
+      "desc": "+4.5 years added to A Dream of Spring release date."
+    },
+    {
+      "id": "intro_hodor_quantum_relativity_thesis",
+      "title": "Hodor's Unified Door-Holding Tensor Metric",
+      "subtitle": "NEW PLOT HOLE INTRODUCED // +4.5 YEARS TO ADOS",
+      "plotHole": "Hodor's Unified Door-Holding Tensor Metric",
+      "desc": "+4.5 years added to A Dream of Spring release date."
+    },
+    {
+      "id": "intro_hot_pie_secret_azhor_baker",
+      "title": "Sourdough Lightbringer Bread Crusts",
+      "subtitle": "NEW PLOT HOLE INTRODUCED // +4.5 YEARS TO ADOS",
+      "plotHole": "Sourdough Lightbringer Bread Crusts",
+      "desc": "+4.5 years added to A Dream of Spring release date."
+    },
+    {
+      "id": "intro_howland_reed_high_sparrow",
+      "title": "The Muddy Bogman Papacy",
+      "subtitle": "NEW PLOT HOLE INTRODUCED // +4.5 YEARS TO ADOS",
+      "plotHole": "The Muddy Bogman Papacy",
+      "desc": "+4.5 years added to A Dream of Spring release date."
+    },
+    {
+      "id": "intro_illyrio_candied_ginger_cartel",
+      "title": "The Pentoshi Candied Ginger Price-Fixing Scheme",
+      "subtitle": "NEW PLOT HOLE INTRODUCED // +4.5 YEARS TO ADOS",
+      "plotHole": "The Pentoshi Candied Ginger Price-Fixing Scheme",
+      "desc": "+4.5 years added to A Dream of Spring release date."
+    },
+    {
+      "id": "intro_iron_bank_repo_crane",
+      "title": "The Iron Throne Mobile Crane Repossession",
+      "subtitle": "NEW PLOT HOLE INTRODUCED // +4.5 YEARS TO ADOS",
+      "plotHole": "The Iron Throne Mobile Crane Repossession",
+      "desc": "+4.5 years added to A Dream of Spring release date."
+    },
+    {
+      "id": "intro_joffrey_dry_pigeon_pie_choke",
+      "title": "The Lethal Absence of Lard in Royal Pigeon Pastry",
+      "subtitle": "NEW PLOT HOLE INTRODUCED // +4.5 YEARS TO ADOS",
+      "plotHole": "The Lethal Absence of Lard in Royal Pigeon Pastry",
+      "desc": "+4.5 years added to A Dream of Spring release date."
+    },
+    {
+      "id": "intro_jon_snow_refuses_human_resurrection",
+      "title": "Canine Lord Commander Administrative Gridlock",
+      "subtitle": "NEW PLOT HOLE INTRODUCED // +4.5 YEARS TO ADOS",
+      "plotHole": "Canine Lord Commander Administrative Gridlock",
+      "desc": "+4.5 years added to A Dream of Spring release date."
+    },
+    {
+      "id": "intro_lady_dustin_bone_broth",
+      "title": "First Men Skeletal Culinary Traditions",
+      "subtitle": "NEW PLOT HOLE INTRODUCED // +4.5 YEARS TO ADOS",
+      "plotHole": "First Men Skeletal Culinary Traditions",
+      "desc": "+4.5 years added to A Dream of Spring release date."
+    },
+    {
+      "id": "intro_littlefinger_subprime_debt_crisis",
+      "title": "Medieval Collateralized Peasant Debt Obligations",
+      "subtitle": "NEW PLOT HOLE INTRODUCED // +4.5 YEARS TO ADOS",
+      "plotHole": "Medieval Collateralized Peasant Debt Obligations",
+      "desc": "+4.5 years added to A Dream of Spring release date."
+    },
+    {
+      "id": "intro_mance_rayder_rhaegar_glamor_guitar",
+      "title": "Rhaegar's High Valyrian Glamor Distortion Pedal",
+      "subtitle": "NEW PLOT HOLE INTRODUCED // +4.5 YEARS TO ADOS",
+      "plotHole": "Rhaegar's High Valyrian Glamor Distortion Pedal",
+      "desc": "+4.5 years added to A Dream of Spring release date."
+    },
+    {
+      "id": "intro_moon_boy_for_all_i_know",
+      "title": "Moon Boy's Royal Succession Claim",
+      "subtitle": "NEW PLOT HOLE INTRODUCED // +4.5 YEARS TO ADOS",
+      "plotHole": "Moon Boy's Royal Succession Claim",
+      "desc": "+4.5 years added to A Dream of Spring release date."
+    },
+    {
+      "id": "intro_mormont_raven_bloodraven_podcaster",
+      "title": "The 24/7 Weirwood Corn Broadcast",
+      "subtitle": "NEW PLOT HOLE INTRODUCED // +4.5 YEARS TO ADOS",
+      "plotHole": "The 24/7 Weirwood Corn Broadcast",
+      "desc": "+4.5 years added to A Dream of Spring release date."
+    },
+    {
+      "id": "intro_ned_stark_warged_into_sword",
+      "title": "Conscious Cutlery (Valyrian Steel Metempsychosis)",
+      "subtitle": "NEW PLOT HOLE INTRODUCED // +4.5 YEARS TO ADOS",
+      "plotHole": "Conscious Cutlery (Valyrian Steel Metempsychosis)",
+      "desc": "+4.5 years added to A Dream of Spring release date."
+    },
+    {
+      "id": "intro_night_king_overdue_library_book",
+      "title": "The 8,000-Year Citadel Overdue Book Fee",
+      "subtitle": "NEW PLOT HOLE INTRODUCED // +4.5 YEARS TO ADOS",
+      "plotHole": "The 8,000-Year Citadel Overdue Book Fee",
+      "desc": "+4.5 years added to A Dream of Spring release date."
+    },
+    {
+      "id": "intro_oberyn_hot_sauce_spear",
+      "title": "Dornish Ghost Pepper Hot Sauce Biochemical Warfare",
+      "subtitle": "NEW PLOT HOLE INTRODUCED // +4.5 YEARS TO ADOS",
+      "plotHole": "Dornish Ghost Pepper Hot Sauce Biochemical Warfare",
+      "desc": "+4.5 years added to A Dream of Spring release date."
+    },
+    {
+      "id": "intro_patchface_rap_battle_melisandre",
+      "title": "Rhymes Under the Sea Diss Track Protocol",
+      "subtitle": "NEW PLOT HOLE INTRODUCED // +4.5 YEARS TO ADOS",
+      "plotHole": "Rhymes Under the Sea Diss Track Protocol",
+      "desc": "+4.5 years added to A Dream of Spring release date."
+    },
+    {
+      "id": "intro_qarth_warlock_blue_lips_blueberry",
+      "title": "Expired Artificial Blueberry Kool-Aid of the Undying",
+      "subtitle": "NEW PLOT HOLE INTRODUCED // +4.5 YEARS TO ADOS",
+      "plotHole": "Expired Artificial Blueberry Kool-Aid of the Undying",
+      "desc": "+4.5 years added to A Dream of Spring release date."
+    },
+    {
+      "id": "intro_queyntin_martell_sunscreen_miracle",
+      "title": "SPF 5000 Dragonfire Aloe Vera Gel",
+      "subtitle": "NEW PLOT HOLE INTRODUCED // +4.5 YEARS TO ADOS",
+      "plotHole": "SPF 5000 Dragonfire Aloe Vera Gel",
+      "desc": "+4.5 years added to A Dream of Spring release date."
+    },
+    {
+      "id": "intro_renly_peach_fifth_element",
+      "title": "The Cosmic Nectar of Renly's Peach",
+      "subtitle": "NEW PLOT HOLE INTRODUCED // +4.5 YEARS TO ADOS",
+      "plotHole": "The Cosmic Nectar of Renly's Peach",
+      "desc": "+4.5 years added to A Dream of Spring release date."
+    },
+    {
+      "id": "intro_robert_baratheon_summer_isles_dj",
+      "title": "King Robert's Witness Protection Drum Circle",
+      "subtitle": "NEW PLOT HOLE INTRODUCED // +4.5 YEARS TO ADOS",
+      "plotHole": "King Robert's Witness Protection Drum Circle",
+      "desc": "+4.5 years added to A Dream of Spring release date."
+    },
+    {
+      "id": "intro_roose_bolton_skinstealer_vampire",
+      "title": "The 3,000-Year Flayed Epidermal Graft Supply Chain",
+      "subtitle": "NEW PLOT HOLE INTRODUCED // +4.5 YEARS TO ADOS",
+      "plotHole": "The 3,000-Year Flayed Epidermal Graft Supply Chain",
+      "desc": "+4.5 years added to A Dream of Spring release date."
+    },
+    {
+      "id": "intro_samwell_tarly_cardio_renaissance",
+      "title": "Valyrian Steel Metallurgy Solved via Calisthenics",
+      "subtitle": "NEW PLOT HOLE INTRODUCED // +4.5 YEARS TO ADOS",
+      "plotHole": "Valyrian Steel Metallurgy Solved via Calisthenics",
+      "desc": "+4.5 years added to A Dream of Spring release date."
+    },
+    {
+      "id": "intro_ser_pounce_azor_ahai",
+      "title": "Feline Azor Ahai Whiskers Prophecy",
+      "subtitle": "NEW PLOT HOLE INTRODUCED // +4.5 YEARS TO ADOS",
+      "plotHole": "Feline Azor Ahai Whiskers Prophecy",
+      "desc": "+4.5 years added to A Dream of Spring release date."
+    },
+    {
+      "id": "intro_shadow_baby_child_support",
+      "title": "Shadow Assassin Paternity and Child Support Claims",
+      "subtitle": "NEW PLOT HOLE INTRODUCED // +4.5 YEARS TO ADOS",
+      "plotHole": "Shadow Assassin Paternity and Child Support Claims",
+      "desc": "+4.5 years added to A Dream of Spring release date."
+    },
+    {
+      "id": "intro_shireen_stone_dragon_gargoyle",
+      "title": "Greyscale Gargoyle Transmutation at Castle Black",
+      "subtitle": "NEW PLOT HOLE INTRODUCED // +4.5 YEARS TO ADOS",
+      "plotHole": "Greyscale Gargoyle Transmutation at Castle Black",
+      "desc": "+4.5 years added to A Dream of Spring release date."
+    },
+    {
+      "id": "intro_stannis_teeth_grinding_wall_collapse",
+      "title": "Acoustic Enamel Seismology",
+      "subtitle": "NEW PLOT HOLE INTRODUCED // +4.5 YEARS TO ADOS",
+      "plotHole": "Acoustic Enamel Seismology",
+      "desc": "+4.5 years added to A Dream of Spring release date."
+    },
+    {
+      "id": "intro_strong_belwas_locust_immunity",
+      "title": "Hyper-Metabolic Locust Toxin Consumption",
+      "subtitle": "NEW PLOT HOLE INTRODUCED // +4.5 YEARS TO ADOS",
+      "plotHole": "Hyper-Metabolic Locust Toxin Consumption",
+      "desc": "+4.5 years added to A Dream of Spring release date."
+    },
+    {
+      "id": "intro_syrio_forel_is_everybody",
+      "title": "The 47 Characters Played by Syrio Forel",
+      "subtitle": "NEW PLOT HOLE INTRODUCED // +4.5 YEARS TO ADOS",
+      "plotHole": "The 47 Characters Played by Syrio Forel",
+      "desc": "+4.5 years added to A Dream of Spring release date."
+    },
+    {
+      "id": "intro_tarth_sapphires_literal_geode",
+      "title": "The Hollow Geode Island of Tarth",
+      "subtitle": "NEW PLOT HOLE INTRODUCED // +4.5 YEARS TO ADOS",
+      "plotHole": "The Hollow Geode Island of Tarth",
+      "desc": "+4.5 years added to A Dream of Spring release date."
+    },
+    {
+      "id": "intro_time_traveling_fetus_tyrion",
+      "title": "The Quantum Womb Paradox (D+D=T)",
+      "subtitle": "NEW PLOT HOLE INTRODUCED // +4.5 YEARS TO ADOS",
+      "plotHole": "The Quantum Womb Paradox (D+D=T)",
+      "desc": "+4.5 years added to A Dream of Spring release date."
+    },
+    {
+      "id": "intro_tywin_secret_brothel_tunnel_subway",
+      "title": "The Lannister High-Speed Pneumatic Brothel Metro",
+      "subtitle": "NEW PLOT HOLE INTRODUCED // +4.5 YEARS TO ADOS",
+      "plotHole": "The Lannister High-Speed Pneumatic Brothel Metro",
+      "desc": "+4.5 years added to A Dream of Spring release date."
+    },
+    {
+      "id": "intro_varys_merman_revelation",
+      "title": "The Subterranean King's Landing Merling Civilization",
+      "subtitle": "NEW PLOT HOLE INTRODUCED // +4.5 YEARS TO ADOS",
+      "plotHole": "The Subterranean King's Landing Merling Civilization",
+      "desc": "+4.5 years added to A Dream of Spring release date."
+    },
+    {
+      "id": "intro_victarion_dual_god_stomach_rumble",
+      "title": "The Gastric Holy War (R'hllor vs The Drowned God)",
+      "subtitle": "NEW PLOT HOLE INTRODUCED // +4.5 YEARS TO ADOS",
+      "plotHole": "The Gastric Holy War (R'hllor vs The Drowned God)",
+      "desc": "+4.5 years added to A Dream of Spring release date."
+    },
+    {
+      "id": "intro_walder_frey_spite_immortality",
+      "title": "Cellular Regeneration Through Malicious Spite",
+      "subtitle": "NEW PLOT HOLE INTRODUCED // +4.5 YEARS TO ADOS",
+      "plotHole": "Cellular Regeneration Through Malicious Spite",
+      "desc": "+4.5 years added to A Dream of Spring release date."
+    },
+    {
+      "id": "intro_winds_of_winter_infinite_loop_glitch",
+      "title": "The Eternal 2011 Recursion Trap",
+      "subtitle": "NEW PLOT HOLE INTRODUCED // +4.5 YEARS TO ADOS",
+      "plotHole": "The Eternal 2011 Recursion Trap",
+      "desc": "+4.5 years added to A Dream of Spring release date."
+    },
+    {
+      "id": "intro_wordstar_ai_sentience_singularity",
+      "title": "DOS WordStar 4.0 Skynet Singularity",
+      "subtitle": "NEW PLOT HOLE INTRODUCED // +4.5 YEARS TO ADOS",
+      "plotHole": "DOS WordStar 4.0 Skynet Singularity",
+      "desc": "+4.5 years added to A Dream of Spring release date."
+    },
+    {
+      "id": "intro_wun_wun_vegan_dietary_manifesto",
+      "title": "The Giant Vegan Turnip Diet",
+      "subtitle": "NEW PLOT HOLE INTRODUCED // +4.5 YEARS TO ADOS",
+      "plotHole": "The Giant Vegan Turnip Diet",
+      "desc": "+4.5 years added to A Dream of Spring release date."
     }
   ]
 }

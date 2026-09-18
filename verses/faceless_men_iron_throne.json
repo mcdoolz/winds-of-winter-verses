@@ -14,5 +14,8 @@
       "text": "Set fire to the Red Keep's hidden wildfire passages.",
       "nextId": "kings_landing_burns"
     }
-  ]
+  ],
+  "prerequisites": [],
+  "mutuallyExclusiveWith": [],
+  "introducesPlotHole": null
 }

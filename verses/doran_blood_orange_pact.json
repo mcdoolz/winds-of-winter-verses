@@ -13,6 +13,15 @@
     {
       "text": "March on King's Landing with dragonfire.",
       "nextId": "kings_landing_burns"
+    },
+    {
+      "text": "The Gout Mobile: Doran Martell activates his 400-horsepower nitro-boosted wheelchair.",
+      "nextId": "doran_wheelchair_rocket_boosters",
+      "bonusAchievementId": "ach_rocket_wheelchair",
+      "introducesPlotHole": "The Valyrian Nitro-Boosted Gout Wheelchair"
     }
-  ]
+  ],
+  "prerequisites": [],
+  "mutuallyExclusiveWith": [],
+  "introducesPlotHole": null
 }

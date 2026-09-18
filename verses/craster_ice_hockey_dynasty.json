@@ -1,0 +1,25 @@
+{
+  "id": "craster_ice_hockey_dynasty",
+  "title": "THE SHIVERING LEAGUE // THE WHITE WALKERS PLAY DEFENSE",
+  "pov": "Craster's 99th Son",
+  "narrative": "Beyond the Wall in the Lands of Always Winter, Craster's ninety-nine blue-eyed sons lace up ice skate blades made of enchanted crystal dragonglass. 'Alright team!' the Night King rasps in screeching ice dialect. 'The Wall is our penalty box! We run a 1-3-1 neutral zone trap! We didn't march south to murder humanity\u2014we marched south because the Stanley Cup hasn't been contested in eight thousand years!'",
+  "resolvesPlotHole": "The Fate of Craster's 99 Sacrificed Sons",
+  "bonusAchievementId": "ach_ice_hockey_others",
+  "introducesPlotHole": "The Sub-Zero Others Ice Hockey Conference",
+  "prerequisites": [],
+  "mutuallyExclusiveWith": [],
+  "options": [
+    {
+      "text": "Face the Night King in sudden-death overtime single combat.",
+      "nextId": "duel_night_king_ending"
+    },
+    {
+      "text": "Return the Citadel's overdue library rulebook before game time.",
+      "nextId": "night_king_overdue_library_book"
+    },
+    {
+      "text": "Beware the aggressive Canadian geese nesting on the center ice.",
+      "nextId": "canadian_geese_beyond_the_wall"
+    }
+  ]
+}

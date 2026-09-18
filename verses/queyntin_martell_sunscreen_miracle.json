@@ -1,0 +1,27 @@
+{
+  "id": "queyntin_martell_sunscreen_miracle",
+  "title": "'OH.' // SPF 5000 DORNISH DRAGON OINTMENT",
+  "pov": "Quentyn Martell",
+  "narrative": "In the dragon pit beneath Meereen, Rhaegal exhales a column of thermonuclear hellfire directly onto Prince Quentyn. Quentyn looks down at his smoking clothes. His skin is moisturized and pleasantly tan. 'Oh,' he says again, this time in delight. 'Archmaester Marwyn's SPF 5000 Dornish dragon-ointment worked! The burnt corpse in Barristan's hospital was just a roasted tavern ham dressed in Martell armor!' Quentyn high-fives Viserion and takes an Uber dragon home.",
+  "resolvesPlotHole": "Quentyn Martell Faked His Charred Death",
+  "bonusAchievementId": "ach_quentyn_sunscreen",
+  "introducesPlotHole": "SPF 5000 Dragonfire Aloe Vera Gel",
+  "prerequisites": [],
+  "mutuallyExclusiveWith": [],
+  "options": [
+    {
+      "text": "Fly home to inspect Prince Doran's rocket-boosted wheelchair.",
+      "nextId": "doran_wheelchair_rocket_boosters",
+      "bonusAchievementId": "ach_rocket_wheelchair",
+      "introducesPlotHole": "The Valyrian Nitro-Boosted Gout Wheelchair"
+    },
+    {
+      "text": "Help Tyrion flip the Second Sons with cyvasse board bets.",
+      "nextId": "tyrion_cyvasse_turncoat"
+    },
+    {
+      "text": "Parley with Barristan and Victarion in the harbor.",
+      "nextId": "barristan_victarion_parley"
+    }
+  ]
+}

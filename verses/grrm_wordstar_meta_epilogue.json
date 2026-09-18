@@ -9,6 +9,27 @@
     {
       "text": "Draft the true story from the beginning once more.",
       "nextId": "root"
+    },
+    {
+      "text": "The WordStar Singularity: The 1987 DOS machine awakens as an AI and deletes chapters.",
+      "nextId": "wordstar_ai_sentience_singularity",
+      "bonusAchievementId": "ach_wordstar_skynet",
+      "introducesPlotHole": "DOS WordStar 4.0 Skynet Singularity"
+    },
+    {
+      "text": "Fourteen Pages of Capon Grease: Savor every drop of yellow drippings running down a lord's chin.",
+      "nextId": "grease_dribble_fourteen_pages",
+      "bonusAchievementId": "ach_fourteen_pages_grease",
+      "introducesPlotHole": "Fourteen Pages of Pure Capon Grease Description"
+    },
+    {
+      "text": "The 2011 Infinite Loop Glitch: Realize you have been trapped in the summer of 2011 for fifteen years.",
+      "nextId": "winds_of_winter_infinite_loop_glitch",
+      "bonusAchievementId": "ach_infinite_wait_glitch",
+      "introducesPlotHole": "The Eternal 2011 Recursion Trap"
     }
-  ]
+  ],
+  "prerequisites": [],
+  "mutuallyExclusiveWith": [],
+  "introducesPlotHole": null
 }

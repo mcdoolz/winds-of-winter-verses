@@ -14,5 +14,8 @@
       "text": "Search the greenseer timeline for the origin of the Others.",
       "nextId": "long_night_secret_ending"
     }
-  ]
+  ],
+  "prerequisites": [],
+  "mutuallyExclusiveWith": [],
+  "introducesPlotHole": null
 }

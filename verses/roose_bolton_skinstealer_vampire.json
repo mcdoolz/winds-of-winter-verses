@@ -1,0 +1,29 @@
+{
+  "id": "roose_bolton_skinstealer_vampire",
+  "title": "BOLT-ON CONFIRMED // THE SKIN-STEALING IMMORTAL",
+  "pov": "Roose Bolton",
+  "narrative": "In the Dreadfort solar, Roose Bolton slowly peels off his face like a damp chamois cloth. Beneath it is not flesh, but pale porcelain bone and icy blue eyes that have seen three thousand years. \"Ramsay thinks he is my son,\" Roose chuckles, dabbing leech juice onto his new epidermal graft. \"Every sixty years I flay my eldest boy and wear his skin to the harvest feast. The maesters never notice; they just write: 'The Lord of the Dreadfort remains remarkably youthful.'\"",
+  "resolvesPlotHole": "The Immortal Roose Bolton (Bolt-On Theory)",
+  "bonusAchievementId": "ach_bolton_vampire",
+  "introducesPlotHole": "The 3,000-Year Flayed Epidermal Graft Supply Chain",
+  "prerequisites": [],
+  "mutuallyExclusiveWith": [
+    "winterfell_siege_assault"
+  ],
+  "options": [
+    {
+      "text": "Serve the fresh skin-graft at Wyman Manderly's pie banquet.",
+      "nextId": "manderly_pie_reveal"
+    },
+    {
+      "text": "Accuse Ramsay of ruining the family complexion with poor skincare habits.",
+      "nextId": "stannis_trial_theon"
+    },
+    {
+      "text": "Travel through time to swap skins with the quantum fetus of Meereen.",
+      "nextId": "time_traveling_fetus_tyrion",
+      "bonusAchievementId": "ach_fetus_timetravel",
+      "introducesPlotHole": "The Quantum Womb Paradox (D+D=T)"
+    }
+  ]
+}

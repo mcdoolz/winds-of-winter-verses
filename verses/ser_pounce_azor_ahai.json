@@ -1,0 +1,29 @@
+{
+  "id": "ser_pounce_azor_ahai",
+  "title": "THE POUNCE THAT WAS PROMISED // AZOR A-CAT",
+  "pov": "Ser Pounce",
+  "narrative": "Tommen's black-and-tan kitten steps onto the Iron Throne. His whiskers twitch with ancient Valyrian fire. He plunges his tiny claw into a bowl of cream, drawing forth Lightbringer\u2014a glowing three-inch flaming needle of celestial heat. \"Meow,\" whispers the Prince That Was Promised. The Great Other trembles in the frozen north as Ser Pounce bats a burning ball of yarn across the Red Keep floors.",
+  "resolvesPlotHole": "Ser Pounce as Azor Ahai",
+  "bonusAchievementId": "ach_ser_pounce_hero",
+  "introducesPlotHole": "Feline Azor Ahai Whiskers Prophecy",
+  "prerequisites": [],
+  "mutuallyExclusiveWith": [
+    "kings_landing_burns"
+  ],
+  "options": [
+    {
+      "text": "Duel the Night King on the battlements using extreme zoomies.",
+      "nextId": "duel_night_king_ending"
+    },
+    {
+      "text": "Form an alliance with Hot Pie's divine sourdough bakery.",
+      "nextId": "hot_pie_secret_azhor_baker",
+      "bonusAchievementId": "ach_hot_pie_lightbringer",
+      "introducesPlotHole": "Sourdough Lightbringer Bread Crusts"
+    },
+    {
+      "text": "Claim the Iron Throne as feline sovereign of the Seven Kingdoms.",
+      "nextId": "claim_throne_ending"
+    }
+  ]
+}

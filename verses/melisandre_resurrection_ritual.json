@@ -18,6 +18,21 @@
       "text": "Listen to the drowned visions of Patchface: 'Under the sea, the birds have scales for feathers...'",
       "nextId": "patchface_prophecy_unlocked",
       "bonusAchievementId": "ach_jester_of_the_abyss"
+    },
+    {
+      "text": "Ghost says no: Jon Snow refuses human resurrection because Ghost gets free belly rubs and zero paperwork.",
+      "nextId": "jon_snow_refuses_human_resurrection",
+      "bonusAchievementId": "ach_good_boy_jon",
+      "introducesPlotHole": "Canine Lord Commander Administrative Gridlock"
+    },
+    {
+      "text": "The Shadow Child Support Lawsuit: Melisandre serves Stannis with an 18-year paternity summons.",
+      "nextId": "shadow_baby_child_support",
+      "bonusAchievementId": "ach_shadow_child_support",
+      "introducesPlotHole": "Shadow Assassin Paternity and Child Support Claims"
     }
-  ]
+  ],
+  "prerequisites": [],
+  "mutuallyExclusiveWith": [],
+  "introducesPlotHole": null
 }

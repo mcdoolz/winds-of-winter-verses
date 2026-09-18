@@ -1,0 +1,27 @@
+{
+  "id": "time_traveling_fetus_tyrion",
+  "title": "D+D=T // THE TIME-TRAVELING FETUS OF MEEREEN",
+  "pov": "Mirri Maz Duur",
+  "narrative": "Mirri Maz Duur draws a glowing quantum chalkboard inside the blood-magic tent. \"Listen closely, Daenerys! When Rhaego died in your womb, the blood magic did not kill him. It bent the space-time continuum backwards through a gravitational wormhole, depositing him forty years earlier into Joanna Lannister's uterus! You are not Tyrion's aunt\u2014you are his biological mother!\" Tyrion waddles in holding a goblet of Dornish red, blinking through his mismatched eyes. \"Well,\" he sighs. \"That explains why I like fire and have terrible parent issues.\"",
+  "resolvesPlotHole": "Tyrion Lannister's True Maternity (D+D=T)",
+  "bonusAchievementId": "ach_fetus_timetravel",
+  "introducesPlotHole": "The Quantum Womb Paradox (D+D=T)",
+  "prerequisites": [],
+  "mutuallyExclusiveWith": [],
+  "options": [
+    {
+      "text": "Build a dragon saddle capable of supersonic time-dilation.",
+      "nextId": "tyrion_dragon_tamer"
+    },
+    {
+      "text": "Confront Euron Greyjoy, who is simultaneously Daario Naharis and Benjen Stark.",
+      "nextId": "euron_is_daario_benjen",
+      "bonusAchievementId": "ach_triple_identity",
+      "introducesPlotHole": "The Triple Quantum Superposition of Daario/Euron/Benjen"
+    },
+    {
+      "text": "Flee this cosmic nightmare and reset reality at the Wall.",
+      "nextId": "root"
+    }
+  ]
+}

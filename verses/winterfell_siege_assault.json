@@ -14,5 +14,8 @@
       "text": "Send ravens to Castle Black declaring the North reunited.",
       "nextId": "king_north_ending"
     }
-  ]
+  ],
+  "prerequisites": [],
+  "mutuallyExclusiveWith": [],
+  "introducesPlotHole": null
 }

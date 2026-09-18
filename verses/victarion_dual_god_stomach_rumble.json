@@ -1,0 +1,27 @@
+{
+  "id": "victarion_dual_god_stomach_rumble",
+  "title": "THE BATTLE OF THE INTESTINES // FIRE VS BRINE",
+  "pov": "Victarion Greyjoy",
+  "narrative": "Victarion grips the rail of the Iron Victory, his smoking black arm throbbing. Inside his gastrointestinal tract, the red priest Moqorro's volcanic fire god and the Aeron Damphair's seawater baptism are waging a bloody turf war. 'The Drowned God says feast beneath the waves!' Victarion groans, clutching his belly. 'The Lord of Light says burn the heretics! My appendix has chosen R'hllor, but my colon remains staunchly Ironborn!'",
+  "resolvesPlotHole": "Victarion's Conflicting Theological Digestion",
+  "bonusAchievementId": "ach_theological_heartburn",
+  "introducesPlotHole": "The Gastric Holy War (R'hllor vs The Drowned God)",
+  "prerequisites": [],
+  "mutuallyExclusiveWith": [
+    "aeron_drowned_god_awakens"
+  ],
+  "options": [
+    {
+      "text": "Channel the abdominal combustion to ram into Slaver's Bay.",
+      "nextId": "victarion_iron_fleet_arrives"
+    },
+    {
+      "text": "Borrow Strong Belwas's honeyed locust digestive remedy.",
+      "nextId": "strong_belwas_locust_immunity"
+    },
+    {
+      "text": "Offer your heartburn as a blood sacrifice to Euron's sea monster.",
+      "nextId": "euron_blood_kraken_summon"
+    }
+  ]
+}

@@ -13,6 +13,15 @@
     {
       "text": "Send word to the Golden Company to coordinate a two-front strike.",
       "nextId": "faegon_blackfyre"
+    },
+    {
+      "text": "Tycho Nestoris brings the repo crane: The Iron Bank arrives to tow the Iron Throne.",
+      "nextId": "iron_bank_repo_crane",
+      "bonusAchievementId": "ach_repo_man_tycho",
+      "introducesPlotHole": "The Iron Throne Mobile Crane Repossession"
     }
-  ]
+  ],
+  "prerequisites": [],
+  "mutuallyExclusiveWith": [],
+  "introducesPlotHole": null
 }

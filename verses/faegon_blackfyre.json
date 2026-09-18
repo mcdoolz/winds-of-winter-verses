@@ -13,6 +13,21 @@
     {
       "text": "Unleash Drogon upon the Blackfyre pretenders and take the Iron Throne by right of conquest.",
       "nextId": "kings_landing_burns"
+    },
+    {
+      "text": "Illyrio's candied ginger racket: Illyrio confesses the dragons were for spice tax evasion.",
+      "nextId": "illyrio_candied_ginger_cartel",
+      "bonusAchievementId": "ach_ginger_cartel",
+      "introducesPlotHole": "The Pentoshi Candied Ginger Price-Fixing Scheme"
+    },
+    {
+      "text": "Moon Boy steps onto the Iron Throne: The court fool declares the Fool's Republic.",
+      "nextId": "moon_boy_for_all_i_know",
+      "bonusAchievementId": "ach_moon_boy_throne",
+      "introducesPlotHole": "Moon Boy's Royal Succession Claim"
     }
-  ]
+  ],
+  "prerequisites": [],
+  "mutuallyExclusiveWith": [],
+  "introducesPlotHole": null
 }

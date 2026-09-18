@@ -1,0 +1,29 @@
+{
+  "id": "jon_snow_refuses_human_resurrection",
+  "title": "BARK COMMANDER // REFUSING TO LEAVE THE DOG",
+  "pov": "Ghost (Jon Snow)",
+  "narrative": "Melisandre chants by the funeral pyre: 'Arise, Jon Snow! Take up your sword!' Inside Ghost's albino direwolf body, Jon Snow yawns, stretches four furry legs, and rolls onto his back for a belly rub. 'Return to a freezing corpse with stab wounds and five hundred letters from Karstarks about winter rations? Absolutely not. Here I get raw venison, zero Night's Watch administrative committees, and nobody stabs me for treason.' He lets out a content woof and falls asleep.",
+  "resolvesPlotHole": "Jon Snow Prefers Being Ghost Over Doing Paperwork",
+  "bonusAchievementId": "ach_good_boy_jon",
+  "introducesPlotHole": "Canine Lord Commander Administrative Gridlock",
+  "prerequisites": [],
+  "mutuallyExclusiveWith": [
+    "king_north_ending"
+  ],
+  "options": [
+    {
+      "text": "Melisandre begs him with more kingsblood sausages.",
+      "nextId": "melisandre_resurrection_ritual"
+    },
+    {
+      "text": "Troop down to Skagos to form an all-wolf boyband with Shaggydog.",
+      "nextId": "rickon_stark_retrieved"
+    },
+    {
+      "text": "Lead the White Walker ice hockey defense line.",
+      "nextId": "craster_ice_hockey_dynasty",
+      "bonusAchievementId": "ach_ice_hockey_others",
+      "introducesPlotHole": "The Sub-Zero Others Ice Hockey Conference"
+    }
+  ]
+}

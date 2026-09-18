@@ -1,0 +1,27 @@
+{
+  "id": "iron_bank_repo_crane",
+  "title": "ASSET RECOVERY // TOWING THE IRON THRONE",
+  "pov": "Tycho Nestoris",
+  "narrative": "Tycho Nestoris stands in the Great Hall of the Red Keep with a team of Braavosi repo contractors and a hydraulic diesel-powered flatbed crane. 'Your Grace,' Tycho announces to Cersei. 'House Lannister has missed 142 consecutive monthly debt service payments on the Crown's treasury bonds. We are repossessing the Iron Throne, the Valyrian steel crown, and the gilded tapestries. You have 30 days to settle the outstanding balance of 6 million gold dragons or the throne will be auctioned on Braavosi eBay.'",
+  "resolvesPlotHole": "The Iron Bank Literally Foreclosing on King's Landing",
+  "bonusAchievementId": "ach_repo_man_tycho",
+  "introducesPlotHole": "The Iron Throne Mobile Crane Repossession",
+  "prerequisites": [],
+  "mutuallyExclusiveWith": [
+    "melt_throne_ending"
+  ],
+  "options": [
+    {
+      "text": "Sign the loan agreement with Stannis in the blizzard instead.",
+      "nextId": "braavosi_banker_deal"
+    },
+    {
+      "text": "Invest in Littlefinger's subprime peasant mortgage securities.",
+      "nextId": "littlefinger_subprime_debt_crisis"
+    },
+    {
+      "text": "Sit on the bare stone floor and claim the realm anyway.",
+      "nextId": "claim_throne_ending"
+    }
+  ]
+}

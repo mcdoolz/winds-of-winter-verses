@@ -28,6 +28,21 @@
       "text": "Melisandre of Asshai: Gaze into the flames at Castle Black and whisper the words of R'hllor over Jon.",
       "nextId": "melisandre_resurrection_ritual",
       "bonusAchievementId": "ach_resurrection_flame"
+    },
+    {
+      "text": "The High Sparrow revealed: Howland Reed admits he just threw on a muddy burlap sack to troll Cersei.",
+      "nextId": "howland_reed_high_sparrow",
+      "bonusAchievementId": "ach_sparrow_bogman",
+      "introducesPlotHole": "The Muddy Bogman Papacy"
+    },
+    {
+      "text": "Ser Arthur Dayne is alive: Visit the Sword of the Morning at his Red Mountain bed-and-breakfast.",
+      "nextId": "arthur_dayne_dornish_airbnb",
+      "bonusAchievementId": "ach_arthur_dayne_host",
+      "introducesPlotHole": "The Red Mountain Sword Bed & Breakfast"
     }
-  ]
+  ],
+  "prerequisites": [],
+  "mutuallyExclusiveWith": [],
+  "introducesPlotHole": null
 }

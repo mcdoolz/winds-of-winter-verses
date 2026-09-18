@@ -1,0 +1,29 @@
+{
+  "id": "littlefinger_subprime_debt_crisis",
+  "title": "CITADEL WALL STREET // SUBPRIME COLLATERALIZED PEASANT DEBT",
+  "pov": "Petyr Baelish",
+  "narrative": "In his solar in the Eyrie, Littlefinger unfolds a 20-foot parchment ledger with derivative yield curves. 'The Lords of Westeros thought I borrowed gold from the Iron Bank,' he smirks. 'Child's play! I bundled ten thousand goat mortgages from the Riverlands into triple-A rated collateralized debt obligations, sold them short to the Faith of the Seven, and bought credit default swaps on the Iron Throne's solvency! By autumn, Westeros will experience the first liquidity freeze in medieval history!'",
+  "resolvesPlotHole": "Littlefinger's Impossible Medieval Embezzlement",
+  "bonusAchievementId": "ach_subprime_baelish",
+  "introducesPlotHole": "Medieval Collateralized Peasant Debt Obligations",
+  "prerequisites": [],
+  "mutuallyExclusiveWith": [
+    "sansa_outplays_littlefinger"
+  ],
+  "options": [
+    {
+      "text": "Sell the distressed debt to Tycho Nestoris in the blizzard.",
+      "nextId": "braavosi_banker_deal"
+    },
+    {
+      "text": "Watch the Iron Bank arrive with a repossession crane for the throne.",
+      "nextId": "iron_bank_repo_crane",
+      "bonusAchievementId": "ach_repo_man_tycho",
+      "introducesPlotHole": "The Iron Throne Mobile Crane Repossession"
+    },
+    {
+      "text": "Have Sansa audit your tax returns and seize the Eyrie.",
+      "nextId": "sansa_outplays_littlefinger"
+    }
+  ]
+}

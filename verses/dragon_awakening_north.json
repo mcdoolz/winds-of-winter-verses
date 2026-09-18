@@ -14,5 +14,8 @@
       "text": "Fly North to the Wall to face the Night King in single combat.",
       "nextId": "duel_night_king_ending"
     }
-  ]
+  ],
+  "prerequisites": [],
+  "mutuallyExclusiveWith": [],
+  "introducesPlotHole": null
 }

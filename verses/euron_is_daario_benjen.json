@@ -1,0 +1,29 @@
+{
+  "id": "euron_is_daario_benjen",
+  "title": "THE TRIPLE IDENTITY CRISIS // BLUE BEARD, EYE PATCH, FROSTBITE",
+  "pov": "Daario Naharis",
+  "narrative": "Daario pulls off his blue trident-dyed beard to reveal Euron's smiling crow's eye patch. Then he pulls off the eyepatch to reveal Benjen Stark's frostbitten Northern scowl. \"Have you ever seen the three of us in the same room?\" he laughs maniacally, switching hats at 400 frames per second. \"I seduce Daenerys on Mondays, raid the Reach on Wednesdays, and freeze beyond the Wall on the weekend! My commute on the Iron Fleet is a logistical miracle!\"",
+  "resolvesPlotHole": "Euron = Daario = Benjen = The Dusky Woman",
+  "bonusAchievementId": "ach_triple_identity",
+  "introducesPlotHole": "The Triple Quantum Superposition of Daario/Euron/Benjen",
+  "prerequisites": [],
+  "mutuallyExclusiveWith": [
+    "aeron_drowned_god_awakens"
+  ],
+  "options": [
+    {
+      "text": "Ask the Dusky Woman to confirm this in fluent High Valyrian.",
+      "nextId": "dusky_woman_high_valyrian_reveal",
+      "bonusAchievementId": "ach_dusky_speaks",
+      "introducesPlotHole": "The Silent Shadowbinder of the Iron Fleet"
+    },
+    {
+      "text": "Tie yourself to the prow of Silence for an existential crisis.",
+      "nextId": "the_forsaken_prow"
+    },
+    {
+      "text": "Flee to Braavos to watch Arya's mummery theatre instead.",
+      "nextId": "arya_mercy_theatre"
+    }
+  ]
+}

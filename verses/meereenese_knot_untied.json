@@ -28,6 +28,21 @@
       "text": "Ser Barristan Selmy: Lead the city garrison through the bronze gates to break the Yunkish lines.",
       "nextId": "barristan_battle_of_fire",
       "bonusAchievementId": "ach_bold_barristan_charge"
+    },
+    {
+      "text": "Daenerys kind of forgets: Dany flies through a bunny cloud and forgets the ironborn fleet below.",
+      "nextId": "daenerys_forgot_iron_fleet_cloud",
+      "bonusAchievementId": "ach_kind_of_forgot",
+      "introducesPlotHole": "Severe Tactical Amnesia Due to Fluffy Clouds"
+    },
+    {
+      "text": "Shade of the Evening snack bar: Pyat Pree mixes artificial Blueberry Kool-Aid powder.",
+      "nextId": "qarth_warlock_blue_lips_blueberry",
+      "bonusAchievementId": "ach_blueberry_warlock",
+      "introducesPlotHole": "Expired Artificial Blueberry Kool-Aid of the Undying"
     }
-  ]
+  ],
+  "prerequisites": [],
+  "mutuallyExclusiveWith": [],
+  "introducesPlotHole": null
 }

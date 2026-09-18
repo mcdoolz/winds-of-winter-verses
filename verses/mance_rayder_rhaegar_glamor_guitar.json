@@ -1,0 +1,25 @@
+{
+  "id": "mance_rayder_rhaegar_glamor_guitar",
+  "title": "THE ROCK OPERA // RHAEGAR'S DISTORTION PEDAL",
+  "pov": "Mance Rayder",
+  "narrative": "In the Great Hall of Winterfell, Abel the singer tunes his silver-stringed harp. He stomps on a secret hollow stone in the hearth. A primitive acoustic distortion amplifier hums to life. He strikes an electric E-minor chord that rattles the rafters. 'You thought Rhaegar died at the Trident?' he roars, tossing his silver-blonde glamor into the crowd. 'Westeros wasn't ready for progressive metal! The Song of Ice and Fire was an 18-minute concept album with a seven-minute drum solo!'",
+  "resolvesPlotHole": "Mance Rayder is Rhaegar Targaryen Theory",
+  "bonusAchievementId": "ach_rhaegar_rockstar",
+  "introducesPlotHole": "Rhaegar's High Valyrian Glamor Distortion Pedal",
+  "prerequisites": [],
+  "mutuallyExclusiveWith": [],
+  "options": [
+    {
+      "text": "Reveal the identity of the singer to the Freys before the pie feast.",
+      "nextId": "mance_bard_reveal"
+    },
+    {
+      "text": "Search the crypts for the original studio master tapes.",
+      "nextId": "crypts_of_winterfell_secrets"
+    },
+    {
+      "text": "Collaborate with Patchface on an undersea rock opera.",
+      "nextId": "patchface_rap_battle_melisandre"
+    }
+  ]
+}

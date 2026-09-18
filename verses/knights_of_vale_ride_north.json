@@ -14,5 +14,8 @@
       "text": "CROWN the rightful heir in the Great Hall of Winterfell.",
       "nextId": "north_united_ending"
     }
-  ]
+  ],
+  "prerequisites": [],
+  "mutuallyExclusiveWith": [],
+  "introducesPlotHole": null
 }

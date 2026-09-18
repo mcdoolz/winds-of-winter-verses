@@ -13,6 +13,15 @@
     {
       "text": "Muster the Riverlords alongside the Blackfish.",
       "nextId": "northern_muster_ending"
+    },
+    {
+      "text": "The Subprime Peasant Debt Crisis: Littlefinger reveals he shorted the Iron Throne with derivative swaps.",
+      "nextId": "littlefinger_subprime_debt_crisis",
+      "bonusAchievementId": "ach_subprime_baelish",
+      "introducesPlotHole": "Medieval Collateralized Peasant Debt Obligations"
     }
-  ]
+  ],
+  "prerequisites": [],
+  "mutuallyExclusiveWith": [],
+  "introducesPlotHole": null
 }

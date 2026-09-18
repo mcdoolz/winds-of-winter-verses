@@ -1,0 +1,25 @@
+{
+  "id": "patchface_rap_battle_melisandre",
+  "title": "BARS BENEATH THE WAVES // DISS TRACK FOR THE RED GOD",
+  "pov": "Patchface",
+  "narrative": "Patchface jumps onto the courtyard well at Castle Black, rotating his tattooed cap. 'Under the sea, the flames burn cold / Your Red God's a fraud who is ten years old! / The crows eat shadows, the shadows eat king / But the drowned merman got the heaviest bling! / I know, I know, oh oh oh!' Melisandre drops her ruby choker in shock. 'His rhymes... they possess greater prophetic cadence than the sacred scrolls of Asshai!'",
+  "resolvesPlotHole": "Patchface Out-Prophesying Melisandre in Rhyme",
+  "bonusAchievementId": "ach_undersea_rap_god",
+  "introducesPlotHole": "Rhymes Under the Sea Diss Track Protocol",
+  "prerequisites": [],
+  "mutuallyExclusiveWith": [],
+  "options": [
+    {
+      "text": "Decipher the rest of the under-the-sea prophecies.",
+      "nextId": "patchface_prophecy_unlocked"
+    },
+    {
+      "text": "Recruit Lord Varys for a merling rap duo in the capital.",
+      "nextId": "varys_merman_revelation"
+    },
+    {
+      "text": "Have Melisandre resurrect Jon Snow as a backup singer.",
+      "nextId": "melisandre_resurrection_ritual"
+    }
+  ]
+}

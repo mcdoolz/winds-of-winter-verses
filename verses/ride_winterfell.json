@@ -28,6 +28,15 @@
       "text": "Descend into the crypts: search for the hidden dragon eggs of Vermax beneath the tombs.",
       "nextId": "crypts_of_winterfell_secrets",
       "bonusAchievementId": "ach_harp_of_rhaegar"
+    },
+    {
+      "text": "Wun Wun's vegan manifesto: The giant explains why he only eats four-pound turnips.",
+      "nextId": "wun_wun_vegan_dietary_manifesto",
+      "bonusAchievementId": "ach_wun_wun_vegan",
+      "introducesPlotHole": "The Giant Vegan Turnip Diet"
     }
-  ]
+  ],
+  "prerequisites": [],
+  "mutuallyExclusiveWith": [],
+  "introducesPlotHole": null
 }

@@ -14,5 +14,8 @@
       "text": "Raid the Arbor and Oldtown with the newly captured dragon.",
       "nextId": "kraken_arbor_ending"
     }
-  ]
+  ],
+  "prerequisites": [],
+  "mutuallyExclusiveWith": [],
+  "introducesPlotHole": null
 }

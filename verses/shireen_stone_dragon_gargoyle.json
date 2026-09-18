@@ -1,0 +1,25 @@
+{
+  "id": "shireen_stone_dragon_gargoyle",
+  "title": "GARGOYLES OF THE WALL // THE STONE SKIN SPREADS",
+  "pov": "Shireen Baratheon",
+  "narrative": "Princess Shireen touches the ancient stone battlements of Castle Black. Her gray cheek glows with a subterranean basalt warmth. 'The red woman thought wake the dragon from stone meant burning me!' Shireen laughs. 'It meant my greyscale is contagious to masonry!' Around the courtyard, seventy carved gargoyles snap their granite wings, flap into the snowy sky, and begin strafing the Wildling camps with decorative downspouts.",
+  "resolvesPlotHole": "Greyscale Waking the 'Stone Dragon'",
+  "bonusAchievementId": "ach_gargoyle_queen",
+  "introducesPlotHole": "Greyscale Gargoyle Transmutation at Castle Black",
+  "prerequisites": [],
+  "mutuallyExclusiveWith": [],
+  "options": [
+    {
+      "text": "Listen to Patchface sing his seal of approval.",
+      "nextId": "patchface_prophecy_unlocked"
+    },
+    {
+      "text": "Scare Melisandre into botching the resurrection ceremony.",
+      "nextId": "melisandre_resurrection_ritual"
+    },
+    {
+      "text": "Resonate with Stannis's seismic teeth grinding.",
+      "nextId": "stannis_teeth_grinding_wall_collapse"
+    }
+  ]
+}

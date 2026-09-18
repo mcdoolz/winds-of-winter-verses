@@ -14,5 +14,8 @@
       "text": "Barricade the Red Keep gates against the approaching dragon queen.",
       "nextId": "cersei_standoff"
     }
-  ]
+  ],
+  "prerequisites": [],
+  "mutuallyExclusiveWith": [],
+  "introducesPlotHole": null
 }

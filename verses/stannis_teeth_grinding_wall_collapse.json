@@ -1,0 +1,29 @@
+{
+  "id": "stannis_teeth_grinding_wall_collapse",
+  "title": "SEISMIC ENAMEL // THE GRINDING THAT BROKE THE WALL",
+  "pov": "Stannis Baratheon",
+  "narrative": "Stannis sits in his frozen tent outside Winterfell. Word arrives that Justin Massey bought horses instead of sellswords. Stannis clenches his jaw. His back molars meet at 4,000 pounds per square inch. The grinding resonates through the permafrost, hitting 7.8 on the Richter scale. Three hundred miles north, seven hundred feet of ancient ice shivers, cracks, and shears off into the Shivering Sea. Melisandre gasps: 'The Horn of Winter wasn't Joramun's... it was the King's jaw!'",
+  "resolvesPlotHole": "Stannis's Teeth Grinding Resonance",
+  "bonusAchievementId": "ach_seismic_teeth",
+  "introducesPlotHole": "Acoustic Enamel Seismology",
+  "prerequisites": [],
+  "mutuallyExclusiveWith": [],
+  "options": [
+    {
+      "text": "Direct the seismic shockwave onto the frozen lake beneath the Freys.",
+      "nextId": "night_lamp_lake"
+    },
+    {
+      "text": "Unleash the terrifying Canadian Geese trapped behind the shattered ice.",
+      "nextId": "canadian_geese_beyond_the_wall",
+      "bonusAchievementId": "ach_canadian_geese_fear",
+      "introducesPlotHole": "The Ancient Evil of Arctic Migratory Waterfowl"
+    },
+    {
+      "text": "Receive a court summons from your shadow baby's attorney.",
+      "nextId": "shadow_baby_child_support",
+      "bonusAchievementId": "ach_shadow_child_support",
+      "introducesPlotHole": "Shadow Assassin Paternity and Child Support Claims"
+    }
+  ]
+}

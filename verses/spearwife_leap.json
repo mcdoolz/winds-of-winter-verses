@@ -14,5 +14,8 @@
       "text": "Surrender to the Northern mountain clan scouts patrolling the treeline.",
       "nextId": "stannis_trial_theon"
     }
-  ]
+  ],
+  "prerequisites": [],
+  "mutuallyExclusiveWith": [],
+  "introducesPlotHole": null
 }

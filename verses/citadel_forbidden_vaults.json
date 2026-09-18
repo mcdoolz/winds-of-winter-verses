@@ -13,6 +13,21 @@
     {
       "text": "Deliver the scrolls to Daenerys to tame her untamed dragons.",
       "nextId": "united_stand_ending"
+    },
+    {
+      "text": "Samwell's two pushups: Sam accidentally solves Valyrian steel metallurgy doing calisthenics.",
+      "nextId": "samwell_tarly_cardio_renaissance",
+      "bonusAchievementId": "ach_sam_cardio_breakthrough",
+      "introducesPlotHole": "Valyrian Steel Metallurgy Solved via Calisthenics"
+    },
+    {
+      "text": "The Night King's late fee: The Others invaded solely to return an 8,000-year overdue library book.",
+      "nextId": "night_king_overdue_library_book",
+      "bonusAchievementId": "ach_overdue_library_others",
+      "introducesPlotHole": "The 8,000-Year Citadel Overdue Book Fee"
     }
-  ]
+  ],
+  "prerequisites": [],
+  "mutuallyExclusiveWith": [],
+  "introducesPlotHole": null
 }

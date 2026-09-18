@@ -1,0 +1,29 @@
+{
+  "id": "bran_bootstrap_window_push",
+  "title": "THE WEIRWOOD PARADOX // PUSHING ONESELF OUT THE WINDOW",
+  "pov": "Bran Stark",
+  "narrative": "Bran plugs his third eye into the weirwood mainframe. He travels back to the First Keep on the day Robert visited Winterfell. Seeing Jaime and Cersei in the broken tower, Bran realizes that if he is never pushed, he will never journey north, never become the Three-Eyed Raven, and never save humanity. He wargs into Jaime Lannister's golden hand, grabs ten-year-old Bran by the collar, mutters 'The things I do for love,' and shoves himself out the ledge. 'Bootstrap paradox completed,' Bran's raven eye twitches.",
+  "resolvesPlotHole": "Bran's Temporal Closed-Loop Causality",
+  "bonusAchievementId": "ach_bootstrap_bran",
+  "introducesPlotHole": "The Temporal Defenestration Bootstrap Paradox",
+  "prerequisites": [],
+  "mutuallyExclusiveWith": [],
+  "options": [
+    {
+      "text": "Warg into Hodor to explain quantum tensor fields.",
+      "nextId": "hodor_quantum_relativity_thesis",
+      "bonusAchievementId": "ach_quantum_hodor",
+      "introducesPlotHole": "Hodor's Unified Door-Holding Tensor Metric"
+    },
+    {
+      "text": "Peer deeper into the thousand eyes and one of Bloodraven.",
+      "nextId": "bloodraven_dark_truth"
+    },
+    {
+      "text": "Glitch the manuscript into an infinite 2011 temporal loop.",
+      "nextId": "winds_of_winter_infinite_loop_glitch",
+      "bonusAchievementId": "ach_infinite_wait_glitch",
+      "introducesPlotHole": "The Eternal 2011 Recursion Trap"
+    }
+  ]
+}

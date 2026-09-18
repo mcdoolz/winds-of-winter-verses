@@ -13,6 +13,21 @@
     {
       "text": "Heed the jester's warning and uncover the Weirwood Pact.",
       "nextId": "long_night_secret_ending"
+    },
+    {
+      "text": "The Undersea Rap Battle: Patchface drops an acoustic diss track against Melisandre.",
+      "nextId": "patchface_rap_battle_melisandre",
+      "bonusAchievementId": "ach_undersea_rap_god",
+      "introducesPlotHole": "Rhymes Under the Sea Diss Track Protocol"
+    },
+    {
+      "text": "Shireen's stone dragon awakening: Her greyscale animates the stone gargoyles of the Wall.",
+      "nextId": "shireen_stone_dragon_gargoyle",
+      "bonusAchievementId": "ach_gargoyle_queen",
+      "introducesPlotHole": "Greyscale Gargoyle Transmutation at Castle Black"
     }
-  ]
+  ],
+  "prerequisites": [],
+  "mutuallyExclusiveWith": [],
+  "introducesPlotHole": null
 }

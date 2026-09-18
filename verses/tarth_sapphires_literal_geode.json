@@ -1,0 +1,25 @@
+{
+  "id": "tarth_sapphires_literal_geode",
+  "title": "SAPPHIRES! // THE HOLLOW JEWEL ISLAND",
+  "pov": "Brienne of Tarth",
+  "narrative": "Jaime Lannister strikes the cliffside of Evenfall Hall with his golden fist. The granite shears away like glass, revealing that the entire Isle of Tarth is not an island of dirt and trees, but a single colossal, hollow, five-hundred-mile blue sapphire geode! 'I told the Brave Companions Tarth was full of sapphires,' Jaime gasps, looking into the sparkling crystalline cavern. 'I thought I was lying to save your virtue, Brienne! The island is literally worth forty trillion gold dragons!'",
+  "resolvesPlotHole": "Why Jaime Keeps Shouting 'Sapphires'",
+  "bonusAchievementId": "ach_literal_geode_tarth",
+  "introducesPlotHole": "The Hollow Geode Island of Tarth",
+  "prerequisites": [],
+  "mutuallyExclusiveWith": [],
+  "options": [
+    {
+      "text": "Use the sapphire fortune to buy off Lady Stoneheart's brotherhood.",
+      "nextId": "stoneheart_jaime"
+    },
+    {
+      "text": "Finance a united stand against the Long Night with sapphire armor.",
+      "nextId": "united_stand_ending"
+    },
+    {
+      "text": "Commission a diamond-studded collar for Ser Pounce, Azor Ahai.",
+      "nextId": "ser_pounce_azor_ahai"
+    }
+  ]
+}

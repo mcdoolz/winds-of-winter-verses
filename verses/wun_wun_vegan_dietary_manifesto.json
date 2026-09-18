@@ -1,0 +1,25 @@
+{
+  "id": "wun_wun_vegan_dietary_manifesto",
+  "title": "TURNIP KINGS // GIANTS DON'T EAT FLESH",
+  "pov": "Wun Wun",
+  "narrative": "Wun Weg Wun Dar Wun sits cross-legged in the Castle Black snow, holding a four-pound turnip. 'Wun Wun eat turnip,' the giant rumbles softly in the Old Tongue. 'Men say giants eat man flesh. Horrible lie! Meat give Wun Wun acid reflux and high cholesterol. Wun Wun plant-based since Age of Heroes. Turnip, rutabaga, fermented kale. Wun Wun bench press three mammoths on oat milk protein alone.'",
+  "resolvesPlotHole": "Why Giants Never Ate Any Horses",
+  "bonusAchievementId": "ach_wun_wun_vegan",
+  "introducesPlotHole": "The Giant Vegan Turnip Diet",
+  "prerequisites": [],
+  "mutuallyExclusiveWith": [],
+  "options": [
+    {
+      "text": "March south to smash the gates of Winterfell with a colossal turnip.",
+      "nextId": "ride_winterfell"
+    },
+    {
+      "text": "Lead the vegetarian assault against Ramsay Bolton's flayed men.",
+      "nextId": "winterfell_siege_assault"
+    },
+    {
+      "text": "Protect the turnip patches from the encroaching Canadian geese.",
+      "nextId": "canadian_geese_beyond_the_wall"
+    }
+  ]
+}

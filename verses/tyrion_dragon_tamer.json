@@ -13,6 +13,15 @@
     {
       "text": "Take flight across the narrow sea to reclaim Casterly Rock.",
       "nextId": "meereenese_knot_untied"
+    },
+    {
+      "text": "Mirri Maz Duur's quantum paradox: Tyrion learns he is Daenerys and Drogo's time-traveling fetus.",
+      "nextId": "time_traveling_fetus_tyrion",
+      "bonusAchievementId": "ach_fetus_timetravel",
+      "introducesPlotHole": "The Quantum Womb Paradox (D+D=T)"
     }
-  ]
+  ],
+  "prerequisites": [],
+  "mutuallyExclusiveWith": [],
+  "introducesPlotHole": null
 }

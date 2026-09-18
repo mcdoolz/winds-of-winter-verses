@@ -13,6 +13,15 @@
     {
       "text": "Discover the ancient secret of the Long Night.",
       "nextId": "long_night_secret_ending"
+    },
+    {
+      "text": "Bran's bootstrap paradox: Bran realizes he warged Jaime to push himself out the window.",
+      "nextId": "bran_bootstrap_window_push",
+      "bonusAchievementId": "ach_bootstrap_bran",
+      "introducesPlotHole": "The Temporal Defenestration Bootstrap Paradox"
     }
-  ]
+  ],
+  "prerequisites": [],
+  "mutuallyExclusiveWith": [],
+  "introducesPlotHole": null
 }

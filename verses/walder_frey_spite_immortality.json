@@ -1,0 +1,27 @@
+{
+  "id": "walder_frey_spite_immortality",
+  "title": "SPITE AT 150 // PRUNE JUICE AND SEVEN MORE WIVES",
+  "pov": "Lord Walder Frey",
+  "narrative": "Lord Walder Frey sits on his bridge throne at the Twins, blowing out candles on his 150th birthday cake. 'The Starks are dead, the Tullys are scattered, and Stannis has frostbite!' he cackles, gumming a prune. 'People ask what keeps me alive! Medicine? Magic? Bah! PURE CONCENTRATED UNFILTERED MALICIOUS SPITE! I intend to live to two hundred just to attend the funerals of every reader who complained about the Red Wedding in 2000!'",
+  "resolvesPlotHole": "Walder Frey Refusing to Die for Biological Reasons",
+  "bonusAchievementId": "ach_spite_immortality",
+  "introducesPlotHole": "Cellular Regeneration Through Malicious Spite",
+  "prerequisites": [],
+  "mutuallyExclusiveWith": [
+    "northern_muster_ending"
+  ],
+  "options": [
+    {
+      "text": "Face Lady Stoneheart's noose with endless wheezing complaints.",
+      "nextId": "stoneheart_jaime"
+    },
+    {
+      "text": "Sample Wyman Manderly's anniversary pork pie gift.",
+      "nextId": "manderly_pie_reveal"
+    },
+    {
+      "text": "Watch Arya and Nymeria's super-pack surround the crossing.",
+      "nextId": "arya_sails_westeros"
+    }
+  ]
+}

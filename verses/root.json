@@ -46,5 +46,8 @@
       "nextId": "arianne_connington_parley",
       "bonusAchievementId": "ach_dornish_dragon_suitor"
     }
-  ]
+  ],
+  "prerequisites": [],
+  "mutuallyExclusiveWith": [],
+  "introducesPlotHole": null
 }

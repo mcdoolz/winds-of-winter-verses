@@ -22,6 +22,27 @@
       "text": "The Faith Militant demands trial: Ser Robert Strong steps forward into the Great Sept.",
       "nextId": "cersei_trial_by_combat",
       "bonusAchievementId": "ach_franken_mountain_rampage"
+    },
+    {
+      "text": "Subway to Chataya's: Uncover Tywin's secret high-speed pneumatic brothel train.",
+      "nextId": "tywin_secret_brothel_tunnel_subway",
+      "bonusAchievementId": "ach_tywin_subway",
+      "introducesPlotHole": "The Lannister High-Speed Pneumatic Brothel Metro"
+    },
+    {
+      "text": "Cersei's Arbor Gold tasting: Sit down for a twenty-minute masterclass on vintage 298 tannins.",
+      "nextId": "cersei_wine_connoisseur_sommelier",
+      "bonusAchievementId": "ach_cersei_sommelier",
+      "introducesPlotHole": "Cersei's Sommelier Certification in Arbor Gold"
+    },
+    {
+      "text": "Ser Pounce leaps forward: The kitten draws Lightbringer from a bowl of cream.",
+      "nextId": "ser_pounce_azor_ahai",
+      "bonusAchievementId": "ach_ser_pounce_hero",
+      "introducesPlotHole": "Feline Azor Ahai Whiskers Prophecy"
     }
-  ]
+  ],
+  "prerequisites": [],
+  "mutuallyExclusiveWith": [],
+  "introducesPlotHole": null
 }

@@ -1,0 +1,25 @@
+{
+  "id": "joffrey_dry_pigeon_pie_choke",
+  "title": "CRUST FAILURE // IT WAS NEVER THE STRANGLER",
+  "pov": "Joffrey Baratheon",
+  "narrative": "Joffrey chokes and claws at his purple throat during the royal wedding feast. Lady Olenna and Littlefinger exchange smug nods, thinking their rare Asshai poison worked. In reality, the royal pastry chef forgot to add lard to the flour, creating a concrete crust with zero moisture. A four-inch dry crust wedge lodged in the young king's trachea. 'Water!' Joffrey wheezes. 'It's... so... crumbly!'",
+  "resolvesPlotHole": "The Purple Wedding Was Just Terrible Pastry",
+  "bonusAchievementId": "ach_dry_pie_choke",
+  "introducesPlotHole": "The Lethal Absence of Lard in Royal Pigeon Pastry",
+  "prerequisites": [],
+  "mutuallyExclusiveWith": [],
+  "options": [
+    {
+      "text": "Hire Hot Pie to teach the Royal Red Keep bakery how to bake.",
+      "nextId": "hot_pie_secret_azhor_baker"
+    },
+    {
+      "text": "Let Ser Robert Strong avenge the boy with violence in the sept.",
+      "nextId": "cersei_trial_by_combat"
+    },
+    {
+      "text": "Investigate why Joffrey sent a homeless hitman with Valyrian steel.",
+      "nextId": "catspaw_dagger_truth"
+    }
+  ]
+}

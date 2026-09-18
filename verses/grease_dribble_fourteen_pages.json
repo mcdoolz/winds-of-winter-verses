@@ -1,0 +1,25 @@
+{
+  "id": "grease_dribble_fourteen_pages",
+  "title": "THE CAPON ODYSSEY // FOURTEEN PAGES OF CHIN GREASE",
+  "pov": "The Reader",
+  "narrative": "You turn the page expecting Daenerys to confront the Others or Arya to assassinate Cersei. Instead, the chapter begins: 'The capon was roasted with honey and crushed cloves, and as Lord Bolton bit into the crispy leg, hot glistening yellow grease dribbled down his pale chin, pooling in the crevices of his doublet...' The description continues for four pages. Then five pages on lamprey pie. Then four pages on trenchers soaked in mutton gravy. Fourteen pages later, Stannis has not moved an inch.",
+  "resolvesPlotHole": "GRRM's Pathological Need to Describe Medieval Food",
+  "bonusAchievementId": "ach_fourteen_pages_grease",
+  "introducesPlotHole": "Fourteen Pages of Pure Capon Grease Description",
+  "prerequisites": [],
+  "mutuallyExclusiveWith": [],
+  "options": [
+    {
+      "text": "Watch George hit backspace on his 1987 DOS machine.",
+      "nextId": "grrm_wordstar_meta_epilogue"
+    },
+    {
+      "text": "Compare the grease quality with Wyman Manderly's Frey pies.",
+      "nextId": "manderly_pie_reveal"
+    },
+    {
+      "text": "Ask Hot Pie to critique the trencher sourdough hydration.",
+      "nextId": "hot_pie_secret_azhor_baker"
+    }
+  ]
+}

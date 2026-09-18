@@ -1,0 +1,25 @@
+{
+  "id": "lady_dustin_bone_broth",
+  "title": "THE CRYPT CULINARY ARTS // NED STARK'S MARROW",
+  "pov": "Barbrey Dustin",
+  "narrative": "Lady Barbrey Dustin leans over the crypt sarcophagi of Winterfell with a silver ladle and a pouch of Northern peppercorns. 'People think I hate Eddard Stark because he didn't marry me,' she whispers to the shadows. 'Nonsense! I just wanted his femur for my world-famous winter bone broth! A Warden of the North's marrow has five times the collagen of a common goat! Once I get his skeleton back from the Neck, Barrowton will have the best pho in Westeros!'",
+  "resolvesPlotHole": "Lady Dustin's Bizarre Obsession with Ned's Bones",
+  "bonusAchievementId": "ach_bone_soup_dustin",
+  "introducesPlotHole": "First Men Skeletal Culinary Traditions",
+  "prerequisites": [],
+  "mutuallyExclusiveWith": [],
+  "options": [
+    {
+      "text": "Search the deeper crypts for Vermax's hidden dragon eggs.",
+      "nextId": "crypts_of_winterfell_secrets"
+    },
+    {
+      "text": "Deliver the stock to Wyman Manderly for his Frey pastry gravy.",
+      "nextId": "manderly_pie_reveal"
+    },
+    {
+      "text": "Offer a bowl to the murderous Ghost of Winterfell.",
+      "nextId": "ghost_of_winterfell"
+    }
+  ]
+}

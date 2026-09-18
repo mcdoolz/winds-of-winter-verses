@@ -13,6 +13,15 @@
     {
       "text": "Coordinate with Tyrion Lannister inside the Second Sons camp.",
       "nextId": "tyrion_cyvasse_turncoat"
+    },
+    {
+      "text": "Strong Belwas's gastric fortitude: Belwas swallows forty poisoned locusts and belches loudly.",
+      "nextId": "strong_belwas_locust_immunity",
+      "bonusAchievementId": "ach_belwas_iron_stomach",
+      "introducesPlotHole": "Hyper-Metabolic Locust Toxin Consumption"
     }
-  ]
+  ],
+  "prerequisites": [],
+  "mutuallyExclusiveWith": [],
+  "introducesPlotHole": null
 }

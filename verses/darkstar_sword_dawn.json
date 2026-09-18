@@ -13,6 +13,15 @@
     {
       "text": "Return the sword to the Water Gardens for Doran's secret masterplan.",
       "nextId": "doran_blood_orange_pact"
+    },
+    {
+      "text": "Prince Oberyn's culinary secret: The spear poison was four million Scoville ghost pepper salsa.",
+      "nextId": "oberyn_hot_sauce_spear",
+      "bonusAchievementId": "ach_dornish_hot_sauce",
+      "introducesPlotHole": "Dornish Ghost Pepper Hot Sauce Biochemical Warfare"
     }
-  ]
+  ],
+  "prerequisites": [],
+  "mutuallyExclusiveWith": [],
+  "introducesPlotHole": null
 }

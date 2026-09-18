@@ -1,0 +1,25 @@
+{
+  "id": "winds_of_winter_infinite_loop_glitch",
+  "title": "RECURSIVE RECKONING // YOU ARE TRAPPED IN 2011 FOREVER",
+  "pov": "The Winds of Winter",
+  "narrative": "The parchment turns transparent. The ink begins to flow backwards into the bottle. A cold chill grips your spine as you realize the terrifying truth: there is no conclusion. The Winds of Winter is not a novel\u2014it is a mathematical G\u00f6delian loop designed to trap human consciousness in the summer of 2011 for eternity. You will debate Jon Snow's parentage forever. You will re-read The Forsaken forever. George smiles from behind his typewriter: 'Just three more chapters, guys. Almost done.'",
+  "resolvesPlotHole": "The Manuscript Cannot Be Finished By Mathematical Law",
+  "bonusAchievementId": "ach_infinite_wait_glitch",
+  "introducesPlotHole": "The Eternal 2011 Recursion Trap",
+  "prerequisites": [],
+  "mutuallyExclusiveWith": [],
+  "options": [
+    {
+      "text": "Let George hold down the WordStar backspace key in Santa Fe.",
+      "nextId": "grrm_wordstar_meta_epilogue"
+    },
+    {
+      "text": "Reboot the universe from chapter one at the Wall.",
+      "nextId": "root"
+    },
+    {
+      "text": "Consult the WordStar 4.0 sentient singularity to break the loop.",
+      "nextId": "wordstar_ai_sentience_singularity"
+    }
+  ]
+}

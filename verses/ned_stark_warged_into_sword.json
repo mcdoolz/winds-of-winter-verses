@@ -1,0 +1,25 @@
+{
+  "id": "ned_stark_warged_into_sword",
+  "title": "METALLIC AGONY // SCREAMING INSIDE WIDOW'S WAIL",
+  "pov": "Eddard Stark",
+  "narrative": "When Ilyn Payne brought down Ice at the Sept of Baelor, Eddard didn't die\u2014he warged into the Valyrian steel itself! Now melted down into Widow's Wail and Oathkeeper, Ned's consciousness is trapped in the smoky crimson folds. Every time Joffrey chopped a book or Brienne parried a mace, Ned's disembodied soul screamed: 'HONOR! WINTERFELL! WHY ARE YOU USING ME TO SLICE PIGEON PIE?!'",
+  "resolvesPlotHole": "Ned Stark Warged into the Greatsword Ice",
+  "bonusAchievementId": "ach_sword_stark",
+  "introducesPlotHole": "Conscious Cutlery (Valyrian Steel Metempsychosis)",
+  "prerequisites": [],
+  "mutuallyExclusiveWith": [],
+  "options": [
+    {
+      "text": "Vibrate violently in Brienne's scabbard to guide Cleganebowl.",
+      "nextId": "mountain_hound_clash"
+    },
+    {
+      "text": "Scream at Ser Robert Strong to reveal what is under his helmet.",
+      "nextId": "cersei_trial_by_combat"
+    },
+    {
+      "text": "Telepathically whistle for Nymeria's super-pack in the Riverlands.",
+      "nextId": "arya_sails_westeros"
+    }
+  ]
+}

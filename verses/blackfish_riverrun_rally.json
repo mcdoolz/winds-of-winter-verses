@@ -14,5 +14,8 @@
       "text": "Muster the Northern and Riverland lords for the final march.",
       "nextId": "northern_muster_ending"
     }
-  ]
+  ],
+  "prerequisites": [],
+  "mutuallyExclusiveWith": [],
+  "introducesPlotHole": null
 }

@@ -14,5 +14,8 @@
       "text": "Ignite the wildfire stores beneath the Red Keep.",
       "nextId": "kings_landing_burns"
     }
-  ]
+  ],
+  "prerequisites": [],
+  "mutuallyExclusiveWith": [],
+  "introducesPlotHole": null
 }

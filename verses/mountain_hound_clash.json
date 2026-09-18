@@ -14,5 +14,8 @@
       "text": "Purge the corrupt Faith Militant and flee the capital.",
       "nextId": "high_sparrow_purged"
     }
-  ]
+  ],
+  "prerequisites": [],
+  "mutuallyExclusiveWith": [],
+  "introducesPlotHole": null
 }

@@ -18,5 +18,8 @@
       "text": "Citadel Archival Query: Uncover Howland Reed's hidden truth.",
       "nextId": "howland_reed_appears"
     }
-  ]
+  ],
+  "prerequisites": [],
+  "mutuallyExclusiveWith": [],
+  "introducesPlotHole": null
 }

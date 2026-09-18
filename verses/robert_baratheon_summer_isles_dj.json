@@ -1,0 +1,25 @@
+{
+  "id": "robert_baratheon_summer_isles_dj",
+  "title": "WITNESS PROTECTION // SUMMER ISLES RESORT MANAGER",
+  "pov": "Robert Baratheon",
+  "narrative": "At a beachfront bamboo tiki bar on the Summer Isles, a huge bearded man in a Hawaiian floral tunic shakes a coconut cocktail. 'Gods I was strong then!' laughs Robert Baratheon, slipping on bamboo sunglasses. 'Lancel thought he gave me strong wine; I paid that wild boar twenty silver stags to play dead! Being king was boring, Ned wouldn't stop scolding me, and Cersei is crazy. Now I manage happy hour and play steel drums every Tuesday!'",
+  "resolvesPlotHole": "Robert Baratheon Faking the Boar Hunting Accident",
+  "bonusAchievementId": "ach_bobby_b_tropical",
+  "introducesPlotHole": "King Robert's Witness Protection Drum Circle",
+  "prerequisites": [],
+  "mutuallyExclusiveWith": [],
+  "options": [
+    {
+      "text": "Send Cersei a postcard critiquing her wine cellar selections.",
+      "nextId": "cersei_wine_connoisseur_sommelier"
+    },
+    {
+      "text": "Pay Stannis's shadow baby child support with rum bottles.",
+      "nextId": "shadow_baby_child_support"
+    },
+    {
+      "text": "Fly back to Westeros to show the realm how to party.",
+      "nextId": "root"
+    }
+  ]
+}

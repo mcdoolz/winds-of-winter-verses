@@ -1,0 +1,25 @@
+{
+  "id": "moon_boy_for_all_i_know",
+  "title": "FOR ALL I KNOW // THE TRUE KING UPON THE IRON SEAT",
+  "pov": "Moon Boy",
+  "narrative": "Moon Boy steps onto the dais of the Iron Throne in his motley jester suit with brass bells jingling on his cap. 'Jaime told Tyrion the queen was bedding Moon Boy for all he knew,' the fool laughs, spinning a bladder on a stick. 'Well, Jaime was right! And by right of conquest and romantic conquest, I declare the Fool's Republic of Westeros! Every lord must wear bells, all taxes will be paid in lemon tarts, and nobody is allowed to write an epilogue!'",
+  "resolvesPlotHole": "Moon Boy's Romantic Exploits with the Queen",
+  "bonusAchievementId": "ach_moon_boy_throne",
+  "introducesPlotHole": "Moon Boy's Royal Succession Claim",
+  "prerequisites": [],
+  "mutuallyExclusiveWith": [],
+  "options": [
+    {
+      "text": "Have Cersei evaluate the celebratory Arbor Gold vintage.",
+      "nextId": "cersei_wine_connoisseur_sommelier"
+    },
+    {
+      "text": "Challenge Patchface to a battle of royal fool supremacy.",
+      "nextId": "patchface_rap_battle_melisandre"
+    },
+    {
+      "text": "Claim the throne with bells ringing across the kingdom.",
+      "nextId": "claim_throne_ending"
+    }
+  ]
+}

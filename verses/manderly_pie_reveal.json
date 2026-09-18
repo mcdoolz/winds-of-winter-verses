@@ -13,6 +13,21 @@
     {
       "text": "Slip into the snow-covered courtyard to find the mysterious cloaked killer.",
       "nextId": "ghost_of_winterfell"
+    },
+    {
+      "text": "Roose Bolton's true nature: The Lord of the Dreadfort slowly peels off his face in the solar.",
+      "nextId": "roose_bolton_skinstealer_vampire",
+      "bonusAchievementId": "ach_bolton_vampire",
+      "introducesPlotHole": "The 3,000-Year Flayed Epidermal Graft Supply Chain"
+    },
+    {
+      "text": "Lady Dustin whispers: Ask for Ned Stark's bones to brew ancestral First Men bone broth.",
+      "nextId": "lady_dustin_bone_broth",
+      "bonusAchievementId": "ach_bone_soup_dustin",
+      "introducesPlotHole": "First Men Skeletal Culinary Traditions"
     }
-  ]
+  ],
+  "prerequisites": [],
+  "mutuallyExclusiveWith": [],
+  "introducesPlotHole": null
 }

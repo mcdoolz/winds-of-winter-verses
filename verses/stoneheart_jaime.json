@@ -18,6 +18,27 @@
       "text": "Ser Brynden 'Blackfish' Tully swims under the Water Gate to rally the Riverlands resistance.",
       "nextId": "blackfish_riverrun_rally",
       "bonusAchievementId": "ach_blackfish_swims_free"
+    },
+    {
+      "text": "Sapphires of Tarth: Jaime discovers the Isle of Tarth is a literal hollow sapphire geode.",
+      "nextId": "tarth_sapphires_literal_geode",
+      "bonusAchievementId": "ach_literal_geode_tarth",
+      "introducesPlotHole": "The Hollow Geode Island of Tarth"
+    },
+    {
+      "text": "Walder Frey at 150: Lord Walder continues living purely out of malice, spite, and prune juice.",
+      "nextId": "walder_frey_spite_immortality",
+      "bonusAchievementId": "ach_spite_immortality",
+      "introducesPlotHole": "Cellular Regeneration Through Malicious Spite"
+    },
+    {
+      "text": "The 2026 Super Bowl: The Ghost of High Heart gets cable television broadcasts on her weirwood stump.",
+      "nextId": "ghost_of_high_heart_pop_culture",
+      "bonusAchievementId": "ach_high_heart_streamer",
+      "introducesPlotHole": "The Woods Witch 2026 Super Bowl Broadcast"
     }
-  ]
+  ],
+  "prerequisites": [],
+  "mutuallyExclusiveWith": [],
+  "introducesPlotHole": null
 }

@@ -14,5 +14,8 @@
       "text": "Follow Abel the Singer into the crypts beneath the castle.",
       "nextId": "mance_bard_reveal"
     }
-  ]
+  ],
+  "prerequisites": [],
+  "mutuallyExclusiveWith": [],
+  "introducesPlotHole": null
 }

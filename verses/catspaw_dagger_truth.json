@@ -14,6 +14,15 @@
     {
       "text": "March South with the Free Folk and liberate Winterfell from Ramsay Bolton.",
       "nextId": "ride_winterfell"
+    },
+    {
+      "text": "The Dry Pigeon Pie: Joffrey didn't die of poison; the royal baker just forgot lard.",
+      "nextId": "joffrey_dry_pigeon_pie_choke",
+      "bonusAchievementId": "ach_dry_pie_choke",
+      "introducesPlotHole": "The Lethal Absence of Lard in Royal Pigeon Pastry"
     }
-  ]
+  ],
+  "prerequisites": [],
+  "mutuallyExclusiveWith": [],
+  "introducesPlotHole": null
 }

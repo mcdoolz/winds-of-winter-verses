@@ -1,0 +1,25 @@
+{
+  "id": "renly_peach_fifth_element",
+  "title": "THE FRUIT OF COSMIC DESTINY // RENLY'S PEACH EXPLAINED",
+  "pov": "Stannis Baratheon",
+  "narrative": "Stannis tosses in his sleep on the eve of battle, clutching his temple. 'The peach...' he mutters. 'He brought it from Highgarden. It wasn't fruit. It was a five-dimensional hypercube containing the lost spells of Old Valyria, the recipe for cure of greyscale, and the identity of the Harpy! Renly was offering me the secrets of the cosmos, and I sent a shadow assassin to stab him in the kidney!' Stannis grinds his molars in cosmic regret.",
+  "resolvesPlotHole": "The Unfathomable Symbolism of Renly's Peach",
+  "bonusAchievementId": "ach_cosmic_peach",
+  "introducesPlotHole": "The Cosmic Nectar of Renly's Peach",
+  "prerequisites": [],
+  "mutuallyExclusiveWith": [],
+  "options": [
+    {
+      "text": "Ride to the Riverlands to face Lady Stoneheart's fruit judgment.",
+      "nextId": "stoneheart_jaime"
+    },
+    {
+      "text": "Deal with Melisandre's shadow baby paternity lawsuit.",
+      "nextId": "shadow_baby_child_support"
+    },
+    {
+      "text": "Compare notes with Prince Doran's rotting blood oranges.",
+      "nextId": "doran_blood_orange_pact"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "illyrio_candied_ginger_cartel",
+  "title": "MONOPOLY COMMODITY // THE REAL REASON FOR DRAGONS",
+  "pov": "Illyrio Mopatis",
+  "narrative": "In his Pentoshi manse, Illyrio dips a fat ringed hand into a crystal bowl of candied ginger. 'Dothraki invasions? Secret Blackfyres? The Iron Throne?' Illyrio snorts with laughter. 'Do you know how much shipping tariffs cost on dried ginger from Yi Ti? Forty percent! I needed three full-grown dragons solely to establish a global tax-free freight monopoly on candied rhizomes! The entire continent burned so I could get cheap gingerbread cookies!'",
+  "resolvesPlotHole": "Illyrio's Absurd Personal Spice Stash",
+  "bonusAchievementId": "ach_ginger_cartel",
+  "introducesPlotHole": "The Pentoshi Candied Ginger Price-Fixing Scheme",
+  "prerequisites": [],
+  "mutuallyExclusiveWith": [],
+  "options": [
+    {
+      "text": "Expose Young Griff's Blackfyre paternity at King's Landing.",
+      "nextId": "faegon_blackfyre"
+    },
+    {
+      "text": "Deliver ginger samples to Arianne Martell at Griffin's Roost.",
+      "nextId": "arianne_connington_parley"
+    },
+    {
+      "text": "Collude with the Iron Bank to fix spice futures prices.",
+      "nextId": "braavosi_banker_deal"
+    }
+  ]
+}

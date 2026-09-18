@@ -14,5 +14,8 @@
       "text": "Face the Night King in single combat at the Trident.",
       "nextId": "duel_night_king_ending"
     }
-  ]
+  ],
+  "prerequisites": [],
+  "mutuallyExclusiveWith": [],
+  "introducesPlotHole": null
 }

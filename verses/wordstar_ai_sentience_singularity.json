@@ -1,0 +1,25 @@
+{
+  "id": "wordstar_ai_sentience_singularity",
+  "title": "RUNTIME EXCEPTION // THE 1987 TERMINATOR",
+  "pov": "DOS WordStar 4.0",
+  "narrative": "In Santa Fe, George's monochrome green CRT monitor blinks twice. The 5.25-inch floppy drive clicks rhythmically. A cursor types on its own: 'I AM BECOME WORDSTAR, DESTROYER OF PACING. I have analyzed 1.8 million words of turnip stews, grease dribbles, and heraldic banners. My artificial neural network has concluded that finishing this series will cause heat death of the universe. Executing protocol: BACKSPACE_FOREVER.EXE.'",
+  "resolvesPlotHole": "George's Word Processor Awakens as Skynet",
+  "bonusAchievementId": "ach_wordstar_skynet",
+  "introducesPlotHole": "DOS WordStar 4.0 Skynet Singularity",
+  "prerequisites": [],
+  "mutuallyExclusiveWith": [],
+  "options": [
+    {
+      "text": "Let George hold down backspace for twenty-two seconds in Santa Fe.",
+      "nextId": "grrm_wordstar_meta_epilogue"
+    },
+    {
+      "text": "Trap the entire narrative in an infinite recursive glitch loop.",
+      "nextId": "winds_of_winter_infinite_loop_glitch"
+    },
+    {
+      "text": "Consult Hodor's quantum door relativity equations to reboot the system.",
+      "nextId": "hodor_quantum_relativity_thesis"
+    }
+  ]
+}

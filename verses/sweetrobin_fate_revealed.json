@@ -14,5 +14,8 @@
       "text": "Declare the sovereign independence of the Mountain and Vale.",
       "nextId": "north_united_ending"
     }
-  ]
+  ],
+  "prerequisites": [],
+  "mutuallyExclusiveWith": [],
+  "introducesPlotHole": null
 }

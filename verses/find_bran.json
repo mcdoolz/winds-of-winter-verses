@@ -24,5 +24,8 @@
       "nextId": "bloodraven_dark_truth",
       "bonusAchievementId": "ach_thousand_eyes_one_truth"
     }
-  ]
+  ],
+  "prerequisites": [],
+  "mutuallyExclusiveWith": [],
+  "introducesPlotHole": null
 }

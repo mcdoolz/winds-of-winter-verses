@@ -23,5 +23,8 @@
       "nextId": "grrm_wordstar_meta_epilogue",
       "bonusAchievementId": "ach_the_infinite_backspace"
     }
-  ]
+  ],
+  "prerequisites": [],
+  "mutuallyExclusiveWith": [],
+  "introducesPlotHole": null
 }

@@ -1,0 +1,25 @@
+{
+  "id": "daenerys_forgot_iron_fleet_cloud",
+  "title": "SHINY OBJECT SYNDROME // BUT WHAT ABOUT THE FLEET?",
+  "pov": "Daenerys Targaryen",
+  "narrative": "Daenerys soars high above the Sunset Sea atop Drogon. Below them, ninety-four colossal ironborn warships with kraken banners shoot scorpion bolts into the sky. 'Oh, look at that fluffy cloud over there!' Daenerys exclaims, pointing at a cumulonimbus shaped like a bunny. 'It is so pretty!' She completely forgets the enemy armada is firing ballistas at her dragons, flies through the cloud, and lands in a meadow to make daisy chains.",
+  "resolvesPlotHole": "Dany Kind of Forgot About the Iron Fleet",
+  "bonusAchievementId": "ach_kind_of_forgot",
+  "introducesPlotHole": "Severe Tactical Amnesia Due to Fluffy Clouds",
+  "prerequisites": [],
+  "mutuallyExclusiveWith": [],
+  "options": [
+    {
+      "text": "Return to Meereen and untie the knot by force.",
+      "nextId": "meereenese_knot_untied"
+    },
+    {
+      "text": "Let Victarion's smoking arm commandeer the airspace.",
+      "nextId": "victarion_iron_fleet_arrives"
+    },
+    {
+      "text": "Accidentally set the Red Keep on fire while chasing butterflies.",
+      "nextId": "kings_landing_burns"
+    }
+  ]
+}

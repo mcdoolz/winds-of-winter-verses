@@ -23,6 +23,15 @@
       "text": "George R.R. Martin hits backspace for 22 seconds on DOS WordStar 4.0.",
       "nextId": "grrm_wordstar_meta_epilogue",
       "bonusAchievementId": "ach_the_infinite_backspace"
+    },
+    {
+      "text": "Robert Baratheon in witness protection: Bobby B is alive and managing a Summer Isles tiki bar.",
+      "nextId": "robert_baratheon_summer_isles_dj",
+      "bonusAchievementId": "ach_bobby_b_tropical",
+      "introducesPlotHole": "King Robert's Witness Protection Drum Circle"
     }
-  ]
+  ],
+  "prerequisites": [],
+  "mutuallyExclusiveWith": [],
+  "introducesPlotHole": null
 }
