@@ -1,0 +1,29 @@
+{
+  "id": "intro_meereenese_knot_bureaucracy",
+  "title": "CHAPTER 1: THE TOKAR AND THE TARIFF // MEEREENESE GRIDLOCK",
+  "pov": "Daenerys Targaryen",
+  "narrative": "The heat of Meereen smelled of sewage, hot brick, and stale olive oil. Daenerys adjusted the golden fringe of her tokar for the forty-seventh time that morning. Before her marble bench stood Hizdahr zo Loraq, Reznak mo Reznak, Skahaz mo Kandaq, and Grazdan zo Galare—four identical Ghiscari nobles in pleated wigs arguing over the harbor tariff on pickled figs and pit-fighter liability insurance. George spent eleven years attempting to coordinate their arrival schedules. Dany sighed, looking toward Drogon on the Great Pyramid balcony: 'If one more man named Harzoo speaks to me, I am burning this entire continent to ash.'",
+  "resolvesPlotHole": "The Meereenese Knot",
+  "bonusAchievementId": "ach_meereen_gridlock",
+  "options": [
+    {
+      "text": "Daenerys: Cut the knot once and for all — burn the blockade and fly to King's Landing.",
+      "nextId": "meereenese_knot_untied"
+    },
+    {
+      "text": "Ser Barristan Selmy: Blow the silver warhorns and lead the cavalry sortie in the Battle of Fire.",
+      "nextId": "barristan_battle_of_fire"
+    },
+    {
+      "text": "Tyrion Lannister: Enter the dragon pit beneath the Great Pyramid to make friends.",
+      "nextId": "tyrion_dragon_tamer"
+    },
+    {
+      "text": "Victarion Greyjoy: Crash the Iron Fleet into the Slaver's Bay harbor with a fiery smoking arm.",
+      "nextId": "victarion_iron_fleet_arrives"
+    }
+  ],
+  "prerequisites": [],
+  "mutuallyExclusiveWith": [],
+  "introducesPlotHole": null
+}

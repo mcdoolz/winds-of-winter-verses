@@ -1,0 +1,29 @@
+{
+  "id": "intro_heraldry_lineage_tangent",
+  "title": "CHAPTER 1: THE BLAZON OF THE RIVERLANDS // HERALDIC EXCURSION",
+  "pov": "Jaime Lannister",
+  "narrative": "As Jaime rode past the ruined inn at the crossroads, his squire pointed out a battered shield hanging from an oak branch. It bore a chevron gules between three martlets sable upon a field of vair. Jaime paused his entire military campaign to recount forty minutes of Riverlands genealogical history: how the second son of House Darry had married a Bracken bastard during the Third Blackfyre Rebellion, resulting in a bitter coat-of-arms dispute over two watermills in the Year of the False Spring. Brienne shifted in her saddle. 'Ser Jaime, Lady Stoneheart has a noose waiting.' 'Patience, Brienne,' Jaime replied. 'The readers need to understand the heraldic significance of this marsh hen.'",
+  "resolvesPlotHole": "The Exhaustive Heraldic Digression Tradition",
+  "bonusAchievementId": "ach_heraldry_tangent",
+  "options": [
+    {
+      "text": "Jaime Lannister: Follow Brienne into the Riverlands hollow to face Lady Stoneheart.",
+      "nextId": "stoneheart_jaime"
+    },
+    {
+      "text": "Sansa Stark: Dance with Harry the Heir at the Tourney of the Winged Knights.",
+      "nextId": "sansa_tourney_winged_knights"
+    },
+    {
+      "text": "Young Griff: Test the prince's lineage for Blackfyre counterfeit marks.",
+      "nextId": "faegon_blackfyre"
+    },
+    {
+      "text": "The Blackfish: Rally Riverrun loyalists and burn the Frey baggage trains to ash.",
+      "nextId": "blackfish_riverrun_rally"
+    }
+  ],
+  "prerequisites": [],
+  "mutuallyExclusiveWith": [],
+  "introducesPlotHole": null
+}

@@ -1,0 +1,29 @@
+{
+  "id": "intro_doomed_prologue_ranger",
+  "title": "PROLOGUE: WILL OF THE NIGHT'S WATCH // COLD IN THE TREES",
+  "pov": "Will (Night's Watch)",
+  "narrative": "The woods were dark and full of things that did not breathe. Will pulled his beaver-skin gloves tight, cursing the third-born status that had driven him to take the black. For four pages he remembers the taste of hot spiced cider in the Mallister tavern, the girl with the freckled shoulder, and the exact weight of a poacher's snare. Then a twig snaps. A silhouette seven feet tall glides from behind the ironwood, its armor reflecting nothing. 'We should turn back,' Gared groans. But Will never turns back. Nobody in a George R.R. Martin prologue ever turns back.",
+  "resolvesPlotHole": "The Doomed Prologue POV Tradition",
+  "bonusAchievementId": "ach_doomed_prologue_ranger",
+  "options": [
+    {
+      "text": "Jon Snow: Wake from the dead at Castle Black to answer the horn blasts.",
+      "nextId": "howland_reed_appears"
+    },
+    {
+      "text": "Stannis Baratheon: Prepare the frozen lake defense outside Winterfell.",
+      "nextId": "night_lamp_lake"
+    },
+    {
+      "text": "Bran Stark: Reach through the weirwood roots beyond the Wall.",
+      "nextId": "find_bran"
+    },
+    {
+      "text": "Bowen Marsh: Spot the twelve million Canadian Geese advancing through the valley.",
+      "nextId": "canadian_geese_beyond_the_wall"
+    }
+  ],
+  "prerequisites": [],
+  "mutuallyExclusiveWith": [],
+  "introducesPlotHole": null
+}

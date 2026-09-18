@@ -1,0 +1,29 @@
+{
+  "id": "intro_eldritch_maritime_horror",
+  "title": "CHAPTER 1: THE BLOOD ON THE PROW // TSUNAMI OF KRAKENS",
+  "pov": "Aeron Damphair",
+  "narrative": "Bound to the prow of the Silence with rusted iron chains, Aeron tasted salt and madness. Euron stood above him on the deck, grinning through his blue lips, encased in scales of night-black Valyrian steel that seemed to drink the moonlight. Around them, the sea boiled crimson with the blood of holy men. Euron raised the dragon horn Dragonbinder, carved with smoking Valyrian runes. 'The bleeding star bespoke the end,' Euron whispered. 'I am the storm, brother. The first and the last.' He put his lips to the horn, and the Redwyne Straits began to scream.",
+  "resolvesPlotHole": "Euron's Eldritch Blood Magic Climax",
+  "bonusAchievementId": "ach_eldritch_horn_climax",
+  "options": [
+    {
+      "text": "Euron Greyjoy: Sound the Dragonbinder horn in your Valyrian steel armor off Oldtown.",
+      "nextId": "euron_eldritch_ritual"
+    },
+    {
+      "text": "Aeron Damphair: Call upon the Drowned God to unleash a tsunami from the abyss.",
+      "nextId": "aeron_drowned_god_awakens"
+    },
+    {
+      "text": "The Citadel of Oldtown: Infiltrate the forbidden vaults beneath the library.",
+      "nextId": "citadel_forbidden_vaults"
+    },
+    {
+      "text": "The Forsaken: Gaze into the nightmare visions across the boiling Redwyne Straits.",
+      "nextId": "the_forsaken_prow"
+    }
+  ],
+  "prerequisites": [],
+  "mutuallyExclusiveWith": [],
+  "introducesPlotHole": null
+}

@@ -1,0 +1,29 @@
+{
+  "id": "intro_midnight_raven_solar",
+  "title": "CHAPTER 1: WAX AND FEATHERS // MIDNIGHT MISSIVE",
+  "pov": "Cersei Lannister",
+  "narrative": "A black raven crashed through the leaded glass window of the Queen's solar, spraying frozen rain across the tapestries. 'CORN! CORN! DEAD KINGS!' the bird croaked, dropping a bloodstained scroll sealed with cracked vermilion wax. Cersei broke the seal with trembling fingers. By the light of tallow candles, the message was horrifying: Stannis was marching, the Iron Bank was calling in the debt, the Dornish spears were massing at the Prince's Pass, and someone had seen three colossal dragons flying over the Stepstones. Cersei poured a large flagon of Arbor Gold. 'Bring me Qyburn,' she snarled. 'And tell the High Sparrow I am busy.'",
+  "resolvesPlotHole": "The Midnight Raven of Sudden Catastrophe",
+  "bonusAchievementId": "ach_midnight_raven",
+  "options": [
+    {
+      "text": "Cersei Lannister: Inspect the wildfire pipes beneath the Red Keep.",
+      "nextId": "cersei_standoff"
+    },
+    {
+      "text": "Princess Arianne Martell: Ride into the storm at Griffin's Roost to investigate Young Griff.",
+      "nextId": "arianne_connington_parley"
+    },
+    {
+      "text": "Euron Greyjoy: Sound the Dragonbinder horn in your Valyrian steel armor off Oldtown.",
+      "nextId": "euron_eldritch_ritual"
+    },
+    {
+      "text": "The Faith Militant: Purge the Great Sept of the High Sparrow's peasant corruption.",
+      "nextId": "high_sparrow_purged"
+    }
+  ],
+  "prerequisites": [],
+  "mutuallyExclusiveWith": [],
+  "introducesPlotHole": null
+}

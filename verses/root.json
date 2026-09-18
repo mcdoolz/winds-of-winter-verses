@@ -1,50 +1,50 @@
 {
   "id": "root",
-  "title": "THE WINDS OF WINTER",
-  "pov": "The Realm",
-  "narrative": "The winds of winter howl through the shattered ruins of the Wall. You stand at the precipice of the end. Aegon VI sits the Iron Throne, the Others march on the North, and Daenerys's dragons circle above. Countless plot holes, dangling threads, and unfinished prophecies pull at the realm — each choice ready to forge or doom the conclusion.",
+  "title": "THE WINDS OF WINTER // CHAPTER 1: THE OPENING GAMBIT",
+  "pov": "George R.R. Martin",
+  "narrative": "COMMAND WORDSTAR 4.0 // WINDS.DOC: A blank 1,500-page manuscript beckons. George sits poised before the amber monochrome screen, fingers resting upon the mechanical keyboard. Choose how George opens the novel:",
   "resolvesPlotHole": null,
   "bonusAchievementId": null,
   "options": [
     {
-      "text": "Daenerys: Cut the Meereenese Knot once and for all — burn the Essos blockade and fly to King's Landing.",
-      "nextId": "meereenese_knot_untied",
-      "bonusAchievementId": "ach_meereen_untied"
+      "text": "The Doomed Prologue POV: An expendable Night's Watch ranger freezes beyond the Wall and remembers his village.",
+      "nextId": "intro_doomed_prologue_ranger",
+      "bonusAchievementId": "ach_doomed_prologue_ranger"
     },
     {
-      "text": "Jon Snow: Wake from the dead at Castle Black and summon Howland Reed from his bog.",
-      "nextId": "howland_reed_appears",
-      "bonusAchievementId": "ach_howland_answered"
+      "text": "The 14-Page Feast Description: A forensic breakdown of roasted capon, trenchers, and grease dribbling down chins.",
+      "nextId": "grease_dribble_fourteen_pages",
+      "bonusAchievementId": "ach_fourteen_pages_grease"
     },
     {
-      "text": "Euron Greyjoy: Sound the Dragonbinder horn in your Valyrian steel armor off Oldtown.",
-      "nextId": "euron_eldritch_ritual",
-      "bonusAchievementId": "ach_euron_apocalypse"
+      "text": "The Bleak Weather & Endless Cold: The bitter howling wind screams like a dying god as snot freezes on mail.",
+      "nextId": "intro_bleak_weather_frost",
+      "bonusAchievementId": "ach_bleak_weather_frost"
     },
     {
-      "text": "Jaime Lannister: Follow Brienne into the Riverlands to face Lady Stoneheart's noose.",
-      "nextId": "stoneheart_jaime",
-      "bonusAchievementId": "ach_stoneheart_trap"
+      "text": "The Meereenese Knot: Endless olive tariffs, pit-fighter liability, and fourteen Ghiscari dignitaries named Harzoo.",
+      "nextId": "intro_meereenese_knot_bureaucracy",
+      "bonusAchievementId": "ach_meereen_gridlock"
     },
     {
-      "text": "Stannis Baratheon: Plant the false beacon on the frozen lake outside Winterfell to drown the Freys.",
-      "nextId": "night_lamp_lake",
-      "bonusAchievementId": "ach_night_lamp_mastermind"
+      "text": "The Heraldry & Lineage Tangent: A minor knight's surcoat triggers a four-generation Blackfyre genealogy lesson.",
+      "nextId": "intro_heraldry_lineage_tangent",
+      "bonusAchievementId": "ach_heraldry_tangent"
     },
     {
-      "text": "Ser Barristan Selmy: Blow the silver warhorns and lead the cavalry sortie in the Battle of Fire.",
-      "nextId": "barristan_battle_of_fire",
-      "bonusAchievementId": "ach_bold_barristan_charge"
+      "text": "The Urgent Midnight Raven: A raven crashes through the solar screaming 'CORN!' with terrifying news.",
+      "nextId": "intro_midnight_raven_solar",
+      "bonusAchievementId": "ach_midnight_raven"
     },
     {
-      "text": "Sansa Stark: Dance with Harry the Heir at the Tourney of the Winged Knights in the Eyrie.",
-      "nextId": "sansa_tourney_winged_knights",
-      "bonusAchievementId": "ach_falcon_queen_awakens"
+      "text": "The Resurrected Hero at the Wall: Jon Snow gasps awake as direwolf breath and red sorcery knit his wounds.",
+      "nextId": "intro_resurrected_hero_wall",
+      "bonusAchievementId": "ach_resurrected_gasp"
     },
     {
-      "text": "Princess Arianne Martell: Ride into the storm at Griffin's Roost to investigate Young Griff and the Golden Company.",
-      "nextId": "arianne_connington_parley",
-      "bonusAchievementId": "ach_dornish_dragon_suitor"
+      "text": "The Eldritch Maritime Horror: Euron Greyjoy strapped to the prow in Valyrian steel blowing the dragon horn.",
+      "nextId": "intro_eldritch_maritime_horror",
+      "bonusAchievementId": "ach_eldritch_horn_climax"
     }
   ],
   "prerequisites": [],

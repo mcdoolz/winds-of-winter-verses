@@ -1,0 +1,29 @@
+{
+  "id": "intro_resurrected_hero_wall",
+  "title": "CHAPTER 1: GHOST IN THE SNOW // THE RESURRECTION",
+  "pov": "Jon Snow",
+  "narrative": "Cold. Cold and dark, running through white trees on four silent paws, tasting fresh blood on his tongue. Then—a tear in the veil. Red priest whispers, the smell of burnt hair and sulfur, and the desperate gasp of air filling dead lungs. Jon Snow's eyes snapped open at Castle Black, his four knife wounds burning like hot coals. Howland Reed stood in the doorway holding a mud-spattered parchment. 'Get up, boy,' Howland croaked. 'We have twenty-eight years of unanswered fan theories to settle before noon.'",
+  "resolvesPlotHole": "Jon Snow's Resurrection Mechanics",
+  "bonusAchievementId": "ach_resurrected_gasp",
+  "options": [
+    {
+      "text": "Confront Howland Reed on the truth of the Tower of Joy and Lyanna's harp.",
+      "nextId": "howland_reed_appears"
+    },
+    {
+      "text": "Val, the Wildling Princess: Step into the solar and embrace Jon by the crackling hearth.",
+      "nextId": "jon_val_wildling_hearth"
+    },
+    {
+      "text": "Melisandre of Asshai: Gaze into the flames at Castle Black and whisper the words of R'hllor.",
+      "nextId": "melisandre_resurrection_ritual"
+    },
+    {
+      "text": "March south on Winterfell with the united Wildling clans.",
+      "nextId": "ride_winterfell"
+    }
+  ],
+  "prerequisites": [],
+  "mutuallyExclusiveWith": [],
+  "introducesPlotHole": null
+}

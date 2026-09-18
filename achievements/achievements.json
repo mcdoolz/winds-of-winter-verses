@@ -1611,6 +1611,55 @@
       "subtitle": "PLUGGED: THE LIBERATION OF WINTERFELL",
       "plotHole": "The Liberation of Winterfell",
       "desc": "Resolved with unexpected narrative finality."
+    },
+    {
+      "id": "ach_doomed_prologue_ranger",
+      "title": "THE EXPENDABLE PROLOGUE // NOBODY TURNS BACK",
+      "subtitle": "WHY HAS THE NIGHT'S WATCH NEVER LEARNED TO RETREAT?",
+      "plotHole": "The Doomed Prologue POV Tradition",
+      "desc": "Spending six pages on an expendable ranger's childhood only to freeze him solid before Chapter 1."
+    },
+    {
+      "id": "ach_bleak_weather_frost",
+      "title": "FROSTBITTEN LOGISTICS // SNOT ON THE MAIL",
+      "subtitle": "MARCHING FORTY LEAGUES ON PURE TEETH-GRINDING",
+      "plotHole": "The Logistical Realities of Northern Winter",
+      "desc": "A king grinding his jaw loud enough to alert the entire Dreadfort vanguard across forty leagues of snowdrifts."
+    },
+    {
+      "id": "ach_meereen_gridlock",
+      "title": "THE HARZOO PARADOX // MEEREENESE GRIDLOCK",
+      "subtitle": "FOURTEEN NOBLES ARGUING OLIVE TARIFFS IN SILK TOKARS",
+      "plotHole": "The Meereenese Knot Bureaucratic Gridlock",
+      "desc": "Coordinating six POV arrivals while fourteen men named Harzoo debate olive tariffs for eleven real-world years."
+    },
+    {
+      "id": "ach_heraldry_tangent",
+      "title": "THE HERALDIC DETOUR // COATS OF ARMS OVER PLOT",
+      "subtitle": "STOPPING A BATTLE TO EXPLAIN A THIRD-COUSIN BLAZON",
+      "plotHole": "The Exhaustive Heraldic Digression Tradition",
+      "desc": "Why military commanders pause active noose traps to lecture squires on third-cousin Blackfyre blazons."
+    },
+    {
+      "id": "ach_midnight_raven",
+      "title": "CORN AND CALAMITY // THE MIDNIGHT MISSIVE",
+      "subtitle": "FIVE SIMULTANEOUS PLANETARY CRISES IN ONE BIRD",
+      "plotHole": "The Midnight Raven of Sudden Catastrophe",
+      "desc": "Cersei ordering vintage wine to deal with four simultaneous foreign invasions delivered by a single screeching raven."
+    },
+    {
+      "id": "ach_resurrected_gasp",
+      "title": "GHOST IN THE FLESH // THE LORD COMMANDER BREATHES",
+      "subtitle": "WAKING UP FROM FOUR STAB WOUNDS WITH REED ON SPEED DIAL",
+      "plotHole": "Jon Snow's Resurrection Mechanics",
+      "desc": "The precise thermodynamic and warging mechanics of waking up from four knife wounds as Howland Reed arrives."
+    },
+    {
+      "id": "ach_eldritch_horn_climax",
+      "title": "THE BLEEDING SEA // DRAGONBINDER'S WAIL",
+      "subtitle": "VALYRIAN STEEL ARMOR ON A WOODEN BOAT",
+      "plotHole": "Euron's Eldritch Blood Magic Climax",
+      "desc": "A pirate king who is simultaneously Cthulhu, Benjen Stark, and Daario Naharis bleeding priests into the Redwyne Straits."
     }
   ],
   "introduced": [

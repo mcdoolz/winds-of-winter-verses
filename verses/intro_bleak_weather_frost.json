@@ -1,0 +1,29 @@
+{
+  "id": "intro_bleak_weather_frost",
+  "title": "CHAPTER 1: THE BITTER FROST // SNOT ON THE IRONWOOD",
+  "pov": "Stannis Baratheon",
+  "narrative": "The wind howled through the pines like a choir of angry gods. It was a cold that bit through boiled leather and mail, a cold that turned horses into statues and men's snot into icicles before it could reach their lips. George spends three paragraphs describing the specific crunch of snow under heavy fur boots and the sorrow of eating frozen horseflesh. Stannis stood before his army, teeth grinding so hard the noise echoed across the crofters' village. 'Winter is here,' Stannis muttered. 'And it has terrible logistical supply chains.'",
+  "resolvesPlotHole": "The Logistical Realities of Northern Winter",
+  "bonusAchievementId": "ach_bleak_weather_frost",
+  "options": [
+    {
+      "text": "Stannis Baratheon: Plant the false beacon on the frozen lake to drown the Freys.",
+      "nextId": "night_lamp_lake"
+    },
+    {
+      "text": "Theon Greyjoy: Stand trial before the weirwood tree in the crofters' village.",
+      "nextId": "stannis_trial_theon"
+    },
+    {
+      "text": "Winterfell Assault: March forty leagues through the blizzards toward the Dreadfort lines.",
+      "nextId": "winterfell_siege_assault"
+    },
+    {
+      "text": "Resonate Stannis's jaw to seismic frequencies that shatter the Wall.",
+      "nextId": "stannis_teeth_grinding_wall_collapse"
+    }
+  ],
+  "prerequisites": [],
+  "mutuallyExclusiveWith": [],
+  "introducesPlotHole": null
+}
