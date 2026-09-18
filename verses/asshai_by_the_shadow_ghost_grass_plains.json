@@ -1,0 +1,29 @@
+{
+  "id": "asshai_by_the_shadow_ghost_grass_plains",
+  "title": "THE ASH RIVER // GHOST GRASS BENEATH STYGAI",
+  "pov": "Melisandre of Asshai",
+  "narrative": "Along the black, poisoned waters of the River Ash, where fish swim blind and misshapen, the plains were overgrown with ghost grass: pale as milk glass, taller than a man on horseback, glimmering with eerie luminescent spores. Beyond lay the Corpse City of Stygai, where the sun never shines and shadowbinders weave demons from thin air. Melisandre recalled her youth as the slave girl Melony, sold to the red temple, learning to walk through the ghost grass without breathing the poisoned spores. Here at the edge of the world, she discovered that the Long Night was not an invasion, but an eternal cyclical reset of life itself.",
+  "resolvesPlotHole": "The True Nature of Asshai by the Shadow",
+  "bonusAchievementId": "ach_asshai_ghost_grass_secret",
+  "options": [
+    {
+      "text": "Melisandre: Channel the shadow into Stannis's royal bedchamber.",
+      "nextId": "melisandre_stannis_nightfire_chamber"
+    },
+    {
+      "text": "The Caravans: March alongside the thousand-foot black walls of the Five Forts.",
+      "nextId": "five_forts_bleeding_sea_caravan"
+    },
+    {
+      "text": "The Warlocks: Retreat into the decaying Hall of Mirrors in Qarth.",
+      "nextId": "qarth_house_of_the_undying_hall_of_mirrors"
+    },
+    {
+      "text": "Melisandre: Cast ruby fire to awaken the hero at Castle Black.",
+      "nextId": "melisandre_resurrection_ritual"
+    }
+  ],
+  "prerequisites": [],
+  "mutuallyExclusiveWith": [],
+  "introducesPlotHole": null
+}

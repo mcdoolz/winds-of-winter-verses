@@ -1,0 +1,29 @@
+{
+  "id": "mance_crypt_escape_winterfell_slaughter",
+  "title": "THE WASHERWOMEN'S BLADES // WINTERFELL ESCAPE",
+  "pov": "Mance Rayder",
+  "narrative": "The blizzard howled through the Great Keep of Winterfell as Mance Rayder—disguised as the singer Abel—cast aside his lute. Four spearwives drew skinning knives from beneath their sheepskin cloaks. When two Dreadfort men-at-arms stepped into the corridor, Rowan and Holly slit their throats before they could cry out. Dragging the bleeding corpses into the snowdrift, Mance kicked open the door to the battlements, securing the escape rope above the eighty-foot drop. 'Down the wall!' Mance barked as bells began to toll alarm across the castle.",
+  "resolvesPlotHole": "How the Winterfell Washerwomen Infiltrated the Bolton Host",
+  "bonusAchievementId": "ach_mance_winterfell_escape",
+  "options": [
+    {
+      "text": "Theon: Flee across the snowdrifts holding Jeyne Poole in tender embrace.",
+      "nextId": "theon_jeyne_poole_ghost_healing"
+    },
+    {
+      "text": "Wyman Manderly: Unveil the three colossal Frey meat pies in the Great Hall.",
+      "nextId": "manderly_pie_reveal"
+    },
+    {
+      "text": "Mance: Retreat into the ancient hot spring depths beneath the crypts.",
+      "nextId": "winterfell_hot_springs_deep_abyss"
+    },
+    {
+      "text": "The Cloaked Killer: Strike from the snowy battlements as chaos erupts.",
+      "nextId": "ghost_of_winterfell"
+    }
+  ],
+  "prerequisites": [],
+  "mutuallyExclusiveWith": [],
+  "introducesPlotHole": null
+}

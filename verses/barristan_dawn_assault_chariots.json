@@ -1,0 +1,29 @@
+{
+  "id": "barristan_dawn_assault_chariots",
+  "title": "THE WHITE CHARGE // BARRISTAN THE BOLD",
+  "pov": "Barristan Selmy",
+  "narrative": "The Great Bronze Gate of Meereen groaned open at the first glimmer of dawn. Barristan Selmy sat astride a silver stallion, his white armor polished until it reflected the rising sun like a second blade. 'Here we are, lads!' he cried, raising his sword high. Five thousand freedmen spearmen, pit fighters with spiked knuckles, and brass-armored legionnaires surged forward into the Yunkish trebuchet lines. Barristan sliced through three sellsword officers before his stallion even broke stride, leading the cavalry wedge with the ferocious grace of a man who had won tourneys before the king was born.",
+  "resolvesPlotHole": "Barristan's Tactical Incompetence in Meereen",
+  "bonusAchievementId": "ach_selmy_dawn_assault",
+  "options": [
+    {
+      "text": "Barristan: Walk in on King Hizdahr's hedonistic pleasure palace in the pyramid.",
+      "nextId": "barristan_hizdahr_consort_jealousy"
+    },
+    {
+      "text": "Victarion: Smash the naval blockade to secure the eastern front.",
+      "nextId": "battle_of_fire_ironborn_iron_landing"
+    },
+    {
+      "text": "Daenerys: Rain fire from above upon the fleeing slaver legions.",
+      "nextId": "drogon_dothraki_khal_sar_strafe"
+    },
+    {
+      "text": "Barristan: Parley with Victarion to establish the council of war.",
+      "nextId": "barristan_victarion_parley"
+    }
+  ],
+  "prerequisites": [],
+  "mutuallyExclusiveWith": [],
+  "introducesPlotHole": null
+}

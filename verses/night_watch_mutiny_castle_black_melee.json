@@ -1,0 +1,29 @@
+{
+  "id": "night_watch_mutiny_castle_black_melee",
+  "title": "BLOOD ON THE SHIELD // MUTINY AT CASTLE BLACK",
+  "pov": "Tormund Giantsbane",
+  "narrative": "Bowen Marsh and forty mutinous black brothers drew steel in the courtyard of Castle Black, shouting of vows and treachery. Giant Wun Wun bellowed with tectonic fury, picking up a heavy ironwood timber and swatting four armored stewards through the door of the armory like flies. Tormund leaped into the fray, his broadsword biting through leather shields and fur cloaks. 'You stabbed the Lord Commander in the dark, you cowardly bastards!' Tormund roared, splitting an officer's skull in two. Free Folk spearmen poured from the barracks, turning the icy courtyard into a slaughterhouse for the mutineers.",
+  "resolvesPlotHole": "The Fate of Bowen Marsh and the Castle Black Mutineers",
+  "bonusAchievementId": "ach_mutiny_castle_black_crushed",
+  "options": [
+    {
+      "text": "Jon Snow: Wake in the high tower to share passionate warmth with Val.",
+      "nextId": "jon_val_tower_of_ghosts"
+    },
+    {
+      "text": "Melisandre: Channel the sacrificial blood into the resurrection prayer.",
+      "nextId": "melisandre_resurrection_ritual"
+    },
+    {
+      "text": "The Watch: Sound the warning horn as ice spiders assault the Wall.",
+      "nextId": "others_frost_spider_wall_assault"
+    },
+    {
+      "text": "Tormund: Lead surviving brothers down into the deep caves of Gorne.",
+      "nextId": "beyond_the_wall_gorne_grendel_subterrane"
+    }
+  ],
+  "prerequisites": [],
+  "mutuallyExclusiveWith": [],
+  "introducesPlotHole": null
+}

@@ -21,6 +21,10 @@
     {
       "text": "Bowen Marsh: Spot the twelve million Canadian Geese advancing through the valley.",
       "nextId": "canadian_geese_beyond_the_wall"
+    },
+    {
+      "text": "Cotter Pyke: Sail toward the weeping blowhole caves of Hardhome.",
+      "nextId": "hardhome_screaming_caves_expedition"
     }
   ],
   "prerequisites": [],

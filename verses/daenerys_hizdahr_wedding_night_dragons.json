@@ -1,0 +1,29 @@
+{
+  "id": "daenerys_hizdahr_wedding_night_dragons",
+  "title": "THE BRONZE PYRAMID BALCONY // SMOKE AND SILK",
+  "pov": "Daenerys Targaryen",
+  "narrative": "The ceremonial wedding bed was piled six deep with gold-cloth pillows and perfumed with essence of lotus. Hizdahr zo Loraq knelt upon the silk sheets, his hands trembling as he untied the seed-pearl girdle of Daenerys's wedding gown. Dany closed her eyes, detaching her mind from the clumsy, eager caresses of her Ghiscari husband. Outside the arched balcony, a shadow wingspan of forty cubits blocked the moon: Drogon circled the Great Pyramid, his black scales glowing with internal magma, releasing a roar that rattled the wine flagons on the nightstand. Dany gasped beneath Hizdahr's thrusts, her fingernails digging into the silk as she imagined burning the entire city to ash in dragonfire.",
+  "resolvesPlotHole": "How Daenerys Endured Her Marriage to Hizdahr",
+  "bonusAchievementId": "ach_queen_of_dragons_nuptials",
+  "options": [
+    {
+      "text": "Daenerys: Summon Daario Naharis to her private solar the following dawn.",
+      "nextId": "dany_daario_silk_tokar_quarters"
+    },
+    {
+      "text": "Daenerys: Mount Drogon and incinerate the attacking Dothraki khalasar.",
+      "nextId": "drogon_dothraki_khal_sar_strafe"
+    },
+    {
+      "text": "The Yunkish Fleet: Launch fire catapults into the harbor as the battle ignites.",
+      "nextId": "battle_of_fire_ironborn_iron_landing"
+    },
+    {
+      "text": "Daenerys: Wade through 400 pages of Meereenese olive trade negotiations.",
+      "nextId": "meereenese_knot_untied"
+    }
+  ],
+  "prerequisites": [],
+  "mutuallyExclusiveWith": [],
+  "introducesPlotHole": null
+}

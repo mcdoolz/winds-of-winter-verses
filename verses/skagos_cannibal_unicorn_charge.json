@@ -1,0 +1,29 @@
+{
+  "id": "skagos_cannibal_unicorn_charge",
+  "title": "HORNS OF OBSIDIAN // THE UNICORN STAMPEDE",
+  "pov": "Davos Seaworth",
+  "narrative": "Through the dense pine forests of Skagos, an ambush of sixty shaggy mountain wildlings wielding obsidian-tipped axes sprang from the mist. Davos gripped the braided mane of his mount: a nine-foot woolly beast with a single spiraled horn of pure obsidian jutting from its forehead. Shaggydog, Rickon Stark's colossal black direwolf, leaped over a deadfall tree, ripping out the throat of the clan chieftain. With a terrifying roar, the herd of armored Skagosi unicorns charged downhill, their horns piercing through hide and bone, shattering the wildling war party into retreat.",
+  "resolvesPlotHole": "The Mythological Existence of Skagosi Unicorns",
+  "bonusAchievementId": "ach_unicorn_cavalry_charge",
+  "options": [
+    {
+      "text": "Davos: Explore the volcanic obsidian caverns of Skagos to recover Rickon.",
+      "nextId": "skagos_shivering_obsidian_caverns"
+    },
+    {
+      "text": "Tormund: Share tales of wildling beasts in the thermal caverns.",
+      "nextId": "tormund_she_bear_cave_fires"
+    },
+    {
+      "text": "Davos: Return south with Rickon to rally the Stark loyalists.",
+      "nextId": "davos_skagos_cannibals"
+    },
+    {
+      "text": "Cotter Pyke: Witness screaming horrors at the caves of Hardhome.",
+      "nextId": "hardhome_screaming_caves_expedition"
+    }
+  ],
+  "prerequisites": [],
+  "mutuallyExclusiveWith": [],
+  "introducesPlotHole": null
+}

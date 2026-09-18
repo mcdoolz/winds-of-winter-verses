@@ -21,6 +21,10 @@
     {
       "text": "March south on Winterfell with the united Wildling clans.",
       "nextId": "ride_winterfell"
+    },
+    {
+      "text": "Jon Snow: Ascend to the Tower of Ghosts with Val into the wildling furs.",
+      "nextId": "jon_val_tower_of_ghosts"
     }
   ],
   "prerequisites": [],

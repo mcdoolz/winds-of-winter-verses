@@ -1,0 +1,29 @@
+{
+  "id": "others_frost_spider_wall_assault",
+  "title": "CHITIN ON ICE // ASSAULT OF THE FROST SPIDERS",
+  "pov": "Jon Snow",
+  "narrative": "The cold that heralded their coming dropped the temperature forty degrees in five heartbeats. Scaling the seven-hundred-foot frozen vertical facade of the Wall came hundreds of pale, translucent frost spiders as large as destriers, their eight needle-like legs biting effortlessly into the ice. Watchmen on the catwalks panicked as blue-eyed wights swarmed up behind the arachnids. Jon Snow drew Longclaw, shouting orders to tip the barrels of burning pitch. A river of boiling resin cascaded down the ice face, turning fifty spiders into hissing torches of blue flame, but thousands more crawled through the blizzard from the Haunted Forest.",
+  "resolvesPlotHole": "The Legendary Ice Spiders Big as Hounds",
+  "bonusAchievementId": "ach_ice_spiders_wall_climb",
+  "options": [
+    {
+      "text": "Jon Snow: Retreat to the Tower of Ghosts to find solace in Val's arms.",
+      "nextId": "jon_val_tower_of_ghosts"
+    },
+    {
+      "text": "The Night's Watch: Battle mutineers in the courtyard of Castle Black.",
+      "nextId": "night_watch_mutiny_castle_black_melee"
+    },
+    {
+      "text": "Bran Stark: Gaze into the Heart of Winter at the frozen pole.",
+      "nextId": "land_of_always_winter_heart_of_ice_expedition"
+    },
+    {
+      "text": "Cotter Pyke: Report dead things in the water at Hardhome.",
+      "nextId": "hardhome_screaming_caves_expedition"
+    }
+  ],
+  "prerequisites": [],
+  "mutuallyExclusiveWith": [],
+  "introducesPlotHole": null
+}

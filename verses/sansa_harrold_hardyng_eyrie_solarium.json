@@ -1,0 +1,29 @@
+{
+  "id": "sansa_harrold_hardyng_eyrie_solarium",
+  "title": "FALCON DOWN & MOUNTAIN FROST // THE HIGH SOLVENT",
+  "pov": "Sansa Stark",
+  "narrative": "The solar was heated by a hearth of fragrant pine logs, but frost still formed intricate fern-patterns upon the glass panes looking down six thousand feet into the Vale. Ser Harrold Hardyng, flushed with spiced cider and youthful arrogance, cornered Alayne Stone against the feather-strewn bench. 'You are no mere bastard, Alayne,' Harry murmured, his hands bold and persistent, unlacing the velvet bodice of her gown. Sansa let her head fall back, her chestnut-dyed curls spilling across the falcon pillows. When Harry pressed his lips to her throat, kissing the tender curve of her bosom, she played the innocent maid with practiced calculation, letting his gasping adoration bind the future of the Vale to her gentle, relentless control.",
+  "resolvesPlotHole": "Sansa's Seduction Plan for Harrold Hardyng",
+  "bonusAchievementId": "ach_winged_knight_passion",
+  "options": [
+    {
+      "text": "Harry the Heir: Ride into the mountain pass only to be ambushed by clan shadowcats.",
+      "nextId": "shadowcat_ravine_vale_clansman_ambush"
+    },
+    {
+      "text": "Sansa: Watch Harry win the tournament ribbon at the Gates of the Moon.",
+      "nextId": "sansa_tourney_winged_knights"
+    },
+    {
+      "text": "Lord Royce: Lead ten thousand Knights of the Vale north to liberate Winterfell.",
+      "nextId": "knights_of_vale_ride_north"
+    },
+    {
+      "text": "Sansa: Seek counsel from the Green Men residing on the Isle of Faces.",
+      "nextId": "isle_of_faces_green_men_haven"
+    }
+  ],
+  "prerequisites": [],
+  "mutuallyExclusiveWith": [],
+  "introducesPlotHole": null
+}

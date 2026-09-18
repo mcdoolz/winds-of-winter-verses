@@ -19,6 +19,10 @@
       "nextId": "oberyn_hot_sauce_spear",
       "bonusAchievementId": "ach_dornish_hot_sauce",
       "introducesPlotHole": "Dornish Ghost Pepper Hot Sauce Biochemical Warfare"
+    },
+    {
+      "text": "Darkstar: Ambush Balon Swann pursuit squad in the narrow sandstone canyon.",
+      "nextId": "darkstar_starfall_canyon_ambush"
     }
   ],
   "prerequisites": [],

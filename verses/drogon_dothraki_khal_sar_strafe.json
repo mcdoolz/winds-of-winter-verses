@@ -1,0 +1,29 @@
+{
+  "id": "drogon_dothraki_khal_sar_strafe",
+  "title": "BLACK WINGS & BLOOD SPILLED // DROGON'S DESCENT",
+  "pov": "Daenerys Targaryen",
+  "narrative": "A screaming vanguard of ten thousand Dothraki bloodriders charged across the amber grasses of the Great Grass Sea, their arakhs spinning like silver crescents. From the clouds above dropped a shadow three times larger than a galleon. Drogon roared, and a torrent of pure, unadulterated black flame bathed the Dothraki vanguard in forty yards of incinerating heat. Horses and riders turned to white ash in mid-stride, their bronze jewelry melting into molten beads. Daenerys clung to the dragon's neck spikes, her silver hair streaming in the gale, reigning supreme as the mother of the apocalypse.",
+  "resolvesPlotHole": "How Daenerys United the Entire Dothraki Sea Instantly",
+  "bonusAchievementId": "ach_drogon_apocalypse_strafe",
+  "options": [
+    {
+      "text": "Daenerys: Return to the pyramid bedchamber to indulge in Daario's arms.",
+      "nextId": "dany_daario_silk_tokar_quarters"
+    },
+    {
+      "text": "Victarion: Unleash the ironborn reavers onto the Meereenese harbor.",
+      "nextId": "battle_of_fire_ironborn_iron_landing"
+    },
+    {
+      "text": "Daenerys: Celebrate her formal wedding night atop the bronze balcony.",
+      "nextId": "daenerys_hizdahr_wedding_night_dragons"
+    },
+    {
+      "text": "Daenerys: Set sail directly west for Dragonstone across the open sea.",
+      "nextId": "meereenese_knot_untied"
+    }
+  ],
+  "prerequisites": [],
+  "mutuallyExclusiveWith": [],
+  "introducesPlotHole": null
+}

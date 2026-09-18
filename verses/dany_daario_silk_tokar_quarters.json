@@ -1,0 +1,29 @@
+{
+  "id": "dany_daario_silk_tokar_quarters",
+  "title": "THE APEX OF THE PYRAMID // PERFUMED SILK & SELLSWORD STEEL",
+  "pov": "Daenerys Targaryen",
+  "narrative": "Daario's trident-forked beard, dyed blue as an Essosi plum, scratched against the curve of Dany's collarbone. Her royal tokar of lilac silk slipped from her bare shoulder to pool like liquid lavender upon the marble mosaic floor. Daario laughed with sellsword swagger, his calloused hands parting the soft curve of her thighs. 'My queen,' he murmured against her throat, his mouth hot as dragon breath, kissing every inch of her skin until she was shuddering with raw Valyrian passion beneath the canopy. Outside, Drogon roared into the sultry Meereenese twilight, but within the bedchamber, all Westerosi logistics, grain tariffs, and forty thousand waiting troops dissolved into pure, breathless ecstasies of the flesh.",
+  "resolvesPlotHole": "Daenerys Abandoning Westerosi Logistics for Paramours",
+  "bonusAchievementId": "ach_meereen_pyramid_hedonism",
+  "options": [
+    {
+      "text": "Daario Naharis: Lead the Stormcrows to the beachhead where the Ironborn fleet lands.",
+      "nextId": "battle_of_fire_ironborn_iron_landing"
+    },
+    {
+      "text": "Barristan Selmy: Arrive unannounced at the royal bedchamber with urgent council dispatches.",
+      "nextId": "barristan_hizdahr_consort_jealousy"
+    },
+    {
+      "text": "Daenerys: Leap onto Drogon's back naked and bathe the Dothraki sea in black fire.",
+      "nextId": "drogon_dothraki_khal_sar_strafe"
+    },
+    {
+      "text": "Hizdahr zo Loraq: Demand the formal ceremonial consummation of the royal marriage.",
+      "nextId": "daenerys_hizdahr_wedding_night_dragons"
+    }
+  ],
+  "prerequisites": [],
+  "mutuallyExclusiveWith": [],
+  "introducesPlotHole": null
+}

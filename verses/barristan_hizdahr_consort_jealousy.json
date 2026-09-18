@@ -1,0 +1,29 @@
+{
+  "id": "barristan_hizdahr_consort_jealousy",
+  "title": "THE PLEASURE PALACE OF MEEREEN // SCENT OF CEDAR & MYRRH",
+  "pov": "Barristan Selmy",
+  "narrative": "Ser Barristan the Bold pushed open the gilded cedar doors of the King's pleasure terrace, and froze in his polished white armor. The chamber was a haze of opium smoke and rosewater. King Hizdahr zo Loraq reclined amidst embroidered purple cushions, completely naked, attended by four bedmaidens with oiled limbs and golden chains around their slender waists. Hizdahr was feeding pomegranate seeds directly from the lips of a blushing Lysene boy while two Ghiscari concubines massaged his thighs. The eighty-year-old Kingsguard lord commander blushed crimson to the roots of his snow-white hair, sputtering into his beard at sights utterly forbidden by the pious chivalric vows of Westeros.",
+  "resolvesPlotHole": "Why Ser Barristan Overthrew King Hizdahr",
+  "bonusAchievementId": "ach_selmy_blushing_knight",
+  "options": [
+    {
+      "text": "Barristan: Draw his sword, charge on his silver steed, and overthrow the city.",
+      "nextId": "barristan_dawn_assault_chariots"
+    },
+    {
+      "text": "Barristan: March directly to Daenerys's quarters to report the king's decadence.",
+      "nextId": "dany_daario_silk_tokar_quarters"
+    },
+    {
+      "text": "The Ironborn: Crash longships into the harbor as the Battle of Fire begins.",
+      "nextId": "battle_of_fire_ironborn_iron_landing"
+    },
+    {
+      "text": "Barristan: Sound the war horns for the great morning sally against Yunkai.",
+      "nextId": "barristan_battle_of_fire"
+    }
+  ],
+  "prerequisites": [],
+  "mutuallyExclusiveWith": [],
+  "introducesPlotHole": null
+}

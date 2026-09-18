@@ -1,0 +1,29 @@
+{
+  "id": "jaime_brienne_tarth_sapphire_tent",
+  "title": "OATHBREAKER UNARMORED // THE SAPPHIRE BED",
+  "pov": "Jaime Lannister",
+  "narrative": "The leather laces of Brienne's surcoat yielded to Jaime's single flesh hand with agonizing slowness. Beneath the heavy boiled leather lay skin pale as milk, freckled across massive, battle-hardened shoulders. Jaime touched the hollow of her throat with his golden fingers—chilled metal against burning skin—and Brienne gasped, her blue eyes wide as the Sapphire Isle. 'Jaime,' she whispered, clumsy and fierce, as their bodies met on the pallet of wolfskins. His mouth found hers in a desperate, bruising kiss that tasted of iron, rain, and fifteen years of unspoken yearning. Every oath sworn to gods and kings crumbled into nothingness within the warmth of her trembling embrace.",
+  "resolvesPlotHole": "The Unresolved Jaime and Brienne Romantic Tension",
+  "bonusAchievementId": "ach_golden_hand_tenderness",
+  "options": [
+    {
+      "text": "Brienne: Draw Oathkeeper to defend the cave when Lady Stoneheart's scouts attack.",
+      "nextId": "brienne_stoneheart_gallows_brawl"
+    },
+    {
+      "text": "Jaime: Surrender to Lady Stoneheart to face the judgment of Catelyn Stark.",
+      "nextId": "stoneheart_jaime"
+    },
+    {
+      "text": "Jaime: Ride west into the Riverlands to intercept Brynden Tully's night sally.",
+      "nextId": "blackfish_riverrun_night_sally"
+    },
+    {
+      "text": "Jaime: Remember Cersei's scented bedchambers in King's Landing with sudden revulsion.",
+      "nextId": "cersei_taena_myr_arbor_bed"
+    }
+  ],
+  "prerequisites": [],
+  "mutuallyExclusiveWith": [],
+  "introducesPlotHole": null
+}

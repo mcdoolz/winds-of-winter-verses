@@ -1,0 +1,29 @@
+{
+  "id": "euron_redwyne_straits_blood_boarding",
+  "title": "THE REDWYNE STRAITS IN BLOOD // BOARDING THE ARBOR FLEET",
+  "pov": "Euron Greyjoy",
+  "narrative": "The Silence sliced through the calm green waters off the Whispering Sound like an obsidian blade. Paxter Redwyne's eighty-oared heavy dromons attempted to form a defensive line, but Euron's corsairs had the wind. Euron fired a broadside of flaming naphtha casks that ignited the Arbor sails in howling sheets of yellow flame. With grappling iron ropes securing the flagship, Euron led the boarding charge personally, his dark eye blazing, carving through Reach knights with supernatural speed. The water turned black with blood as holy men chained to the hulls began their dying shrieks.",
+  "resolvesPlotHole": "How the Ironborn Defeated the Redwyne Fleet",
+  "bonusAchievementId": "ach_redwyne_straits_massacre",
+  "options": [
+    {
+      "text": "Euron: Retreat to his darkened cabin to ravish Falia Flowers amidst the dead.",
+      "nextId": "euron_falia_flowers_cabin_darkness"
+    },
+    {
+      "text": "Euron: Blow the Dragonbinder horn to summon sea beasts from the deep.",
+      "nextId": "intro_eldritch_maritime_horror"
+    },
+    {
+      "text": "Aeron Damphair: Pray to the Drowned God to send an all-consuming tidal wave.",
+      "nextId": "aeron_drowned_god_awakens"
+    },
+    {
+      "text": "The Iron Victory: Ram the remaining Arbor flagships into kindling.",
+      "nextId": "redwyne_ironborn_ramming_cataclysm"
+    }
+  ],
+  "prerequisites": [],
+  "mutuallyExclusiveWith": [],
+  "introducesPlotHole": null
+}

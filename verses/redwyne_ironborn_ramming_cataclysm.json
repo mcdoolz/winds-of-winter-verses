@@ -1,0 +1,29 @@
+{
+  "id": "redwyne_ironborn_ramming_cataclysm",
+  "title": "SPLIT IN TWAIN // THE IRON VICTORY RAMS",
+  "pov": "Victarion Greyjoy",
+  "narrative": "The Iron Victory lunged across the swell, her iron prow fashioned into the gaping beak of an iron kraken. With the wind dead behind her sixty oars, she struck the broadside of Lord Redwyne's three-decked flagship, the Queen of Flowers. The impact was cataclysmic: twenty oak ribs snapped like toothpicks as the iron ram smashed straight into the rowers' benches, splitting the gilded warship clean in two. Thousands of gallons of green brine rushed into the breach as the severed halves listed wildly and plunged to the sea floor, taking three hundred armored knights down into the eternal grasp of the Drowned God.",
+  "resolvesPlotHole": "The Decisive Naval Clash of the Redwyne Fleet",
+  "bonusAchievementId": "ach_naval_ramming_cataclysm",
+  "options": [
+    {
+      "text": "Victarion: Retire to his cabin to embrace the Dusky Woman in smoky heat.",
+      "nextId": "victarion_dusky_woman_cabin_fever"
+    },
+    {
+      "text": "Euron: Board the remaining dromons in a sea of wildfire and blood.",
+      "nextId": "euron_redwyne_straits_blood_boarding"
+    },
+    {
+      "text": "Samwell: Watch the naval cataclysm from the deck of the Cinnamon Wind.",
+      "nextId": "sam_gilly_cinnamon_wind_cabin"
+    },
+    {
+      "text": "Moqorro: Read the smoking future in the embers on the forecastle.",
+      "nextId": "dragonbinder_horn_sounded"
+    }
+  ],
+  "prerequisites": [],
+  "mutuallyExclusiveWith": [],
+  "introducesPlotHole": null
+}

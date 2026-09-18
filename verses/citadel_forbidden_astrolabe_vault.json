@@ -1,0 +1,29 @@
+{
+  "id": "citadel_forbidden_astrolabe_vault",
+  "title": "UNDER THE HIGHTOWER // THE CLOCKWORK CELESTIAL VAULT",
+  "pov": "Samwell Tarly",
+  "narrative": "Three levels beneath the vaults of the Seneschal's Court, behind a vault door of meteoric iron, Sam held aloft a sputtering candle. Before him turned an astronomical wonder from ancient Valyria: a three-story brass astrolabe with spinning concentric rings charting the heavens, powered by geothermal steam from beneath the Honeywine. As the brass globes aligned, a beam of light refracted through a prism of cut obsidian, projecting a map of Planetos onto the vaulted ceiling. The map revealed the seasonal anomaly: an ancient astronomical misalignment of a shattered second moon that caused the long, erratic winters.",
+  "resolvesPlotHole": "The Astronomical Reason for Westerosi Seasons",
+  "bonusAchievementId": "ach_astrolabe_seasons_revealed",
+  "options": [
+    {
+      "text": "Samwell: Return to Gilly's cabin aboard the ship in tender embrace.",
+      "nextId": "sam_gilly_cinnamon_wind_cabin"
+    },
+    {
+      "text": "Archmaester Marwyn: Strike the glass candle to communicate with Daenerys.",
+      "nextId": "citadel_archmaester_glass_candle_ritual"
+    },
+    {
+      "text": "Samwell: Deduce Valyrian metallurgy through sudden rigorous cardio.",
+      "nextId": "samwell_tarly_cardio_renaissance"
+    },
+    {
+      "text": "The Faceless Man: Infiltrate the vault to steal the dragon-breeding scrolls.",
+      "nextId": "faceless_men_dragon_scrolls"
+    }
+  ],
+  "prerequisites": [],
+  "mutuallyExclusiveWith": [],
+  "introducesPlotHole": null
+}

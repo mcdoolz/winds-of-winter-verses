@@ -1,0 +1,29 @@
+{
+  "id": "tyrion_penny_pillow_confession",
+  "title": "BELOW DECK ON THE SMELLY SOW // STARLIGHT & WHISPERS",
+  "pov": "Tyrion Lannister",
+  "narrative": "Beneath the dripping timbers of the cog, the air was warm with salt water and straw. Penny lay curled beside Tyrion, her round face damp with quiet tears. 'They laughed at us, Tyrion,' she whispered in the dark. Tyrion reached out, his misaligned fingers stroking her curly hair with a gentleness he had not felt since Tysha. When she turned into his arms, pressing her small, soft body against his scarred chest, the venom and cynical fury that had poisoned him since King's Landing seemed to drain away. Their mouths met—clumsy, hesitant, then desperate with the fierce hunger of two outcasts clutching at salvation. In the suffocating bilge, love was an improbable, sweet defiance against the abyss.",
+  "resolvesPlotHole": "Tyrion's Relentless Cynicism Regarding True Affection",
+  "bonusAchievementId": "ach_small_tender_hearts",
+  "options": [
+    {
+      "text": "Tyrion: Navigate the foggy waters of the Rhoyne past the sunken city of Chroyane.",
+      "nextId": "rhoyne_bridge_of_dream_fog_journey"
+    },
+    {
+      "text": "Tyrion: Sneak into the Great Pyramid of Meereen to petition the Dragon Queen.",
+      "nextId": "dany_daario_silk_tokar_quarters"
+    },
+    {
+      "text": "Penny: Watch the ironborn ships launch their vicious harbor boarding assault.",
+      "nextId": "battle_of_fire_ironborn_iron_landing"
+    },
+    {
+      "text": "Tyrion: Negotiate a credit note with the Iron Bank representative in Slaver's Bay.",
+      "nextId": "braavosi_banker_deal"
+    }
+  ],
+  "prerequisites": [],
+  "mutuallyExclusiveWith": [],
+  "introducesPlotHole": null
+}

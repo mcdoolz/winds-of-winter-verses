@@ -1,0 +1,29 @@
+{
+  "id": "euron_falia_flowers_cabin_darkness",
+  "title": "THE CAPTAIN'S CABIN // SHADOWS OF THE SILENCE",
+  "pov": "Falia Flowers",
+  "narrative": "The Great Cabin of the Silence was black as pitch, save for the blue smoke drifting from an incense burner carved like a kraken's jaw. Euron stood over her, smelling of salt water, dark wine, and Valyrian steel. He stripped away her modest gown with one sharp pull of a dagger, leaving her shivering naked against the fur-strewn deck. 'You shall be my salt queen, little blossom,' Euron whispered, his black leather eye patch pressing against her wet cheek. When his heavy, ringed hands pinned her wrists and his body entered hers with brutal, rhythmic power, Falia wept tears of terror and feverish devotion. In the darkness, she felt the ancient eldritch magic of the deep sea pulsing through his blood.",
+  "resolvesPlotHole": "How Euron Convinced Falia Flowers to Walk Aboard Unafraid",
+  "bonusAchievementId": "ach_crows_eye_dark_seduction",
+  "options": [
+    {
+      "text": "Euron: Order the boarding hooks thrown across Paxter Redwyne's flagship.",
+      "nextId": "euron_redwyne_straits_blood_boarding"
+    },
+    {
+      "text": "Euron: Strap holy men to the Silence prow and sound the Dragonbinder horn.",
+      "nextId": "intro_eldritch_maritime_horror"
+    },
+    {
+      "text": "Falia: Listen to Patchface singing from the bilge about under-the-sea lovers.",
+      "nextId": "patchface_underwater_mermaid_passion"
+    },
+    {
+      "text": "Euron: Bleed twenty maesters into the sea to summon the leviathan kraken.",
+      "nextId": "euron_blood_kraken_summon"
+    }
+  ],
+  "prerequisites": [],
+  "mutuallyExclusiveWith": [],
+  "introducesPlotHole": null
+}

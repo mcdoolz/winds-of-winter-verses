@@ -21,6 +21,10 @@
     {
       "text": "Victarion Greyjoy: Crash the Iron Fleet into the Slaver's Bay harbor with a fiery smoking arm.",
       "nextId": "victarion_iron_fleet_arrives"
+    },
+    {
+      "text": "Daenerys: Flee the council into the apex bedchamber with Daario Naharis.",
+      "nextId": "dany_daario_silk_tokar_quarters"
     }
   ],
   "prerequisites": [],

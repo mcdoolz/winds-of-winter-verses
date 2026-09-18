@@ -1,0 +1,29 @@
+{
+  "id": "leng_underground_old_ones_labyrinth",
+  "title": "THE LABYRINTH OF LENG // CAVES OF THE OLD ONES",
+  "pov": "Lomas Longstrider",
+  "narrative": "On the jade-green island of Leng in the Jade Sea, deep beneath the bamboo forests, lay the bottomless labyrinths constructed by the Old Ones before human speech existed. Descending seven hundred stone steps into the pitch dark, the air grew thick with ozone and ancient musk. Carved into the colossal basalt walls were non-Euclidean geometries that made the mind ache. From the deep fissures far below echoed low, rhythmic hums like titan hearts beating in slumber: the ancient beings whose whispered dreams occasionally drove the God-Empresses of Leng to slaughter all foreign merchants on the island.",
+  "resolvesPlotHole": "The Eldritch Horrors Inhabiting the Island of Leng",
+  "bonusAchievementId": "ach_leng_old_ones_labyrinth",
+  "options": [
+    {
+      "text": "The Explorers: March north to inspect the 1,000-foot walls of the Five Forts.",
+      "nextId": "five_forts_bleeding_sea_caravan"
+    },
+    {
+      "text": "The Explorers: Sail west to explore the oily basalt ruins of Sothoryos.",
+      "nextId": "sothoryos_yween_basalt_ruin_trek"
+    },
+    {
+      "text": "The Warlocks: Retreat into the Hall of Mirrors in the House of the Undying.",
+      "nextId": "qarth_house_of_the_undying_hall_of_mirrors"
+    },
+    {
+      "text": "Euron Greyjoy: Harness the dark whispers to awaken the kraken.",
+      "nextId": "euron_blood_kraken_summon"
+    }
+  ],
+  "prerequisites": [],
+  "mutuallyExclusiveWith": [],
+  "introducesPlotHole": null
+}

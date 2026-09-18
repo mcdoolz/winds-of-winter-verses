@@ -1,0 +1,29 @@
+{
+  "id": "braavos_house_of_black_and_white_deep_sanctum",
+  "title": "THIRTY LEVELS BENEATH // THE PRIMEVAL SANCTUM",
+  "pov": "Arya Stark",
+  "narrative": "Arya slipped past the sleeping acolytes and descended the winding spiral stair beneath the House of Black and White, going down thirty levels into the subterranean bedrock of Braavos. The salt water of the lagoon seeped through the stones. In the lowest sanctum, surrounding a bottomless pool of black water, were not hundreds of faces, but millions: faces of Valyrian dragonlords, Ghiscari pit queens, First Men kings, and children from the dawn of time. In the center of the black pool floated a colossal silver sarcophagus: the true first face of the Many-Faced God, which bore the visage of the stranger.",
+  "resolvesPlotHole": "The Bottomless Depths of the House of Black and White",
+  "bonusAchievementId": "ach_house_of_black_and_white_depths",
+  "options": [
+    {
+      "text": "Arya: Duel the guild assassins across the Braavosi rooftops.",
+      "nextId": "arya_braavos_canal_rooftop_duel"
+    },
+    {
+      "text": "Arya: Flee to the Riverlands to reunite passionately with Gendry.",
+      "nextId": "arya_gendry_acorn_waterfall_reunion"
+    },
+    {
+      "text": "The Faceless Men: Infiltrate the Citadel archives to steal dragon lore.",
+      "nextId": "faceless_men_dragon_scrolls"
+    },
+    {
+      "text": "Arya: Set sail across the Narrow Sea for Westeros.",
+      "nextId": "arya_sails_westeros"
+    }
+  ],
+  "prerequisites": [],
+  "mutuallyExclusiveWith": [],
+  "introducesPlotHole": null
+}

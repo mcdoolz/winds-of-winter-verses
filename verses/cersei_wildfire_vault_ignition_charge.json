@@ -1,0 +1,29 @@
+{
+  "id": "cersei_wildfire_vault_ignition_charge",
+  "title": "THE ALCHEMISTS' BREW // FIRES OF THE SEPT",
+  "pov": "Cersei Lannister",
+  "narrative": "Fifty Faith Militant zealots armed with iron morningstars stormed the subterranean crypts beneath the Sept of Baelor, chanting prayers of purification. Cersei's loyal pyromancer squad, clad in dragonhide armor and wielding pressurized bronze siphons, met them at the threshold. With a sharp hiss, a torrent of green, unquenchable wildfire roared down the stone corridor. The zealots were consumed in seconds, their bones burning emerald green before they could utter a second hymn. The alchemical fire began eating into the foundation stones, threatening to crack the entire hill of Visenya in two.",
+  "resolvesPlotHole": "The Subterranean Wildfire Defense of the Red Keep",
+  "bonusAchievementId": "ach_wildfire_vault_ignition",
+  "options": [
+    {
+      "text": "Cersei: Retreat to her bed with Taena Merryweather to drink Arbor Gold.",
+      "nextId": "cersei_taena_myr_arbor_bed"
+    },
+    {
+      "text": "Qyburn: Guide Cersei to the deep cellars for dark anatomical experiments.",
+      "nextId": "quiberon_qyburn_cersei_dark_fascination"
+    },
+    {
+      "text": "Sandor Clegane: Clash greatswords with Ser Robert Strong in the ruins.",
+      "nextId": "hound_mountain_trial_of_seven"
+    },
+    {
+      "text": "The Sept of Baelor: Detonate the full green pyre across King's Landing.",
+      "nextId": "high_sparrow_purged"
+    }
+  ],
+  "prerequisites": [],
+  "mutuallyExclusiveWith": [],
+  "introducesPlotHole": null
+}

@@ -41,6 +41,20 @@
       "title": "ULTRAAAA COMBOOOOO!",
       "subtitle": "A DREAM OF SPRING",
       "desc": "8+ consecutive choices! The manuscript is written!"
+    },
+    {
+      "id": "combo_romance_2",
+      "tier": 2,
+      "title": "PASSION STREAK // FAT PINK MASTERY",
+      "subtitle": "GEORGE IS BLUSHING FURIOUSLY // 2X STEAMY CHAPTERS IN COMBO",
+      "desc": "Chained two consecutive suggestive romance scenes within the fast-authorship combo window."
+    },
+    {
+      "id": "combo_romance_3",
+      "tier": 3,
+      "title": "THE MYRISH SWAMP RUNNER // CARNAL VELOCITY",
+      "subtitle": "THREE CONSECUTIVE STEAMY SCENES // GEORGE OVERHEATING",
+      "desc": "Strung together 3 consecutive explicit romance scenes in a single blazing authorship streak."
     }
   ],
   "plotholes": [
@@ -1660,6 +1674,426 @@
       "subtitle": "VALYRIAN STEEL ARMOR ON A WOODEN BOAT",
       "plotHole": "Euron's Eldritch Blood Magic Climax",
       "desc": "A pirate king who is simultaneously Cthulhu, Benjen Stark, and Daario Naharis bleeding priests into the Redwyne Straits."
+    },
+    {
+      "id": "ach_fat_pink_mast_canonical",
+      "title": "THE CANONICAL MAST // WORDS OF THE SWORN BROTHER",
+      "subtitle": "FAT PINK MAST & MYRISH SWAMPS ACCORDING TO SCRIPTURE",
+      "plotHole": "Samwell Tarly's Night's Watch Celibacy Vows",
+      "desc": "Celebrated George's most infamous literary anatomical metaphors aboard the Cinnamon Wind."
+    },
+    {
+      "id": "ach_meereen_pyramid_hedonism",
+      "title": "STORM OF PERFUME // DRAGON QUEEN'S SECRET DELIGHT",
+      "subtitle": "FORGETTING WESTEROSI LOGISTICS FOR SELLSWORD CHARM",
+      "plotHole": "Daenerys Abandoning Westerosi Logistics for Paramours",
+      "desc": "Abandoned forty thousand Westerosi invasion logistics for perfumed pyramid passion."
+    },
+    {
+      "id": "ach_golden_hand_tenderness",
+      "title": "HANDS OF GOLD ARE WARM // THE LION AND THE SAPPHIRE",
+      "subtitle": "FIFTEEN YEARS OF CHIVALRIC RESTRAINT CRUMBLES",
+      "plotHole": "The Unresolved Jaime and Brienne Romantic Tension",
+      "desc": "Shattered fifteen years of unresolved chivalric tension in a Riverlands command tent."
+    },
+    {
+      "id": "ach_wildling_princess_embrace",
+      "title": "KISS OF ICE AND FIRE // THE RESURRECTED TRANSGRESSION",
+      "subtitle": "MELTING THE FROST FROM A RESURRECTED LORD COMMANDER",
+      "plotHole": "Jon Snow's Refusal of Winterfell and Val",
+      "desc": "Melted Castle Black's thirty-foot snowdrifts with wildling passion atop the Tower of Ghosts."
+    },
+    {
+      "id": "ach_shadow_binder_ecstasy",
+      "title": "FIRE IN THE FLESH // THE KING'S SEED OF SHADOW",
+      "subtitle": "DRAWING SHADOW DEMONS STRAIGHT FROM THE MARROW",
+      "plotHole": "The Energy Source of Stannis's Shadow Assassins",
+      "desc": "Forged an ethereal shadow assassin amidst burning silk and crimson brazier flames."
+    },
+    {
+      "id": "ach_queen_regent_intimacy",
+      "title": "MYRISH LACE UNLACED // WHISPERS IN THE FEATHERBED",
+      "subtitle": "ARBOR GOLD VINTAGE 298 AND TANGLED COVERT ALLIANCES",
+      "plotHole": "Cersei's Paranoid Trust in Taena Merryweather",
+      "desc": "Exchanged royal mandates and whispered treasons in tangled sheets of Arbor Gold."
+    },
+    {
+      "id": "ach_soiled_white_cloak",
+      "title": "THE WHITE CLOAK FALLS // SWEET AS DORNISH WINE",
+      "subtitle": "CRUSHED BLOOD ORANGES AND OBLITERATED KINGSGUARD VOWS",
+      "plotHole": "Why Ser Arys Oakheart Betrayed the Kingsguard Oath",
+      "desc": "Cast aside the sacred white cloak upon the sun-baked sands of the Dornish Marches."
+    },
+    {
+      "id": "ach_small_tender_hearts",
+      "title": "A COMFORT IN THE DARK // BEYOND THE SHADOW OF TYWIN",
+      "subtitle": "TWO SMALL SOULS CLINGING TO HUMANITY IN THE BILGE",
+      "plotHole": "Tyrion's Relentless Cynicism Regarding True Affection",
+      "desc": "Discovered an oasis of gentle tenderness and mutual healing in the hold of a slave ship."
+    },
+    {
+      "id": "ach_crows_eye_dark_seduction",
+      "title": "KISS OF THE DROWNED KING // DRIFTWOOD AND NIGHTSHADE",
+      "subtitle": "THE TERRIBLE CHARM OF THE VALYRIAN EYE PATCH",
+      "plotHole": "How Euron Convinced Falia Flowers to Walk Aboard Unafraid",
+      "desc": "Fell under the hypnotic, eldritch sway of the Crow's Eye in the darkness of the Silence."
+    },
+    {
+      "id": "ach_winged_knight_passion",
+      "title": "THE HEIR SURRENDERS // KISSES IN THE HIGH COLD",
+      "subtitle": "FALCON PILLOWS AND CALCULATING STARK SEDUCTION",
+      "plotHole": "Sansa's Seduction Plan for Harrold Hardyng",
+      "desc": "Bound the future heir of the Vale of Arryn through breathless kisses in the Eyrie solarium."
+    },
+    {
+      "id": "ach_blacksmith_and_direwolf",
+      "title": "IRON IN THE EMBRACE // NO LONGER A GHOST",
+      "subtitle": "THE WATERFALL CAVERN AND THE SMITH'S MIGHT",
+      "plotHole": "The Unresolved Gendry and Arya Romance Arc",
+      "desc": "Extinguished years of cold Bravosi vengeance in a passionate subterranean reunion."
+    },
+    {
+      "id": "ach_smoking_hand_passion",
+      "title": "ARM OF CHARRED FLESH // HEAT ACROSS THE WIDE SEA",
+      "subtitle": "VOLCANIC SORCERY AND MUTE PASSION IN THE CABIN",
+      "plotHole": "The True Nature of the Dusky Woman",
+      "desc": "Channelled Moqorro's volcanic arm heat into speechless passion aboard the Iron Victory."
+    },
+    {
+      "id": "ach_dragon_spear_consummation",
+      "title": "SEALING THE CROWN // PASSION OF FIRE AND SAND",
+      "subtitle": "THE THREE-HEADED DRAGON CANOPY AT STORM'S END",
+      "plotHole": "Arianne's Seduction and Annexation of Young Griff",
+      "desc": "Forged the alliance of the dragon and the sun-and-spear in the bedchamber of Storm's End."
+    },
+    {
+      "id": "ach_the_sun_has_set",
+      "title": "WHEN THE SUN HAS SET // NO CANDLE CAN REPLACE IT",
+      "subtitle": "PEACH NECTAR AND ROSES ON SCORCHED DRAGONSTONE",
+      "plotHole": "The True Depth of Loras Tyrell's Unyielding Grief",
+      "desc": "Relived the golden days of Highgarden peach nectar and unquenchable youthful desire."
+    },
+    {
+      "id": "ach_selmy_blushing_knight",
+      "title": "THE KNIGHT BLUSHES // SIGHTS UNBECOMING OF THE WHITE CLOAK",
+      "subtitle": "OPIUM SMOKE, BLUSHING BOYS, AND HIZDAHR'S PLEASURES",
+      "plotHole": "Why Ser Barristan Overthrew King Hizdahr",
+      "desc": "Witnessed the decadent pleasure palace of Meereen and blushed crimson to the white cloak."
+    },
+    {
+      "id": "ach_member_too_large",
+      "title": "HALF MY MEMBER WAS BITTEN OFF // BUT WHAT A NIGHT!",
+      "subtitle": "GEYSER STEAM, BEAR CLAWS, AND BOOMING WILDLING DELIGHT",
+      "plotHole": "The Truth Behind Tormund's She-Bear Story",
+      "desc": "Survived the roaring, tectonic fury of the legendary wildling she-bear in a thermal cavern."
+    },
+    {
+      "id": "ach_remember_your_name",
+      "title": "THE NAME IS THEON // WARMTH IN THE SNOW DRIFT",
+      "subtitle": "HEALING SCARS AND RECLAIMING NAMES BENEATH SHEEPSKINS",
+      "plotHole": "The Psychological Recovery of Theon Greyjoy",
+      "desc": "Reclaimed shattered human identities through quiet tenderness in the crofter's blizzard."
+    },
+    {
+      "id": "ach_queen_of_dragons_nuptials",
+      "title": "HONEY IN THE CAGE // THE MEEREENESE MATRIMONY",
+      "subtitle": "CEREMONIAL CONSUMMATION WHILE DROGON ROARS OUTSIDE",
+      "plotHole": "How Daenerys Endured Her Marriage to Hizdahr",
+      "desc": "Endured the royal Meereenese ceremonial consummation while black dragons circled above."
+    },
+    {
+      "id": "ach_alchemical_passion",
+      "title": "WHISPERS OF THE FLESH // DARK INTIMACY IN THE DUNGEONS",
+      "subtitle": "FORBIDDEN NEEDLES AND GOTHIC FASCINATION IN THE CELLS",
+      "plotHole": "Why Cersei Entrusted the Realm to Qyburn's Sorcery",
+      "desc": "Shared a forbidden shiver of dark dominion and surgical intimacy beneath the Red Keep."
+    },
+    {
+      "id": "ach_under_the_sea_ecstasy",
+      "title": "UNDER THE SEA // THE BRIDEGROOM WEARS CORAL",
+      "subtitle": "BIOLUMINESCENT MERMAIDS OF SHIPBREAKER BAY",
+      "plotHole": "What Actually Happened to Patchface in Shipbreaker Bay",
+      "desc": "Uncovered the sensual undersea grottoes of Shipbreaker Bay with the singing mermaids."
+    },
+    {
+      "id": "ach_battle_of_ice_trap",
+      "title": "THE SHATTERED ICE // THE BATTLE ON THE LAKE",
+      "subtitle": "TEN THOUSAND FREYS SWALLOWED BY FREEZING WATER",
+      "plotHole": "The Night Lamp Strategy Execution",
+      "desc": "Triggered the catastrophic lake ice collapse that sent the Frey vanguard to the freezing depths."
+    },
+    {
+      "id": "ach_ironborn_landing_bloodbath",
+      "title": "BLOOD IN MEEREEN // THE REAVERS HIT THE BEACH",
+      "subtitle": "VICTARION'S SMOKING AXE CLEAVES THE BLOCKADE",
+      "plotHole": "The Slaver Fleet Naval Superiority in Slaver's Bay",
+      "desc": "Shattered the Yunkish naval blockade in thirty minutes of brutal ironborn boarding combat."
+    },
+    {
+      "id": "ach_selmy_dawn_assault",
+      "title": "THE WHITE SALLY // BARRISTAN THE BOLD CHARGES",
+      "subtitle": "SILVER WARHORSE AND FIVE THOUSAND FREEDMEN SPEARS",
+      "plotHole": "Barristan's Tactical Incompetence in Meereen",
+      "desc": "Led the heroic dawn cavalry sally from the Great Bronze Gate of Meereen on a silver steed."
+    },
+    {
+      "id": "ach_redwyne_straits_massacre",
+      "title": "REDWYNE STRAITS IN ASH // THE CROW'S BOARDING CALL",
+      "subtitle": "NAPHTHA FLAMES CONSUME THE FLOWER OF THE REACH",
+      "plotHole": "How the Ironborn Defeated the Redwyne Fleet",
+      "desc": "Annihilated the Redwyne dromon line in a sea of screaming wildfire and iron boarding axes."
+    },
+    {
+      "id": "ach_braavos_rooftop_assassin",
+      "title": "NEEDLE ON THE SLATE // BRAAVOSI ROOFTOP PARKOUR",
+      "subtitle": "PARRYING POISONED STILETTOES ACROSS THE CANALS",
+      "plotHole": "How Arya Escaped the Faceless Men Unscathed",
+      "desc": "Out-dueled a Faceless guild assassin across the misty rooftop tiles of Braavos."
+    },
+    {
+      "id": "ach_oathkeeper_gallows_break",
+      "title": "OATHKEEPER UNLEASHED // THE CAVE GALLOWS BREACH",
+      "subtitle": "SEVERING PODRICK'S NOOSE IN VALYRIAN STEEL SPLENDOR",
+      "plotHole": "How Brienne and Podrick Survived Stoneheart's Noose",
+      "desc": "Broke the hanging trap of Lady Stoneheart and defended Podrick Payne with Oathkeeper."
+    },
+    {
+      "id": "ach_cleganebowl_apocalypse",
+      "title": "CLEGANEBOWL // THE GRAVEDIGGER AND THE GOLEM",
+      "subtitle": "GREATSWORD DUEL IN THE SCORCHED SEPT RUINS",
+      "plotHole": "The Canon Cleganebowl Showdown",
+      "desc": "Clashed two massive greatswords upon the scorched emerald floor of the Great Sept of Baelor."
+    },
+    {
+      "id": "ach_storm_end_breach",
+      "title": "ELEPHANTS AT THE GATE // STORM'S END SHATTERED",
+      "subtitle": "THE GOLDEN COMPANY SMASHES THE ANCIENT WALLS",
+      "plotHole": "How Storm's End Was Captured in a Single Afternoon",
+      "desc": "Breached the impregnable curtain wall of Storm's End with Golden Company war elephants."
+    },
+    {
+      "id": "ach_darkstar_ambush_blood",
+      "title": "BLADE OF THE NIGHT // RED MOUNTAIN MASSACRE",
+      "subtitle": "DARKSTAR DISARMS BALON SWANN'S ROYAL PURSUIT",
+      "plotHole": "Darkstar's Evading of Royal Pursuit",
+      "desc": "Carved through Balon Swann's pursuit squad in the narrow sandstone gorges of Dorne."
+    },
+    {
+      "id": "ach_mance_winterfell_escape",
+      "title": "LUTES AND LETHAL BLADES // THE WASHERWOMEN'S SALVO",
+      "subtitle": "MANCE RAYDER SLICING GUARDS ACROSS THE BATTLEMENTS",
+      "plotHole": "How the Winterfell Washerwomen Infiltrated the Bolton Host",
+      "desc": "Fought through the snow-drifted corridors of Winterfell to secure the rope escape."
+    },
+    {
+      "id": "ach_drogon_apocalypse_strafe",
+      "title": "THE WINGS OF THE DRAGON // ASH ON THE GRASS SEA",
+      "subtitle": "DROGON'S BLACK FLAME INCINERATES A KHALASAR",
+      "plotHole": "How Daenerys United the Entire Dothraki Sea Instantly",
+      "desc": "Bathed the Dothraki vanguard in forty yards of incinerating black dragon flame."
+    },
+    {
+      "id": "ach_mutiny_castle_black_crushed",
+      "title": "GIANT'S FURY // WUN WUN AT THE ICE CAGE",
+      "subtitle": "MUTINEERS SMASHED AGAINST THE WALLS OF CASTLE BLACK",
+      "plotHole": "The Fate of Bowen Marsh and the Castle Black Mutineers",
+      "desc": "Crushed the treacherous Night's Watch mutiny in the bloodstained courtyard of Castle Black."
+    },
+    {
+      "id": "ach_blackfish_night_fire",
+      "title": "SWIMMERS IN THE DARK // RIVERRUN SIEGE TOWERS IGNITE",
+      "subtitle": "BRYNDEN TULLY TURNS FREY WEAPONS INTO KINDLING",
+      "plotHole": "How the Blackfish Broke the Riverrun Siege Baggage Train",
+      "desc": "Torched the Frey siege engine park in a daring midnight amphibious stealth raid."
+    },
+    {
+      "id": "ach_wildfire_vault_ignition",
+      "title": "EMERALD FURY // THE ALCHEMICAL COUNTERATTACK",
+      "subtitle": "PYROMANCERS ROASTING ZEALOTS UNDER VISENYA'S HILL",
+      "plotHole": "The Subterranean Wildfire Defense of the Red Keep",
+      "desc": "Unleashed the green alchemical fury of wildfire against the storming Faith Militant."
+    },
+    {
+      "id": "ach_unicorn_cavalry_charge",
+      "title": "THE ONE-HORNED STAMPEDE // MOUNTAINS OF SKAGOS",
+      "subtitle": "SHAGGYDOG AND THE WOOLLY BEASTS SHATTER THE CLANS",
+      "plotHole": "The Mythological Existence of Skagosi Unicorns",
+      "desc": "Led a thundering charge of horned Skagosi woolly beasts through a wildling mountain ambush."
+    },
+    {
+      "id": "ach_iron_bank_water_dance_raid",
+      "title": "THE REPO IN THE RED KEEP // RAPIERS IN THE VAULT",
+      "subtitle": "BRAAVOSI WATER DANCERS EMPTY THE LANNISTER COFFERS",
+      "plotHole": "The Iron Bank's Enforcement Mechanisms on Westeros",
+      "desc": "Infiltrated the deepest Red Keep vaults to enforce the Iron Bank's golden debt collection."
+    },
+    {
+      "id": "ach_ice_spiders_wall_climb",
+      "title": "CHITIN ON ICE // SCALING SEVEN HUNDRED FEET",
+      "subtitle": "GIANT ICE SPIDERS AS LARGE AS HOUNDS ATTACK",
+      "plotHole": "The Legendary Ice Spiders Big as Hounds",
+      "desc": "Repelled hundreds of colossal frost spiders scaling the vertical ice face of the Wall."
+    },
+    {
+      "id": "ach_manderly_spear_wall",
+      "title": "THE SEAL-FUR PHALANX // WHITE HARBOR STRIKES",
+      "subtitle": "ASH PIKES PIERCE THE REMNANTS OF HOUSE FREY",
+      "plotHole": "The Manderly Military Deployment Outside Winterfell",
+      "desc": "Impaled the surviving Frey cavalry upon an impenetrable three-rank wall of ash pikes."
+    },
+    {
+      "id": "ach_burned_men_canyon_ambush",
+      "title": "CLAWS IN THE GORGE // THE BURNED MEN LEAP",
+      "subtitle": "HARRY THE HEIR EARNS HIS SPURS IN CLAN BLOOD",
+      "plotHole": "The Threat of the Mountain Clans of the Vale",
+      "desc": "Fought off a ferocious Burned Men and shadowcat ambush in the high gorges of the Vale."
+    },
+    {
+      "id": "ach_naval_ramming_cataclysm",
+      "title": "SPLIT IN TWAIN // THE IRON PROW OF VICTARION",
+      "subtitle": "THE QUEEN OF FLOWERS PLUNGES TO THE OCEAN FLOOR",
+      "plotHole": "The Decisive Naval Clash of the Redwyne Fleet",
+      "desc": "Smashed prow-first through a three-decked Reach war galley, cleaving the warship in two."
+    },
+    {
+      "id": "ach_valyria_ruins_conquest",
+      "title": "THE SMOKING SEA // TOWERS OF BLACK GLASS",
+      "subtitle": "WALKING THE VOLCANIC ASH OF ANCIENT DRAGONLORDS",
+      "plotHole": "How Euron Acquired Real Valyrian Steel Armor",
+      "desc": "Conquered the yellow sulfur mists and twisted obsidian ruins of the Valyrian Freehold."
+    },
+    {
+      "id": "ach_green_men_pact_truth",
+      "title": "THE GOD'S EYE // THE HORNED ORDER OF OAK",
+      "subtitle": "TEN THOUSAND YEARS OF LIVING WEIRWOOD SAP",
+      "plotHole": "The Purpose and Survival of the Green Men",
+      "desc": "Communed with the primeval Green Men amidst the ancient crying weirwoods of the God's Eye."
+    },
+    {
+      "id": "ach_skagos_obsidian_vault",
+      "title": "CAVERNS OF MAGMA & OBSIDIAN // RICKON FOUND",
+      "subtitle": "THE WILD WOLF BOY CARVING DRAGON GLASS",
+      "plotHole": "Rickon Stark's Survival on Skagos",
+      "desc": "Infiltrated the subterranean volcanic obsidian caverns of Skagos to recover Rickon Stark."
+    },
+    {
+      "id": "ach_astrolabe_seasons_revealed",
+      "title": "THE CLOCKWORK HEAVENS // THE SEASONS UNLOCKED",
+      "subtitle": "A SHATTERED SECOND MOON AND ANOMALOUS ORBITS",
+      "plotHole": "The Astronomical Reason for Westerosi Seasons",
+      "desc": "Discovered the ancient astronomical astrolabe that charts the cosmic origin of the long winter."
+    },
+    {
+      "id": "ach_sothoryos_basalt_ruins",
+      "title": "THE JUNGLE CONTINENT // OILY BASALT OF YWEEN",
+      "subtitle": "CYCLOPEAN CITIES OLDER THAN THE FIRST MEN",
+      "plotHole": "The Origin of the Oily Black Stone Across Planetos",
+      "desc": "Trek through the venomous jungles of Sothoryos to inspect the oily black stone of Yween."
+    },
+    {
+      "id": "ach_asshai_ghost_grass_secret",
+      "title": "THE RIVER ASH // SPORES OF THE GHOST GRASS",
+      "subtitle": "BEYOND STYGAI WHERE THE SUN NEVER SHINES",
+      "plotHole": "The True Nature of Asshai by the Shadow",
+      "desc": "Rode along the poisoned Ash River beneath Stygai through pale shimmering ghost grass."
+    },
+    {
+      "id": "ach_gornes_way_labyrinth",
+      "title": "GORNE'S WAY // THE ROAD BENEATH THE ICE",
+      "subtitle": "CHASMS, WATERFALLS, AND BLIND CAVE WIGHTS",
+      "plotHole": "The Subterranean Route Beneath the 700-Foot Wall",
+      "desc": "Navigated the bottomless subterranean labyrinth of Gorne's Way beneath the Wall."
+    },
+    {
+      "id": "ach_greywater_watch_mechanics",
+      "title": "THE FLOATING CASTLE // HOWLAND'S MOVING KEEP",
+      "subtitle": "WOVEN IRONWOOD RAFTS AND SUBTERRANEAN ARTERIES",
+      "plotHole": "Why Greywater Watch Has Never Been Captured",
+      "desc": "Boarded the shifting peat-and-ironwood rafts of Howland Reed's moving castle."
+    },
+    {
+      "id": "ach_hardhome_screaming_caves",
+      "title": "DEAD WATER // THE HORROR OF HARDHOME",
+      "subtitle": "THIRTY THOUSAND SOULS HUDDLED IN BLOWHOLE CAVES",
+      "plotHole": "What Happened to Cotter Pyke at Hardhome",
+      "desc": "Witnessed the weeping ash cliffs and submerged drowned wights in the bay of Hardhome."
+    },
+    {
+      "id": "ach_rhoyne_bridge_of_dream",
+      "title": "THE BRIDGE OF DREAM // TIME REVERSAL ON THE RHOYNE",
+      "subtitle": "PASSING THE IDENTICAL SUNKEN ARCH THREE TIMES",
+      "plotHole": "The Temporal Distortion of the Bridge of Dream",
+      "desc": "Drifted through the temporal recursion fog past the stone men of Chroyane."
+    },
+    {
+      "id": "ach_winterfell_volcanic_springs",
+      "title": "THE SLEEPING DRAGON // WINTERFELL'S CORE",
+      "subtitle": "FOSSILIZED EGGS IN THE SUBTERRANEAN BOILING SPRINGS",
+      "plotHole": "The Source of Winterfell's Perpetual Geothermal Heat",
+      "desc": "Warged into the deep volcanic magma springs beneath the First Men crypts of Winterfell."
+    },
+    {
+      "id": "ach_water_gardens_cyvasse_cypher",
+      "title": "THE IVORY DRAGON // THE PROPHECY IN THE PARCHMENT",
+      "subtitle": "RHAEGAR'S SECRET BETROTHAL CONTRACT REVEALED",
+      "plotHole": "The Master Plan Behind Doran Martell's Decades of Inaction",
+      "desc": "Decrypted Prince Rhaegar's secret prophecy parchment hidden inside a cyvasse dragon."
+    },
+    {
+      "id": "ach_summer_isles_swan_ship",
+      "title": "FEATHERED SAILS // WONDERS OF THE SUMMER SEA",
+      "subtitle": "GOLDEN TEAK, CARROT BOWS, AND RELIGIOUS HEDONISM",
+      "plotHole": "Why the Summer Isles Never Conquered Westeros",
+      "desc": "Sailed the crystal turquoise lagoons aboard a feather-sailed swan ship of the Summer Isles."
+    },
+    {
+      "id": "ach_leng_old_ones_labyrinth",
+      "title": "LABYRINTH OF LENG // THE WHISPERING SLUMBER",
+      "subtitle": "SEVEN HUNDRED BASALT STEPS TO THE OLD ONES",
+      "plotHole": "The Eldritch Horrors Inhabiting the Island of Leng",
+      "desc": "Descended into the non-Euclidean subterranean basalt labyrinths of the island of Leng."
+    },
+    {
+      "id": "ach_five_forts_yi_ti",
+      "title": "THE PEARL BULWARKS // THE FIVE FORTS OF YI TI",
+      "subtitle": "THOUSAND-FOOT BLACK STONE BASTIONS OF THE EAST",
+      "plotHole": "The Eastern Defense Against the Long Night",
+      "desc": "Inspected the gargantuan thousand-foot black stone bulwarks of the Five Forts of Yi Ti."
+    },
+    {
+      "id": "ach_glass_candle_ritual",
+      "title": "THE OBSIDIAN BEACON // MARWYN'S GREEN EYE",
+      "subtitle": "COMMUNING ACROSS SEVEN REALMS WITHOUT SHADOWS",
+      "plotHole": "How the Glass Candles of Oldtown Operate",
+      "desc": "Kindled the volcanic glass candle of Oldtown to project astral visions across the known world."
+    },
+    {
+      "id": "ach_dreadfort_skin_cellar",
+      "title": "THE BOLT-ON WARDROBE // FORTY-TWO SKIN SUITS",
+      "subtitle": "THREE THOUSAND YEARS OF EPIDERMAL CONSPIRACY",
+      "plotHole": "The Immortal Bolt-On Vampire Conspiracy",
+      "desc": "Discovered the hidden subterranean wardrobe of historical Bolton skin suits in the Dreadfort."
+    },
+    {
+      "id": "ach_house_of_black_and_white_depths",
+      "title": "THIRTY LEVELS DEEP // THE PRIMEVAL SISTERHOOD",
+      "subtitle": "A MILLION FACES SURROUNDING THE STRANGER'S POOL",
+      "plotHole": "The Bottomless Depths of the House of Black and White",
+      "desc": "Descended thirty subterranean levels beneath Braavos to the primeval silver sarcophagus pool."
+    },
+    {
+      "id": "ach_qarth_hall_of_mirrors",
+      "title": "MIRRORS OF THE SHADE // TIME DISTORTIONS OF QARTH",
+      "subtitle": "WARLOCKS FEEDING ON MULTIPLE BROKEN CANON REALITIES",
+      "plotHole": "The Paradoxical Timelines of the Warlocks of Qarth",
+      "desc": "Traversed the decaying recursive mirror halls of the House of the Undying in Qarth."
+    },
+    {
+      "id": "ach_heart_of_winter_throne",
+      "title": "THE THRONE OF ZERO // THE HEART OF WINTER",
+      "subtitle": "THE POLE OF THE WORLD AND THE FROZEN OBSIDIAN CRATER",
+      "plotHole": "The Geographic and Cosmic Source of the Others",
+      "desc": "Cast astral weirwood vision to the frozen obsidian throne at the pole of the known world."
     }
   ],
   "introduced": [

@@ -1,0 +1,29 @@
+{
+  "id": "iron_bank_braavosi_water_dancer_strike",
+  "title": "THE GOLDEN AUDIT // RAPIERS IN THE VAULT",
+  "pov": "Tycho Nestoris",
+  "narrative": "When Cersei Lannister's castellan refused to pay the Crown's nine-million-dragon debt, the Iron Bank closed its ledgers and opened its armories. Twenty masked Braavosi water dancers, moving with silent feline grace, infiltrated the subterranean treasury of the Red Keep through the ancient sewers of Maegor. In the dim lantern light of the vaults, their slender dueling rapiers flashed like lightning, disarming forty gold cloaks without a single loud clash of steel. Tycho dipped his quill into red ink, stamping the Lannister vaults: 'COLLECTED IN FULL BY THE SEALORD.'",
+  "resolvesPlotHole": "The Iron Bank's Enforcement Mechanisms on Westeros",
+  "bonusAchievementId": "ach_iron_bank_water_dance_raid",
+  "options": [
+    {
+      "text": "Arya: Duel Faceless Men across Braavosi rooftops beneath the fog.",
+      "nextId": "arya_braavos_canal_rooftop_duel"
+    },
+    {
+      "text": "Tycho: Sign the funding treaty with Stannis Baratheon in the North.",
+      "nextId": "iron_bank_repo_crane"
+    },
+    {
+      "text": "Tyrion: Secure a loan on the Selaesori Qhoran with Penny.",
+      "nextId": "tyrion_penny_pillow_confession"
+    },
+    {
+      "text": "The Iron Bank: Seal the pact with the Golden Company at Storm's End.",
+      "nextId": "braavosi_banker_deal"
+    }
+  ],
+  "prerequisites": [],
+  "mutuallyExclusiveWith": [],
+  "introducesPlotHole": null
+}

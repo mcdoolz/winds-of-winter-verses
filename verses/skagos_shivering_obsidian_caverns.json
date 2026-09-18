@@ -1,0 +1,29 @@
+{
+  "id": "skagos_shivering_obsidian_caverns",
+  "title": "CAVERNS OF SULFUR & OBSIDIAN // THE LOST PRINCE",
+  "pov": "Davos Seaworth",
+  "narrative": "Beneath the snow-clad peaks of Skagos lay a subterranean labyrinth of volcanic caverns, illuminated by the orange glow of subterranean magma pools and steaming fumaroles. Davos ventured deep into the dark, guided by the clicking sound of Shaggydog's claws on the obsidian floor. In a cavern surrounded by thousand-year-old mammoth bones sat Rickon Stark, wild-eyed and draped in unicorn hides, carving dragon glass arrowheads with feral precision. 'The Onion Lord,' Rickon rasped, his voice rough as grinding stones. 'Have you come to take me home to kill Boltons?'",
+  "resolvesPlotHole": "Rickon Stark's Survival on Skagos",
+  "bonusAchievementId": "ach_skagos_obsidian_vault",
+  "options": [
+    {
+      "text": "Davos: Mount the armored unicorn to charge through the mountain ambush.",
+      "nextId": "skagos_cannibal_unicorn_charge"
+    },
+    {
+      "text": "Davos: Deliver Rickon to Wyman Manderly at White Harbor.",
+      "nextId": "davos_skagos_cannibals"
+    },
+    {
+      "text": "Cotter Pyke: Witness the dead rising from the freezing caves of Hardhome.",
+      "nextId": "hardhome_screaming_caves_expedition"
+    },
+    {
+      "text": "Tormund: Laugh around the thermal cave fires with the she-bear.",
+      "nextId": "tormund_she_bear_cave_fires"
+    }
+  ],
+  "prerequisites": [],
+  "mutuallyExclusiveWith": [],
+  "introducesPlotHole": null
+}

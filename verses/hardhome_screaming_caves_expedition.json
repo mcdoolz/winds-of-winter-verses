@@ -1,0 +1,29 @@
+{
+  "id": "hardhome_screaming_caves_expedition",
+  "title": "DEAD THINGS IN THE WATER // THE SCREAMING CAVES",
+  "pov": "Cotter Pyke",
+  "narrative": "The Talon drifted into the bay of Hardhome beneath a sky dark with gray ash. Along the jagged volcanic cliffs, thirty thousand wildling refugees huddled inside the Screaming Caves, so named because the wind howled through the blowholes like dying children. Cotter Pyke gripped the ship's rail in sheer horror: in the black, ice-choked waters of the bay, hundreds of pale, drowned corpses swam silently beneath the surface, staring upward with burning blue eyes. As night fell, six of the Talon's longboats capsized without a sound, dragged into the abyss by freezing skeletal hands.",
+  "resolvesPlotHole": "What Happened to Cotter Pyke at Hardhome",
+  "bonusAchievementId": "ach_hardhome_screaming_caves",
+  "options": [
+    {
+      "text": "The Others: Unleash the frost spiders to scale the icy Wall.",
+      "nextId": "others_frost_spider_wall_assault"
+    },
+    {
+      "text": "Davos: Recover Rickon from the obsidian caverns of Skagos.",
+      "nextId": "skagos_shivering_obsidian_caverns"
+    },
+    {
+      "text": "Bran Stark: Gaze into the frozen heart of ice at the world's pole.",
+      "nextId": "land_of_always_winter_heart_of_ice_expedition"
+    },
+    {
+      "text": "Jon Snow: Wake from death as the horn blasts echo across the Wall.",
+      "nextId": "intro_resurrected_hero_wall"
+    }
+  ],
+  "prerequisites": [],
+  "mutuallyExclusiveWith": [],
+  "introducesPlotHole": null
+}

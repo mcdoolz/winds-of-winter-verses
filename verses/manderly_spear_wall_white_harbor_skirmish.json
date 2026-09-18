@@ -1,0 +1,29 @@
+{
+  "id": "manderly_spear_wall_white_harbor_skirmish",
+  "title": "THE MANDERLY PHALANX // SPEARS IN THE DRIFT",
+  "pov": "Wyman Manderly",
+  "narrative": "Six hundred heavy spearmen of White Harbor, clad in seal-fur mantles and green enameled mail, locked their eight-foot ash pikes three ranks deep across the frozen snow road. Hosteen Frey's surviving outriders charged blindly into the wall of steel. The pike-points impaled destriers and riders alike, lifting men clean out of their stirrups with sickening crunches. Wyman Manderly watched from his heavy sled, chuckling into his furs as his knights closed the trap from the flanks. 'The North does not merely remember, Ser Hosteen,' Wyman murmured, 'the North digests!'",
+  "resolvesPlotHole": "The Manderly Military Deployment Outside Winterfell",
+  "bonusAchievementId": "ach_manderly_spear_wall",
+  "options": [
+    {
+      "text": "Stannis: Spring the ice collapse on the lake to drown the army.",
+      "nextId": "battle_of_ice_frozen_lake_collapse"
+    },
+    {
+      "text": "Wyman: Return to Winterfell to serve the three Frey meat pies.",
+      "nextId": "manderly_pie_reveal"
+    },
+    {
+      "text": "The Bolton Guards: Flee toward the subterranean skin cellars of the Dreadfort.",
+      "nextId": "dreadfort_secret_skin_cellar_probe"
+    },
+    {
+      "text": "The Northern Lords: Form the final muster at the gates of Winterfell.",
+      "nextId": "northern_muster_ending"
+    }
+  ],
+  "prerequisites": [],
+  "mutuallyExclusiveWith": [],
+  "introducesPlotHole": null
+}

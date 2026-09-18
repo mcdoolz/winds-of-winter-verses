@@ -19,6 +19,14 @@
       "nextId": "doran_wheelchair_rocket_boosters",
       "bonusAchievementId": "ach_rocket_wheelchair",
       "introducesPlotHole": "The Valyrian Nitro-Boosted Gout Wheelchair"
+    },
+    {
+      "text": "Arianne: Cast aside Kingsguard vows with Ser Arys Oakheart in the red desert sands.",
+      "nextId": "arianne_ser_arys_dornish_dunes"
+    },
+    {
+      "text": "Doran: Reveal the secret parchment hidden in the ivory cyvasse dragon.",
+      "nextId": "dornish_water_gardens_secret_parchment"
     }
   ],
   "prerequisites": [],

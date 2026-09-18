@@ -1,0 +1,29 @@
+{
+  "id": "loras_renly_ghost_fever_memory",
+  "title": "PEACH NECTAR & SUMMER ROSES // MEMORY ON DRAGONSTONE",
+  "pov": "Loras Tyrell",
+  "narrative": "Loras lay upon his pallet in the drafty stone tower of Dragonstone, his flesh agonizingly burned by boiling oil, but his fevered mind wandered south to Highgarden. In his dreams, Renly Baratheon stood before him in emerald velvet, holding out a ripe summer peach. 'Taste it, Loras,' Renly had laughed, his lips dripping with sweet nectar. In that sun-drenched pavilion of green silk, they had shed their armor and tangled their youthful limbs together, laughing and gasping in passionate embrace while the rose petals rained down. Loras wept silent tears into his bandages. 'When the sun has set,' he whispered into the darkness, 'no candle can ever replace it.'",
+  "resolvesPlotHole": "The True Depth of Loras Tyrell's Unyielding Grief",
+  "bonusAchievementId": "ach_the_sun_has_set",
+  "options": [
+    {
+      "text": "Archmaester Marwyn: Light the glass candle of Oldtown to communicate with Loras.",
+      "nextId": "citadel_archmaester_glass_candle_ritual"
+    },
+    {
+      "text": "Cersei Lannister: Celebrate Loras's mortal wounds with Taena in Maegor's Holdfast.",
+      "nextId": "cersei_taena_myr_arbor_bed"
+    },
+    {
+      "text": "Samwell Tarly: Uncover the forbidden astrolabe vault beneath the Citadel.",
+      "nextId": "citadel_forbidden_astrolabe_vault"
+    },
+    {
+      "text": "The Faith Militant: Storm the septs as the High Sparrow cleanses the capital.",
+      "nextId": "high_sparrow_purged"
+    }
+  ],
+  "prerequisites": [],
+  "mutuallyExclusiveWith": [],
+  "introducesPlotHole": null
+}

@@ -1,0 +1,29 @@
+{
+  "id": "theon_jeyne_poole_ghost_healing",
+  "title": "CROFTER'S SHELTER // THE HEALING OF NAMES",
+  "pov": "Theon Greyjoy",
+  "narrative": "The crofter's hovel was half-buried in an eight-foot snowdrift, the wind shrieking like a dying woman through the cracks. Theon wrapped his remaining fingers around Jeyne Poole's frozen hands, tucking her shivering body beneath the double wool blankets. 'I am not Arya,' she wept, her frostbitten nose bleeding onto his tunic. 'And I am not Reek,' Theon whispered, his voice cracking with tender, desperate humanity. He kissed her cold brow, her tear-slick cheeks, and held her shivering frame close against his own scarred ribs. In the pitch darkness of the blizzard, sharing their body warmth without fear or cruelty, they slowly piece by piece reclaimed their shattered souls.",
+  "resolvesPlotHole": "The Psychological Recovery of Theon Greyjoy",
+  "bonusAchievementId": "ach_remember_your_name",
+  "options": [
+    {
+      "text": "Stannis: Spring the ice trap on the frozen lake to engulf the Frey vanguard.",
+      "nextId": "battle_of_ice_frozen_lake_collapse"
+    },
+    {
+      "text": "Theon: Light the beacon tower on the island to lure the Bolton cavalry.",
+      "nextId": "night_lamp_lake"
+    },
+    {
+      "text": "Theon: Recall the secret hot spring chambers beneath the ruins of Winterfell.",
+      "nextId": "winterfell_hot_springs_deep_abyss"
+    },
+    {
+      "text": "The Cloaked Killer: Stalk the icy ramparts of Winterfell to claim another Frey.",
+      "nextId": "ghost_of_winterfell"
+    }
+  ],
+  "prerequisites": [],
+  "mutuallyExclusiveWith": [],
+  "introducesPlotHole": null
+}

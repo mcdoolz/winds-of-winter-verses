@@ -1,0 +1,29 @@
+{
+  "id": "blackfish_riverrun_night_sally",
+  "title": "THE BURNING RED FORK // THE BLACKFISH SWIMS",
+  "pov": "Brynden Tully",
+  "narrative": "Under the cover of a pitch-black moonless rainstorm, the Blackfish and forty seasoned Riverrun swimmers drifted soundlessly beneath the iron water gates into the Red Fork. Clambering up the muddy banks of the Frey camp, they hurled clay jars of pitch into the siege engine depot. Within moments, three eighty-foot siege towers were raging infernos, lighting the midnight sky like torches of vengeance. Freys poured from their tents in nightshirts, screaming in terror as Tully longbowmen picked them off from the reeds before slipping back into the churning river like river pike.",
+  "resolvesPlotHole": "How the Blackfish Broke the Riverrun Siege Baggage Train",
+  "bonusAchievementId": "ach_blackfish_night_fire",
+  "options": [
+    {
+      "text": "Jaime: Encounter Brienne in the sapphire pavilion tent amidst the rain.",
+      "nextId": "jaime_brienne_tarth_sapphire_tent"
+    },
+    {
+      "text": "Brienne: Cut down outlaws at the cave gallows with Oathkeeper.",
+      "nextId": "brienne_stoneheart_gallows_brawl"
+    },
+    {
+      "text": "The Blackfish: Rally Riverrun loyalists to march on the Twins.",
+      "nextId": "blackfish_riverrun_rally"
+    },
+    {
+      "text": "Walder Frey: Gum prunes at the Twins while bragging of 150 years of spite.",
+      "nextId": "walder_frey_spite_immortality"
+    }
+  ],
+  "prerequisites": [],
+  "mutuallyExclusiveWith": [],
+  "introducesPlotHole": null
+}

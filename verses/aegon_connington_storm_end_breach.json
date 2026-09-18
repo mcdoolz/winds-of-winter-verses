@@ -1,0 +1,29 @@
+{
+  "id": "aegon_connington_storm_end_breach",
+  "title": "ELEPHANTS OF THE GOLDEN COMPANY // THE CURTAIN WALL FALLS",
+  "pov": "Jon Connington",
+  "narrative": "Three colossal war elephants clad in studded leather barded with gilded spikes hammered against the massive iron portcullis of Storm's End. Jon Connington raised his sword, his greyscale-stiffened fingers gripping the hilt with desperate resolve. 'For the true king!' he shouted. Ten thousand hardened veteran sellswords of the Golden Company surged through the shattered breach, crossbowmen clearing the battlements with volley after deadly volley. Within two hours, the unbroken fortress raised the three-headed dragon banner, heralding the resurrection of House Targaryen upon the shores of Westeros.",
+  "resolvesPlotHole": "How Storm's End Was Captured in a Single Afternoon",
+  "bonusAchievementId": "ach_storm_end_breach",
+  "options": [
+    {
+      "text": "Aegon VI: Enter the bedchamber to seal the royal alliance with Arianne Martell.",
+      "nextId": "faegon_arianne_storm_end_bedchamber"
+    },
+    {
+      "text": "Arianne: Dispatch marriage emissaries to Doran Martell at Sunspear.",
+      "nextId": "arianne_aegon_marriage"
+    },
+    {
+      "text": "Jon Connington: Test the youth for Blackfyre hereditary birthmarks.",
+      "nextId": "faegon_blackfyre"
+    },
+    {
+      "text": "The Golden Company: March north to encircle King's Landing.",
+      "nextId": "cersei_standoff"
+    }
+  ],
+  "prerequisites": [],
+  "mutuallyExclusiveWith": [],
+  "introducesPlotHole": null
+}

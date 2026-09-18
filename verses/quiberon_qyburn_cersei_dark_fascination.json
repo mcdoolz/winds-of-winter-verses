@@ -1,0 +1,29 @@
+{
+  "id": "quiberon_qyburn_cersei_dark_fascination",
+  "title": "THE DEEP CELLAR // THE COLD STUDY OF THE FLESH",
+  "pov": "Cersei Lannister",
+  "narrative": "In the subterranean laboratory beneath the Black Cells, the only light came from green alchemical braziers. Qyburn knelt before Cersei, his soft, gentle hands unfastening her ruby necklace with surgical delicacy. His breath was cool against her bare collarbone as his fingers traced the pulse point at her throat. 'You possess an extraordinary constitution, Your Grace,' Qyburn murmured with chilling, intimate fascination. Cersei shivered with dark, forbidden pleasure, leaning into the touch of the defrocked maester whose forbidden needles and stitched flesh had created her invincible champion. Here in the damp gloom, she felt an intoxicating intimacy born of shared monstrous ambition.",
+  "resolvesPlotHole": "Why Cersei Entrusted the Realm to Qyburn's Sorcery",
+  "bonusAchievementId": "ach_alchemical_passion",
+  "options": [
+    {
+      "text": "Cersei: Give the order to unleash the wildfire caches beneath King's Landing.",
+      "nextId": "cersei_wildfire_vault_ignition_charge"
+    },
+    {
+      "text": "Cersei: Retreat to her bedchamber with Taena Merryweather to drink Arbor Gold.",
+      "nextId": "cersei_taena_myr_arbor_bed"
+    },
+    {
+      "text": "Ser Robert Strong: Unleash the giant in stone armor upon the city gates.",
+      "nextId": "mountain_hound_clash"
+    },
+    {
+      "text": "The Faith: Assemble the High Septon's council for the final trial verdict.",
+      "nextId": "cersei_trial_judgment"
+    }
+  ],
+  "prerequisites": [],
+  "mutuallyExclusiveWith": [],
+  "introducesPlotHole": null
+}

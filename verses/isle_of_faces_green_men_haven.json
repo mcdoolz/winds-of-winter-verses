@@ -1,0 +1,29 @@
+{
+  "id": "isle_of_faces_green_men_haven",
+  "title": "THE GOD'S EYE // THE WEIRWOOD GROVE OF THE GREEN MEN",
+  "pov": "Howland Reed",
+  "narrative": "A skiff carved from pale weirwood drifted through the thick, amber mists of the God's Eye. Emerging onto the mossy shores of the Isle of Faces, Howland Reed was greeted by the cloaked Green Men, their horned crowns of living oak boughs rustling in the breeze, riding upon massive red elks. Every tree upon the island was an ancient weirwood with crying red eyes, their roots intertwined beneath the soil into a living, whispering consciousness that remembered the signing of the Pact ten thousand years ago. Here, the secrets of Rhaegar, Lyanna, and the song of ice and fire were preserved in eternal sap.",
+  "resolvesPlotHole": "The Purpose and Survival of the Green Men",
+  "bonusAchievementId": "ach_green_men_pact_truth",
+  "options": [
+    {
+      "text": "Howland Reed: Produce Lyanna's silver wedding harp and marriage scroll.",
+      "nextId": "howland_reed_appears"
+    },
+    {
+      "text": "Bran Stark: Connect through the living roots to the Heart of Winter.",
+      "nextId": "land_of_always_winter_heart_of_ice_expedition"
+    },
+    {
+      "text": "Sansa Stark: Seek sanctuary on the sacred island with the Vale knights.",
+      "nextId": "sansa_harrold_hardyng_eyrie_solarium"
+    },
+    {
+      "text": "Howland Reed: Guide loyalists through the floating marshes of Greywater Watch.",
+      "nextId": "neck_floating_crannog_greywater_watch"
+    }
+  ],
+  "prerequisites": [],
+  "mutuallyExclusiveWith": [],
+  "introducesPlotHole": null
+}

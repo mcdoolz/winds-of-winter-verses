@@ -1,0 +1,29 @@
+{
+  "id": "beyond_the_wall_gorne_grendel_subterrane",
+  "title": "GORNE'S WAY // THE LABYRINTH BENEATH THE WALL",
+  "pov": "Tormund Giantsbane",
+  "narrative": "Three leagues west of the Shadow Tower, Tormund pushed aside a curtain of frozen lichen to reveal the gaping maw of Gorne's Way: a cavernous highway descending into the bowels of the earth. Torches flickered against subterranean waterfalls and vast chasms spanning hundreds of feet. Three thousand years ago, Kings Gorne and Grendel had led their people beneath the Wall through these tunnels, only for half to lose their way forever. In the utter darkness below, blind cave-wights with milky eyes chattered their teeth, waiting for the unwary to drop from the limestone bridges into the bottomless abyss.",
+  "resolvesPlotHole": "The Subterranean Route Beneath the 700-Foot Wall",
+  "bonusAchievementId": "ach_gornes_way_labyrinth",
+  "options": [
+    {
+      "text": "Tormund: Ascend into the thermal caverns to embrace the she-bear in furs.",
+      "nextId": "tormund_she_bear_cave_fires"
+    },
+    {
+      "text": "The Night's Watch: Battle the mutineers in the courtyard above.",
+      "nextId": "night_watch_mutiny_castle_black_melee"
+    },
+    {
+      "text": "Bran Stark: Trace the roots of the world to the Land of Always Winter.",
+      "nextId": "land_of_always_winter_heart_of_ice_expedition"
+    },
+    {
+      "text": "Jon Snow: Rejoin Val in Castle Black's highest tower.",
+      "nextId": "jon_val_tower_of_ghosts"
+    }
+  ],
+  "prerequisites": [],
+  "mutuallyExclusiveWith": [],
+  "introducesPlotHole": null
+}

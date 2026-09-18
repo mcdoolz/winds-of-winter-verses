@@ -1,0 +1,29 @@
+{
+  "id": "faegon_arianne_storm_end_bedchamber",
+  "title": "THE THREE-HEADED CANOPY // STORM'S END CHAMBER",
+  "pov": "Arianne Martell",
+  "narrative": "The royal chamber within Storm's End smelled of old stone, ocean rain, and musk. Aegon VI lay upon the crimson coverlet, his Valyrian eyes bright with the thrill of battle, his silver-gold hair falling across his brow. Arianne straddled his hips, her golden skin gleaming beneath the woven three-headed dragon banner above the four-poster bed. She leaned down, her dark curls brushing his chest, whispering of Sunspear's fifty thousand spears between tender, breathless kisses. Aegon groaned, his hands gripping her curvaceous waist, arching up into her with royal passion. With every shuddering gasp in the storm, the dragon and the sun-and-spear forged an unbreakable union of flesh and blood.",
+  "resolvesPlotHole": "Arianne's Seduction and Annexation of Young Griff",
+  "bonusAchievementId": "ach_dragon_spear_consummation",
+  "options": [
+    {
+      "text": "Jon Connington: Lead the armored war elephants to smash the outer gates.",
+      "nextId": "aegon_connington_storm_end_breach"
+    },
+    {
+      "text": "Aegon VI: Ride up the Kingsroad with the Golden Company to besiege the capital.",
+      "nextId": "arianne_aegon_marriage"
+    },
+    {
+      "text": "Illyrio Mopatis: Reveal the hidden Blackfyre lineage marks on Aegon's body.",
+      "nextId": "faegon_blackfyre"
+    },
+    {
+      "text": "Arianne: Dispatch scouts into the Neck to locate Howland Reed's moving castle.",
+      "nextId": "neck_floating_crannog_greywater_watch"
+    }
+  ],
+  "prerequisites": [],
+  "mutuallyExclusiveWith": [],
+  "introducesPlotHole": null
+}

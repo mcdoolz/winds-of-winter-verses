@@ -1,0 +1,29 @@
+{
+  "id": "arianne_ser_arys_dornish_dunes",
+  "title": "BLOOD ORANGES & WHITE CLOAKS // THE DORNISH EXPEDITION",
+  "pov": "Arianne Martell",
+  "narrative": "The white woolen cloak of the Kingsguard lay discarded in the hot red sands of the Dornish Marches. Ser Arys Oakheart knelt between Arianne's spread thighs, sobbing with holy devotion and uncontrollable lust. Arianne squeezed a ripe blood orange over her own bare collarbones; the sweet crimson juice ran in sticky rivulets down over the globes of her breasts and across her golden belly. 'Taste me, my knight,' she purred, tangling her fingers in his damp hair. Arys buried his mouth into her skin, licking the sweet citrus and sweat from her trembling loins. With every shuddering thrust against the desert dunes, the solemn vows of the White Tower were obliterated beneath the fierce, unyielding sun.",
+  "resolvesPlotHole": "Why Ser Arys Oakheart Betrayed the Kingsguard Oath",
+  "bonusAchievementId": "ach_soiled_white_cloak",
+  "options": [
+    {
+      "text": "Darkstar: Draw his midnight blade from the rocks to ambuscade the royal escort.",
+      "nextId": "darkstar_starfall_canyon_ambush"
+    },
+    {
+      "text": "Arianne: Ride north to meet Young Griff and cement the Dornish alliance.",
+      "nextId": "arianne_aegon_marriage"
+    },
+    {
+      "text": "Doran Martell: Summon Arianne to the Water Gardens to decrypt the cyvasse cipher.",
+      "nextId": "dornish_water_gardens_secret_parchment"
+    },
+    {
+      "text": "Arianne: Take Young Griff into the bedchamber of Storm's End under dragon banners.",
+      "nextId": "faegon_arianne_storm_end_bedchamber"
+    }
+  ],
+  "prerequisites": [],
+  "mutuallyExclusiveWith": [],
+  "introducesPlotHole": null
+}

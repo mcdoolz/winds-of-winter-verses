@@ -21,6 +21,10 @@
     {
       "text": "The Forsaken: Gaze into the nightmare visions across the boiling Redwyne Straits.",
       "nextId": "the_forsaken_prow"
+    },
+    {
+      "text": "Euron: Retreat to the darkened cabin of the Silence with Falia Flowers.",
+      "nextId": "euron_falia_flowers_cabin_darkness"
     }
   ],
   "prerequisites": [],

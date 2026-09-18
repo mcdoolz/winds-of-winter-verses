@@ -1,0 +1,29 @@
+{
+  "id": "victarion_dusky_woman_cabin_fever",
+  "title": "VOLCANIC TOUCH // THE IRON CAPTAIN'S CABIN",
+  "pov": "Victarion Greyjoy",
+  "narrative": "The Iron Victory rolled through the swell off the Stepstones. Victarion stripped off his heavy coat of plates, his right arm blackened and smoking from Moqorro's volcanic blood sorcery. The Dusky Woman stepped from the shadows, her dark skin gleaming with aromatic oils. Without a word—for her tongue had been taken long ago—she guided his burning, charred hand to the softness of her throat, then down over the swell of her bare breasts. The heat radiating from his fingers caused her skin to flush a deep bronze. When she pulled the massive ironborn captain onto the bunk, her silent, rhythmic gasps against his neck were fiercer than any sea storm, drowning out the drowned god in a tempest of carnal fire.",
+  "resolvesPlotHole": "The True Nature of the Dusky Woman",
+  "bonusAchievementId": "ach_smoking_hand_passion",
+  "options": [
+    {
+      "text": "Victarion: Lead the ironborn longships to smash the Yunkish blockade in Meereen.",
+      "nextId": "battle_of_fire_ironborn_iron_landing"
+    },
+    {
+      "text": "Victarion: Ram the Iron Victory directly through an Arbor war galley.",
+      "nextId": "redwyne_ironborn_ramming_cataclysm"
+    },
+    {
+      "text": "Victarion: March into the Great Pyramid to claim Daenerys Targaryen for his bride.",
+      "nextId": "dany_daario_silk_tokar_quarters"
+    },
+    {
+      "text": "Moqorro: Sound the Dragonbinder horn from the forecastle at midnight.",
+      "nextId": "dragonbinder_horn_sounded"
+    }
+  ],
+  "prerequisites": [],
+  "mutuallyExclusiveWith": [],
+  "introducesPlotHole": null
+}

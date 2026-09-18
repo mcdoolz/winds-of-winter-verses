@@ -1,0 +1,29 @@
+{
+  "id": "battle_of_fire_ironborn_iron_landing",
+  "title": "IRON SHIPS & YUNKISH ASH // BATTLE OF MEEREEN",
+  "pov": "Victarion Greyjoy",
+  "narrative": "The Iron Victory's ram smashed cleanly through the oar-banks of a triple-decked Yunkish war galley with a sound like thunder. Victarion leaped from the prow into the enemy forecastle, his kraken-crested greathelm roaring. In his right hand, his charred, smoking arm gripped an iron battleaxe that whistled through mail, bone, and flesh. Behind him, nine hundred reavers poured over the bulwarks with hooked axes, hurling firepots into the slave-soldier ranks. The Meereen harbor turned crimson with blood, salt foam, and burning pitch as the ironborn shattered the blockade in thirty brutal minutes.",
+  "resolvesPlotHole": "The Slaver Fleet Naval Superiority in Slaver's Bay",
+  "bonusAchievementId": "ach_ironborn_landing_bloodbath",
+  "options": [
+    {
+      "text": "Victarion: Retire to his captain's cabin to take the Dusky Woman in smoky passion.",
+      "nextId": "victarion_dusky_woman_cabin_fever"
+    },
+    {
+      "text": "Barristan Selmy: Sally out from the bronze gates on his warhorse to link up.",
+      "nextId": "barristan_dawn_assault_chariots"
+    },
+    {
+      "text": "Daenerys: Descend from the clouds atop Drogon to incinerate the siege camps.",
+      "nextId": "drogon_dothraki_khal_sar_strafe"
+    },
+    {
+      "text": "Tyrion: Dodge the crossbow bolts and scramble toward the beachhead.",
+      "nextId": "tyrion_penny_pillow_confession"
+    }
+  ],
+  "prerequisites": [],
+  "mutuallyExclusiveWith": [],
+  "introducesPlotHole": null
+}

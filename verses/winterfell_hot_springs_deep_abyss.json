@@ -1,0 +1,29 @@
+{
+  "id": "winterfell_hot_springs_deep_abyss",
+  "title": "THE VOLCANIC ARTERIES // HOT SPRINGS OF WINTERFELL",
+  "pov": "Bran Stark",
+  "narrative": "Warging through the weirwood roots, Bran's consciousness dove beneath the First Men foundations of the crypts. Deep in the subterranean bedrock ran colossal natural pipes of scalding volcanic water, bubbling with sulfur and mineral brine. Resting inside a subterranean cavern surrounded by boiling steam lay a cluster of three enormous fossilized dragon eggs, warming in the volcanic heat for eight thousand years. The springs were not mere thermal waters; they were the slumbering breath of a primordial volcanic dragon trapped beneath the castle, whose heartbeat kept Winterfell warm while the world froze.",
+  "resolvesPlotHole": "The Source of Winterfell's Perpetual Geothermal Heat",
+  "bonusAchievementId": "ach_winterfell_volcanic_springs",
+  "options": [
+    {
+      "text": "Theon: Recall his real name while sheltering Jeyne Poole from the storm.",
+      "nextId": "theon_jeyne_poole_ghost_healing"
+    },
+    {
+      "text": "Mance Rayder: Fight spearwives through the snowy corridors above.",
+      "nextId": "mance_crypt_escape_winterfell_slaughter"
+    },
+    {
+      "text": "Jon Snow: Recover Rhaegar's silver harp from the deep tombs.",
+      "nextId": "crypts_of_winterfell_secrets"
+    },
+    {
+      "text": "Howland Reed: Navigate through the underground waterways to Greywater Watch.",
+      "nextId": "neck_floating_crannog_greywater_watch"
+    }
+  ],
+  "prerequisites": [],
+  "mutuallyExclusiveWith": [],
+  "introducesPlotHole": null
+}

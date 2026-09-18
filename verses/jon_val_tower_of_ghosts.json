@@ -1,0 +1,29 @@
+{
+  "id": "jon_val_tower_of_ghosts",
+  "title": "WHITE FURS & DIREWOLF BREATH // THE TOWER OF GHOSTS",
+  "pov": "Jon Snow",
+  "narrative": "Val pulled off her sealskin boots and shook out honey-blonde curls that smelled of woodsmoke and winter mint. Castle Black groaned beneath thirty feet of wind-whipped drift, but atop the abandoned tower, the charcoal brazier hissed with white embers. 'You took a dagger for the realm, crow,' she murmured, pulling open her bleached doe-skin shirt. Her pale, unblemished breasts rose and fell with each frosty breath. When Jon pressed her down into the snowy wolf pelts, her mouth claimed his with wild, untamed fury. Her bare legs locked around his hips, arching into him with breathless wildling hunger that melted the frozen chill from his resurrected heart.",
+  "resolvesPlotHole": "Jon Snow's Refusal of Winterfell and Val",
+  "bonusAchievementId": "ach_wildling_princess_embrace",
+  "options": [
+    {
+      "text": "Jon Snow: Descend the ice stairs as mutinous Night's Watch brothers draw daggers.",
+      "nextId": "night_watch_mutiny_castle_black_melee"
+    },
+    {
+      "text": "Tormund Giantsbane: Burst through the door shouting stories of legendary cavern passion.",
+      "nextId": "tormund_she_bear_cave_fires"
+    },
+    {
+      "text": "Jon Snow: Lead Val into the ancient crypts beneath Winterfell to seek the dragon eggs.",
+      "nextId": "crypts_of_winterfell_secrets"
+    },
+    {
+      "text": "The Watch: Sound three horns as giant ice spiders scale the Wall in the freezing gale.",
+      "nextId": "others_frost_spider_wall_assault"
+    }
+  ],
+  "prerequisites": [],
+  "mutuallyExclusiveWith": [],
+  "introducesPlotHole": null
+}

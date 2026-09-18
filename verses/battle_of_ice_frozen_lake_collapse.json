@@ -1,0 +1,29 @@
+{
+  "id": "battle_of_ice_frozen_lake_collapse",
+  "title": "THE SHATTERED ICE // THE BATTLE ON THE LAKE",
+  "pov": "Stannis Baratheon",
+  "narrative": "The false beacon atop the watchtower flared with pitch and sulfur. As Hosteen Frey's armored heavy cavalry charged across the snow-covered lake, their steel destriers struck the pre-drilled fishing holes. With a deafening, shotgun crack that echoed for three leagues, the eighteen-inch ice sheet fractured into ten thousand jagged floes. Men screamed, heavy iron plate dragging knights straight into forty feet of black, freezing water. Stannis drew Lightbringer, the blade casting radiant orange glare across the snow. 'Advance!' he bellowed through gritted teeth. 'Drive them into the depths!'",
+  "resolvesPlotHole": "The Night Lamp Strategy Execution",
+  "bonusAchievementId": "ach_battle_of_ice_trap",
+  "options": [
+    {
+      "text": "Theon: Flee through the snowdrift toward the crofter's village shelter.",
+      "nextId": "theon_jeyne_poole_ghost_healing"
+    },
+    {
+      "text": "Manderly: Form a heavy spear phalanx to butcher the surviving Frey riders.",
+      "nextId": "manderly_spear_wall_white_harbor_skirmish"
+    },
+    {
+      "text": "Stannis: March directly to the siege walls of Winterfell.",
+      "nextId": "winterfell_siege_assault"
+    },
+    {
+      "text": "Melisandre: Channel the sacrifice into the flames at Castle Black.",
+      "nextId": "melisandre_stannis_nightfire_chamber"
+    }
+  ],
+  "prerequisites": [],
+  "mutuallyExclusiveWith": [],
+  "introducesPlotHole": null
+}

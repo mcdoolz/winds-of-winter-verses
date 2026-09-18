@@ -1,0 +1,29 @@
+{
+  "id": "arya_gendry_acorn_waterfall_reunion",
+  "title": "THE RIVERLANDS CAVE // THE SMITH AND THE WOLF",
+  "pov": "Arya Stark",
+  "narrative": "Behind the curtain of falling river water, the cave was damp, cool, and shielded from the bloody war outside. Gendry dropped his heavy smith's hammer onto the gravel with a dull ring. He stood bare-chested, muscles gleaming with spray and soot. Arya stared at him, Needle trembling at her side. 'You stupid bull,' she choked out, before launching herself against his chest. Gendry's powerful arms caught her, his mouth finding hers in a hungry, desperate kiss that shattered years of cold vengeance into burning embers. As they tumbled onto the mossy stones, fingers tangling in leather and tangled dark hair, the cold girl with many faces remembered what it meant to have a heart that beat with fierce, mortal passion.",
+  "resolvesPlotHole": "The Unresolved Gendry and Arya Romance Arc",
+  "bonusAchievementId": "ach_blacksmith_and_direwolf",
+  "options": [
+    {
+      "text": "Arya: Leap across Braavosi rooftops with Needle to strike down Faceless pursuers.",
+      "nextId": "arya_braavos_canal_rooftop_duel"
+    },
+    {
+      "text": "Gendry: Lead the Brotherhood to break the gallows where Brienne is held.",
+      "nextId": "brienne_stoneheart_gallows_brawl"
+    },
+    {
+      "text": "Arya: Descend into the deepest sanctum beneath the House of Black and White.",
+      "nextId": "braavos_house_of_black_and_white_deep_sanctum"
+    },
+    {
+      "text": "Arya: Board the Titan's Daughter and set sail back across the Narrow Sea.",
+      "nextId": "arya_sails_westeros"
+    }
+  ],
+  "prerequisites": [],
+  "mutuallyExclusiveWith": [],
+  "introducesPlotHole": null
+}

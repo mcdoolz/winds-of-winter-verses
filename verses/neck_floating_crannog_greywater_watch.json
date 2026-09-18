@@ -1,0 +1,29 @@
+{
+  "id": "neck_floating_crannog_greywater_watch",
+  "title": "THE SHIFTING BOG // GREYWATER WATCH REVEALED",
+  "pov": "Howland Reed",
+  "narrative": "Through the dense, primeval mangrove swamps of the Neck, where lizard-lions basked on floating logs, a wooden castle drifted silently with the current. Greywater Watch possessed no stone foundations; it was built on gigantic woven rafts of ironwood and peat, anchored by living mangrove roots that the crannogmen steered through the bogs. Entering the Great Hall of moss and thatch, Howland Reed unrolled a sheepskin map detailing the subterranean water channels that connected the Neck directly to the underground springs of Winterfell, bypassing every army on the Kingsroad.",
+  "resolvesPlotHole": "Why Greywater Watch Has Never Been Captured",
+  "bonusAchievementId": "ach_greywater_watch_mechanics",
+  "options": [
+    {
+      "text": "Howland Reed: Depart the bog with Lyanna's marriage certificate and harp.",
+      "nextId": "howland_reed_appears"
+    },
+    {
+      "text": "Howland Reed: Commune with the ancient Green Men on the Isle of Faces.",
+      "nextId": "isle_of_faces_green_men_haven"
+    },
+    {
+      "text": "Arianne Martell: Seal the dragon alliance with Young Griff at Storm's End.",
+      "nextId": "faegon_arianne_storm_end_bedchamber"
+    },
+    {
+      "text": "The Crannogmen: Infiltrate the hot springs beneath the Winterfell crypts.",
+      "nextId": "winterfell_hot_springs_deep_abyss"
+    }
+  ],
+  "prerequisites": [],
+  "mutuallyExclusiveWith": [],
+  "introducesPlotHole": null
+}

@@ -1,0 +1,29 @@
+{
+  "id": "qarth_house_of_the_undying_hall_of_mirrors",
+  "title": "THE HALL OF MIRRORS // THE CORRIDORS OF QARTH",
+  "pov": "Pyat Pree",
+  "narrative": "Within the decaying, windowless palace of the Warlocks of Qarth, space folded back upon itself in a recursive nightmare. In the Hall of Mirrors, Pyat Pree's purple lips parted in a bitter grimace as he drank shades of the evening. Each mirror showed a different timeline: one where Daenerys burned King's Landing to ash, one where the Others froze the Rhoyne solid, and one where George R.R. Martin sat before a DOS computer in 2026, still typing the word 'capon'. The warlocks fed upon the temporal distortions, whispering curses across the Narrow Sea to snare the dragons.",
+  "resolvesPlotHole": "The Paradoxical Timelines of the Warlocks of Qarth",
+  "bonusAchievementId": "ach_qarth_hall_of_mirrors",
+  "options": [
+    {
+      "text": "The Explorers: March past the towering black walls of the Five Forts.",
+      "nextId": "five_forts_bleeding_sea_caravan"
+    },
+    {
+      "text": "The Explorers: Descend into the bottomless labyrinths of the island of Leng.",
+      "nextId": "leng_underground_old_ones_labyrinth"
+    },
+    {
+      "text": "Melisandre: Ride through the ghost grass along the Ash River in Asshai.",
+      "nextId": "asshai_by_the_shadow_ghost_grass_plains"
+    },
+    {
+      "text": "George R.R. Martin: Fall into the recursive infinite loop of Winds of Winter.",
+      "nextId": "winds_of_winter_infinite_loop_glitch"
+    }
+  ],
+  "prerequisites": [],
+  "mutuallyExclusiveWith": [],
+  "introducesPlotHole": null
+}

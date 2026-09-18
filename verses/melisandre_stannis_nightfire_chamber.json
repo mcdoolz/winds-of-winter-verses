@@ -1,0 +1,29 @@
+{
+  "id": "melisandre_stannis_nightfire_chamber",
+  "title": "THE RED BRAZIER // SHADOWS WRITHING IN STONE",
+  "pov": "Melisandre of Asshai",
+  "narrative": "The ruby at Melisandre's alabaster throat glowed with pulsing, crimson luminescence, shedding heat that scorched the dragon carvings on the chamber walls. Stannis stood before her, his jaw unclenched, gaunt ribs heaving beneath rough linen. She drew him down onto the burning silk rugs before the open hearth. 'Give me your seed, my king,' she breathed into his ear, her tongue tracing the cold shell of his ear with liquid flame. Stannis groaned, a hollow, ragged sound, as her bare thighs enveloped him. Her flesh was not merely warm, but searing, a furnace of R'hllor that drew the shadow-spawn straight from his marrow into the pulsing dark.",
+  "resolvesPlotHole": "The Energy Source of Stannis's Shadow Assassins",
+  "bonusAchievementId": "ach_shadow_binder_ecstasy",
+  "options": [
+    {
+      "text": "Stannis: March onto the frozen lake to trigger the catastrophic ice collapse trap.",
+      "nextId": "battle_of_ice_frozen_lake_collapse"
+    },
+    {
+      "text": "Melisandre: Channel the shadow into the beacon tower of the Night Lamp.",
+      "nextId": "night_lamp_lake"
+    },
+    {
+      "text": "Melisandre: Gaze into the red flame to see the pale ghost grass plains of Asshai.",
+      "nextId": "asshai_by_the_shadow_ghost_grass_plains"
+    },
+    {
+      "text": "Stannis: Strike a gold contract with Tycho Nestoris to finance the war.",
+      "nextId": "iron_bank_repo_crane"
+    }
+  ],
+  "prerequisites": [],
+  "mutuallyExclusiveWith": [],
+  "introducesPlotHole": null
+}

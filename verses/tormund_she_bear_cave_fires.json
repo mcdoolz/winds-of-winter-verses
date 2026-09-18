@@ -1,0 +1,29 @@
+{
+  "id": "tormund_she_bear_cave_fires",
+  "title": "THE THERMAL HOLLOW // THE SHE-BEAR'S CLAWS",
+  "pov": "Tormund Giantsbane",
+  "narrative": "Beneath the frozen crags of the Frostfangs, the thermal cavern bubbled with natural sulfur steam. Tormund sat naked on a colossal pile of white bear hides, his massive chest fur glistening with sweat. Beside him sprawled the legendary wildling she-bear lover, a warrior woman six feet tall with shoulders like an ox. 'They say my member is too big for any woman, but she took it all and asked for three more rounds!' Tormund bellowed with thunderous laughter, showing off fresh claw-scars running down his ribs. When she pulled him back down into the furs by his red beard, their roaring, carnal fury shook loose stalactites from the roof of the cavern.",
+  "resolvesPlotHole": "The Truth Behind Tormund's She-Bear Story",
+  "bonusAchievementId": "ach_member_too_large",
+  "options": [
+    {
+      "text": "Tormund: Explore the bottomless subterranean labyrinth of Gorne's Way under the Wall.",
+      "nextId": "beyond_the_wall_gorne_grendel_subterrane"
+    },
+    {
+      "text": "Jon Snow: Rejoin Val atop the Tower of Ghosts as winter wind howls.",
+      "nextId": "jon_val_tower_of_ghosts"
+    },
+    {
+      "text": "Tormund: Guide scouts east across the Bay of Seals toward the caves of Skagos.",
+      "nextId": "skagos_shivering_obsidian_caverns"
+    },
+    {
+      "text": "Mance Rayder: Sing 'The Dornishman's Wife' around the campfires of the Free Folk.",
+      "nextId": "mance_bard_reveal"
+    }
+  ],
+  "prerequisites": [],
+  "mutuallyExclusiveWith": [],
+  "introducesPlotHole": null
+}

@@ -1,0 +1,29 @@
+{
+  "id": "valyria_smoking_sea_ruins_expedition",
+  "title": "THE SMOKING SEA // BLACK GLASS TOWERS OF VALYRIA",
+  "pov": "Euron Greyjoy",
+  "narrative": "The longship drifted through yellow sulfur clouds that burned the eyes and stung the lungs. Rising from the boiling, lead-colored waters of the Smoking Sea were the shattered black glass towers of the Valyrian Freehold, twisted by dragonfire fourteen hundred years ago into unnatural spirals. Ash fell like gray snow upon the deck. Euron stepped onto the scorched obsidian quay, kicking aside bones of ancient dragonlords fused into the volcanic rock. In a subterranean vault beneath the ruined temple of Balerion, a suit of black Valyrian steel armor gleamed untouched by time, radiating dark, humming malevolence.",
+  "resolvesPlotHole": "How Euron Acquired Real Valyrian Steel Armor",
+  "bonusAchievementId": "ach_valyria_ruins_conquest",
+  "options": [
+    {
+      "text": "Euron: Strap holy men to the Silence and sound the dragon horn.",
+      "nextId": "intro_eldritch_maritime_horror"
+    },
+    {
+      "text": "Euron: Take Falia Flowers in the cabin of the Silence in dark passion.",
+      "nextId": "euron_falia_flowers_cabin_darkness"
+    },
+    {
+      "text": "Samwell: Discover the lost Valyrian metallurgy manuscripts in Oldtown.",
+      "nextId": "citadel_forbidden_astrolabe_vault"
+    },
+    {
+      "text": "The Explorers: Sail further east to the basilisk-infested ruins of Sothoryos.",
+      "nextId": "sothoryos_yween_basalt_ruin_trek"
+    }
+  ],
+  "prerequisites": [],
+  "mutuallyExclusiveWith": [],
+  "introducesPlotHole": null
+}

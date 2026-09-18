@@ -1,0 +1,29 @@
+{
+  "id": "sothoryos_yween_basalt_ruin_trek",
+  "title": "THE OILY BASALT OF YWEEN // THE JUNGLE EXPEDITION",
+  "pov": "Alys Westhill",
+  "narrative": "Deep in the suffocating green canopy of Sothoryos, where bloodflies hummed in poisonous clouds, an expedition of Braavosi adventurers stumbled upon the ancient ruins of Yween. The city was built of colossal blocks of oily, light-absorbing black basalt, so massive that no human hands could have lifted them. Strange, cyclopean carvings depicted tentacled gods devouring feathered serpents before the dawn of humanity. In the center of the basalt plaza stood an idol whose black stone felt greasy and warm to the touch, humming with vibrations that induced sudden, violent nosebleeds in the living.",
+  "resolvesPlotHole": "The Origin of the Oily Black Stone Across Planetos",
+  "bonusAchievementId": "ach_sothoryos_basalt_ruins",
+  "options": [
+    {
+      "text": "The Explorers: Sail west into the smoking ruins of ancient Valyria.",
+      "nextId": "valyria_smoking_sea_ruins_expedition"
+    },
+    {
+      "text": "The Explorers: Voyage east toward the underground labyrinths of Leng.",
+      "nextId": "leng_underground_old_ones_labyrinth"
+    },
+    {
+      "text": "The Summer Islanders: Board a swan ship regatta through the southern seas.",
+      "nextId": "summer_isles_swan_ship_regatta"
+    },
+    {
+      "text": "Euron Greyjoy: Harness the oily stone to awaken the blood kraken.",
+      "nextId": "euron_blood_kraken_summon"
+    }
+  ],
+  "prerequisites": [],
+  "mutuallyExclusiveWith": [],
+  "introducesPlotHole": null
+}

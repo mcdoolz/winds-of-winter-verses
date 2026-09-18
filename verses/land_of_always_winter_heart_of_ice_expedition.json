@@ -1,0 +1,29 @@
+{
+  "id": "land_of_always_winter_heart_of_ice_expedition",
+  "title": "THE POLE OF THE WORLD // THE HEART OF WINTER",
+  "pov": "Bran Stark",
+  "narrative": "Guided by the Three-Eyed Crow through the weirwood web, Bran's sight flew beyond the Wall, past the Thenn mountains, across the Shivering Sea, to the absolute pole of the world: the Land of Always Winter. There, under curtains of frozen blue light that danced across the sky, stood a fortress of living crystal ice surrounding an obsidian crater. In the center sat the Great Other upon a throne of frozen stars, his eyes two burning pinpricks of absolute zero. Bran felt the piercing gaze turn directly upon him through thousands of leagues of space, freezing his astral throat in terror.",
+  "resolvesPlotHole": "The Geographic and Cosmic Source of the Others",
+  "bonusAchievementId": "ach_heart_of_winter_throne",
+  "options": [
+    {
+      "text": "The Others: Unleash the giant frost spiders to scale the Wall.",
+      "nextId": "others_frost_spider_wall_assault"
+    },
+    {
+      "text": "Cotter Pyke: Witness the dead swarming in the bay of Hardhome.",
+      "nextId": "hardhome_screaming_caves_expedition"
+    },
+    {
+      "text": "The Green Men: Confer upon the sacred Isle of Faces on the God's Eye.",
+      "nextId": "isle_of_faces_green_men_haven"
+    },
+    {
+      "text": "Bran Stark: Awake in the subterranean cave beneath the weirwood roots.",
+      "nextId": "find_bran"
+    }
+  ],
+  "prerequisites": [],
+  "mutuallyExclusiveWith": [],
+  "introducesPlotHole": null
+}

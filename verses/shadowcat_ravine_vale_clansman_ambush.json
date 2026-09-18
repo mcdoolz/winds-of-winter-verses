@@ -1,0 +1,29 @@
+{
+  "id": "shadowcat_ravine_vale_clansman_ambush",
+  "title": "FANGS IN THE CRAGS // THE BURNED MEN STRIKE",
+  "pov": "Sansa Stark",
+  "narrative": "As the royal procession wound through the sheer gorge below the Eyrie, fifty Burned Men and Moon Brothers leaped from the rocky heights, riding half-tamed shadowcats with eyes like pale embers. Ser Harrold Hardyng drew his sword, shouting for the knights of the Vale to form a circle around Alayne's litter. Steel clashed against stone as shadowcats tore through pack mules and barded destriers with ferocious shrieks. Harry fought with reckless valor, parrying an iron morningstar and impaling a clan chieftain through the breastplate, splattering Sansa's velvet gown with crimson mountain snow.",
+  "resolvesPlotHole": "The Threat of the Mountain Clans of the Vale",
+  "bonusAchievementId": "ach_burned_men_canyon_ambush",
+  "options": [
+    {
+      "text": "Harry the Heir: Return to the high solarium to take Sansa in passionate embrace.",
+      "nextId": "sansa_harrold_hardyng_eyrie_solarium"
+    },
+    {
+      "text": "Sansa: Crown Harry the champion at the Tourney of the Winged Knights.",
+      "nextId": "sansa_tourney_winged_knights"
+    },
+    {
+      "text": "Lord Royce: Lead the Vale knights north toward the Riverlands.",
+      "nextId": "knights_of_vale_ride_north"
+    },
+    {
+      "text": "Sansa: Travel secretly to the Isle of Faces to consult the Green Men.",
+      "nextId": "isle_of_faces_green_men_haven"
+    }
+  ],
+  "prerequisites": [],
+  "mutuallyExclusiveWith": [],
+  "introducesPlotHole": null
+}

@@ -21,6 +21,10 @@
     {
       "text": "Resonate Stannis's jaw to seismic frequencies that shatter the Wall.",
       "nextId": "stannis_teeth_grinding_wall_collapse"
+    },
+    {
+      "text": "Stannis Baratheon: Trigger the catastrophic ice trap on the frozen lake.",
+      "nextId": "battle_of_ice_frozen_lake_collapse"
     }
   ],
   "prerequisites": [],

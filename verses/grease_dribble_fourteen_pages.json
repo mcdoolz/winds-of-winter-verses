@@ -20,6 +20,10 @@
     {
       "text": "Ask Hot Pie to critique the trencher sourdough hydration.",
       "nextId": "hot_pie_secret_azhor_baker"
+    },
+    {
+      "text": "Samwell & Gilly: Share honeyed cloves and tender passion aboard the Cinnamon Wind.",
+      "nextId": "sam_gilly_cinnamon_wind_cabin"
     }
   ]
 }

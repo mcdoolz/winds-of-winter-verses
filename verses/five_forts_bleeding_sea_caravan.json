@@ -1,0 +1,29 @@
+{
+  "id": "five_forts_bleeding_sea_caravan",
+  "title": "THE BLACK STONE BULWARKS // THE FIVE FORTS OF YI TI",
+  "pov": "Jaenara Belaerys",
+  "narrative": "Rising between the Bleeding Sea and the Mountains of the Morn stood the Five Forts: five titanic bastions of fused oily black stone, each one thousand feet high, capable of housing ten thousand men each. Built by the Pearl Emperor forty centuries ago, they stood as the eastern world's counterpart to the Wall of Westeros, built to keep out the Lion of Night and his demons. Looking out from the dizzying battlements across the dry gray wastes, Jaenara witnessed the shimmering aurora borealis in the northern sky: the true planetary scope of the Long Night.",
+  "resolvesPlotHole": "The Eastern Defense Against the Long Night",
+  "bonusAchievementId": "ach_five_forts_yi_ti",
+  "options": [
+    {
+      "text": "The Caravans: Cross the ghost grass plains toward Asshai by the Shadow.",
+      "nextId": "asshai_by_the_shadow_ghost_grass_plains"
+    },
+    {
+      "text": "The Explorers: Descend into the bottomless caves of the island of Leng.",
+      "nextId": "leng_underground_old_ones_labyrinth"
+    },
+    {
+      "text": "The Warlocks: Flee to the decaying corridors of Qarth.",
+      "nextId": "qarth_house_of_the_undying_hall_of_mirrors"
+    },
+    {
+      "text": "Bran Stark: Pierce through the celestial curtain to the Heart of Winter.",
+      "nextId": "land_of_always_winter_heart_of_ice_expedition"
+    }
+  ],
+  "prerequisites": [],
+  "mutuallyExclusiveWith": [],
+  "introducesPlotHole": null
+}

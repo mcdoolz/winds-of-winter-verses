@@ -1,0 +1,29 @@
+{
+  "id": "darkstar_starfall_canyon_ambush",
+  "title": "THE CANYON OF SHADOWS // BLADE OF THE MIDNIGHT HOUR",
+  "pov": "Gerold Dayne (Darkstar)",
+  "narrative": "In the narrow sandstone gorge of the Red Mountains, Balon Swann's Kingsguard squad was trapped like scorpions in a bottle. Darkstar emerged from the crimson rocks, his silver hair slashed with a streak of black, his pale blade catching the desert heat. 'I am of the night,' he sneered. Before Swann could raise his shield, Darkstar drew his longsword in a blurring arc, parrying the knight's lance and disemboweling his warhorse. Rolling under the thrashing hooves, Darkstar carved through three Dornish spear guards with cold, merciless efficiency, disappearing into the labyrinthine red cliffs like a phantom.",
+  "resolvesPlotHole": "Darkstar's Evading of Royal Pursuit",
+  "bonusAchievementId": "ach_darkstar_ambush_blood",
+  "options": [
+    {
+      "text": "Darkstar: Ride south to claim the ancestral greatsword Dawn at Starfall.",
+      "nextId": "darkstar_sword_dawn"
+    },
+    {
+      "text": "Arianne: Take refuge in the desert dunes with Ser Arys Oakheart.",
+      "nextId": "arianne_ser_arys_dornish_dunes"
+    },
+    {
+      "text": "Doran Martell: Reveal the secret parchment hidden in the Water Gardens.",
+      "nextId": "dornish_water_gardens_secret_parchment"
+    },
+    {
+      "text": "Arthur Dayne: Sip mint tea at his quiet Dornish Marches bed and breakfast.",
+      "nextId": "arthur_dayne_dornish_airbnb"
+    }
+  ],
+  "prerequisites": [],
+  "mutuallyExclusiveWith": [],
+  "introducesPlotHole": null
+}

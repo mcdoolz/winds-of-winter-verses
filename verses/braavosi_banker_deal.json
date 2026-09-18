@@ -19,6 +19,10 @@
       "nextId": "iron_bank_repo_crane",
       "bonusAchievementId": "ach_repo_man_tycho",
       "introducesPlotHole": "The Iron Throne Mobile Crane Repossession"
+    },
+    {
+      "text": "The Iron Bank: Send twenty Braavosi water dancers with rapiers to raid the Red Keep vault.",
+      "nextId": "iron_bank_braavosi_water_dancer_strike"
     }
   ],
   "prerequisites": [],

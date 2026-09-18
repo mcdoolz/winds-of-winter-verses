@@ -1,0 +1,29 @@
+{
+  "id": "summer_isles_swan_ship_regatta",
+  "title": "THE TURQUOISE SEAS // SWAN SHIPS OF THE SUMMER ISLES",
+  "pov": "Jalabhar Xho",
+  "narrative": "The Princess of the Summer Sea was a wonder of shipwright craft: carved from golden teak, her forty-foot sails woven from scarlet and emerald cockatoo plumage in the shape of a magnificent swan. Sailing through the crystal-clear turquoise shallows of the Summer Isles, dolphins leaped before the bow while archers with goldenheart bows practiced shooting floating targets at three hundred paces. Here, war was fought by bloodless champion duels and love was practiced as the highest religious sacrament in golden temples, far from the frozen butchery of Westeros.",
+  "resolvesPlotHole": "Why the Summer Isles Never Conquered Westeros",
+  "bonusAchievementId": "ach_summer_isles_swan_ship",
+  "options": [
+    {
+      "text": "Samwell: Make love to Gilly beneath the cabin deck of the Cinnamon Wind.",
+      "nextId": "sam_gilly_cinnamon_wind_cabin"
+    },
+    {
+      "text": "The Voyagers: Sail south to explore the oily black basalt ruins of Yween.",
+      "nextId": "sothoryos_yween_basalt_ruin_trek"
+    },
+    {
+      "text": "The Voyagers: Voyage east into the subterranean labyrinths of Leng.",
+      "nextId": "leng_underground_old_ones_labyrinth"
+    },
+    {
+      "text": "Samwell: Dock at Oldtown to enter the forbidden astrolabe vault.",
+      "nextId": "citadel_forbidden_astrolabe_vault"
+    }
+  ],
+  "prerequisites": [],
+  "mutuallyExclusiveWith": [],
+  "introducesPlotHole": null
+}

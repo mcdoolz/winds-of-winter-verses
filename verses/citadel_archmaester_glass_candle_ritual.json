@@ -1,0 +1,29 @@
+{
+  "id": "citadel_archmaester_glass_candle_ritual",
+  "title": "THE OBSIDIAN FLAME // THE GLASS CANDLE OF OLDTOWN",
+  "pov": "Archmaester Marwyn",
+  "narrative": "In a stone chamber high within the Citadel, Archmaester Marwyn knelt before an unlit twisted candle of volcanic obsidian three feet high. Striking a flint of dragon glass, he touched the black wick. Instantly, the glass candle burst into life, burning with a strange, unpleasant green luminescence that cast no shadows. In the translucent flame, the physical world melted away: Marwyn could see Daenerys flying over Meereen, Euron bleeding maesters in the Straits, and Jon Snow breathing his first resurrected breath at the Wall. 'The glass candles are burning,' Marwyn grinned fiercely through mastic-stained teeth.",
+  "resolvesPlotHole": "How the Glass Candles of Oldtown Operate",
+  "bonusAchievementId": "ach_glass_candle_ritual",
+  "options": [
+    {
+      "text": "Samwell: Uncover the clockwork astrolabe vault beneath the Hightower.",
+      "nextId": "citadel_forbidden_astrolabe_vault"
+    },
+    {
+      "text": "Loras Tyrell: Weep for Renly Baratheon on the ramparts of Dragonstone.",
+      "nextId": "loras_renly_ghost_fever_memory"
+    },
+    {
+      "text": "Samwell: Infiltrate the forbidden archives to find Valyrian steel secrets.",
+      "nextId": "citadel_forbidden_vaults"
+    },
+    {
+      "text": "Marwyn: Cast his vision into the depths to commune with Howland Reed.",
+      "nextId": "hightower_glass_candle"
+    }
+  ],
+  "prerequisites": [],
+  "mutuallyExclusiveWith": [],
+  "introducesPlotHole": null
+}

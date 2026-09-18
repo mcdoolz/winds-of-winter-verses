@@ -1,0 +1,29 @@
+{
+  "id": "cersei_taena_myr_arbor_bed",
+  "title": "ARBOR GOLD & MYRISH SILK // MAEGOR'S HOLDFAST",
+  "pov": "Cersei Lannister",
+  "narrative": "A crystal decanter of vintage Arbor Gold overturned on the nightstand, soaking the green velvet counterpane in fragrant wine. Taena of Myr leaned back amidst the silk pillows, her dark eyes glittering like black diamonds in the candlelight, her sheer shift parting to reveal ripe olive skin and round breasts crowned with dark nipples. 'Your Grace,' Taena whispered, running slender, perfumed fingers down the inside of Cersei's bare thighs. Cersei shivered with predatory delight, leaning over the Myrish beauty. Her mouth found Taena's with hungry, wine-slick insistence. As they tumbled amidst the tangled sheets, Cersei relished the feeling of absolute control, whispering state treasons and royal mandates between gasping caresses.",
+  "resolvesPlotHole": "Cersei's Paranoid Trust in Taena Merryweather",
+  "bonusAchievementId": "ach_queen_regent_intimacy",
+  "options": [
+    {
+      "text": "Cersei: Dispatch the pyromancer squad to ignite the wildfire beneath the Great Sept.",
+      "nextId": "cersei_wildfire_vault_ignition_charge"
+    },
+    {
+      "text": "Qyburn: Knock upon the bedchamber door to present the finished Robert Strong.",
+      "nextId": "quiberon_qyburn_cersei_dark_fascination"
+    },
+    {
+      "text": "The High Sparrow: Summon Cersei to face trial before the Faith Militant.",
+      "nextId": "cersei_trial_by_combat"
+    },
+    {
+      "text": "Cersei: Summon another flagon of Arbor Gold vintage 298 to outdrink King Robert.",
+      "nextId": "cersei_wine_connoisseur_sommelier"
+    }
+  ],
+  "prerequisites": [],
+  "mutuallyExclusiveWith": [],
+  "introducesPlotHole": null
+}

@@ -1,0 +1,29 @@
+{
+  "id": "hound_mountain_trial_of_seven",
+  "title": "THE GREEN PYRE RUINS // CLEGANEBOWL RESURRECTED",
+  "pov": "Sandor Clegane",
+  "narrative": "The floor of the shattered Great Sept of Baelor was paved with scorched glass and emerald wildfire crust. Ser Robert Strong towered eight feet tall in polished stone plate, his six-foot greatsword whistling through the air with enough force to cleave an ox. Sandor Clegane met the blow with a thunderous clash of steel that sent sparks showering across the altar of the Mother. Sandor ducked under the return swing, drove his heavy boot into Robert's knee, and shattered his gorget with a double-handed strike. Black, coagulated blood—thick and cold as tar—oozed from the neck hole of the helm, but the undead giant never stopped swinging.",
+  "resolvesPlotHole": "The Canon Cleganebowl Showdown",
+  "bonusAchievementId": "ach_cleganebowl_apocalypse",
+  "options": [
+    {
+      "text": "Sandor: Strike off the giant's head to reveal the empty void beneath.",
+      "nextId": "mountain_hound_clash"
+    },
+    {
+      "text": "Qyburn: Flee to his secret cellar to take refuge with Cersei.",
+      "nextId": "quiberon_qyburn_cersei_dark_fascination"
+    },
+    {
+      "text": "Cersei: Ignite the subterranean wildfire caches to end the trial forever.",
+      "nextId": "cersei_wildfire_vault_ignition_charge"
+    },
+    {
+      "text": "The High Sparrow: Pronounce divine judgment upon the Lannister regency.",
+      "nextId": "high_sparrow_purged"
+    }
+  ],
+  "prerequisites": [],
+  "mutuallyExclusiveWith": [],
+  "introducesPlotHole": null
+}

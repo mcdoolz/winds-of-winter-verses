@@ -1,0 +1,29 @@
+{
+  "id": "sam_gilly_cinnamon_wind_cabin",
+  "title": "THE CINNAMON WIND // ROLLING ON THE SUMMER SEA",
+  "pov": "Samwell Tarly",
+  "narrative": "The cabin reeked of cloves, wet salt wool, and warm skin. Gilly reached out beneath the coarse wool blanket, her fingers tracing the softness of Sam's belly until they found his fat pink mast, rigid and trembling with mortal terror. 'Sam,' she whispered, her lips tasting of goat's milk and tears. When she pulled him down, her Myrish swamp was sweet and slick with summer heat, welcoming him like a harbor after a tempest. For four breathless pages, George meticulously describes every bead of sweat rolling down Sam's neck, the groan of ship timbers, and the sudden profound terror of having broken his sacred vows of celibacy across seven leagues of turbulent brine.",
+  "resolvesPlotHole": "Samwell Tarly's Night's Watch Celibacy Vows",
+  "bonusAchievementId": "ach_fat_pink_mast_canonical",
+  "options": [
+    {
+      "text": "Samwell: Dock at Oldtown and infiltrate the hidden astrological vault beneath the Citadel.",
+      "nextId": "citadel_forbidden_astrolabe_vault"
+    },
+    {
+      "text": "Samwell: Do two pushups and instantly deduce the lost secrets of Valyrian metallurgy.",
+      "nextId": "samwell_tarly_cardio_renaissance"
+    },
+    {
+      "text": "Gilly: Watch the swan ships glide past the turquoise reefs of the Summer Isles.",
+      "nextId": "summer_isles_swan_ship_regatta"
+    },
+    {
+      "text": "Cinnamon Wind Crew: Sound the bell as an ironborn raider breaches the horizon.",
+      "nextId": "redwyne_ironborn_ramming_cataclysm"
+    }
+  ],
+  "prerequisites": [],
+  "mutuallyExclusiveWith": [],
+  "introducesPlotHole": null
+}

@@ -21,6 +21,10 @@
     {
       "text": "The Faith Militant: Purge the Great Sept of the High Sparrow's peasant corruption.",
       "nextId": "high_sparrow_purged"
+    },
+    {
+      "text": "Cersei: Dismiss the council to drink Arbor Gold in bed with Taena Merryweather.",
+      "nextId": "cersei_taena_myr_arbor_bed"
     }
   ],
   "prerequisites": [],

@@ -21,6 +21,10 @@
     {
       "text": "The Blackfish: Rally Riverrun loyalists and burn the Frey baggage trains to ash.",
       "nextId": "blackfish_riverrun_rally"
+    },
+    {
+      "text": "Jaime & Brienne: Seek refuge in the sapphire pavilion tent amidst unbuckled armor.",
+      "nextId": "jaime_brienne_tarth_sapphire_tent"
     }
   ],
   "prerequisites": [],

@@ -1,0 +1,29 @@
+{
+  "id": "rhoyne_bridge_of_dream_fog_journey",
+  "title": "THE BRIDGE OF DREAM // FOG ON THE RHOYNE",
+  "pov": "Tyrion Lannister",
+  "narrative": "The Shy Maid drifted through a wall of impenetrable, milky fog that swallowed the stars. Rising from the mist were the colossal, moss-grown stone arches of Chroyane: the sunken palace city of Prince Garin the Great. The river was deathly silent, save for the dripping of slime from crumbling aqueducts. Suddenly, half-naked figures gray as slate dropped from the overhead arches with chilling silence: Stone Men, their flesh hardened to cracked granite by advanced greyscale, their milky eyes fixed upon Tyrion. The fog seemed to twist time itself, forcing the pole-boat to pass beneath the identical bridge three separate times.",
+  "resolvesPlotHole": "The Temporal Distortion of the Bridge of Dream",
+  "bonusAchievementId": "ach_rhoyne_bridge_of_dream",
+  "options": [
+    {
+      "text": "Tyrion: Find tenderness with Penny in the hold of the Smelly Sow.",
+      "nextId": "tyrion_penny_pillow_confession"
+    },
+    {
+      "text": "Jon Connington: Squeeze greyscale-hardened fingers around a sellsword hilt.",
+      "nextId": "aegon_connington_storm_end_breach"
+    },
+    {
+      "text": "Tyrion: Smuggle into the Great Pyramid of Meereen to seek Daenerys.",
+      "nextId": "dany_daario_silk_tokar_quarters"
+    },
+    {
+      "text": "The Travelers: Sail downriver toward the slave markets of Volantis.",
+      "nextId": "braavosi_banker_deal"
+    }
+  ],
+  "prerequisites": [],
+  "mutuallyExclusiveWith": [],
+  "introducesPlotHole": null
+}

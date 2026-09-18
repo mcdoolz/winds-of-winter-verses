@@ -1,0 +1,29 @@
+{
+  "id": "patchface_underwater_mermaid_passion",
+  "title": "THE DEEP MERMAID COVE // PEARLS OF THE ABYSS",
+  "pov": "Patchface",
+  "narrative": "Under the sea, the water is warm and full of salt kissed mouths. Patchface rocked in the corner of the ship's hold, his tattooed face splitting into a wet, ecstatic grin as he remembered the three days he spent beneath the waves of Shipbreaker Bay. The green-haired maidens with pearl teeth had stripped away his motley fool's coat, dragging him into undersea grottoes of bioluminescent coral. Their cool, scaled tails wrapped around his loins, their gills pulsing against his neck as they fed him blood and breath. 'Under the sea, the lovers never breathe, but their kisses boil the tide! I know, I know, oh, oh, oh!'",
+  "resolvesPlotHole": "What Actually Happened to Patchface in Shipbreaker Bay",
+  "bonusAchievementId": "ach_under_the_sea_ecstasy",
+  "options": [
+    {
+      "text": "Patchface: Sing prophecies of doom to Shireen Baratheon at Castle Black.",
+      "nextId": "patchface_prophecy_unlocked"
+    },
+    {
+      "text": "Euron Greyjoy: Take Falia Flowers in the cabin of the Silence across the sea.",
+      "nextId": "euron_falia_flowers_cabin_darkness"
+    },
+    {
+      "text": "The Green Men: Consult the mysterious order inhabiting the Isle of Faces.",
+      "nextId": "isle_of_faces_green_men_haven"
+    },
+    {
+      "text": "The Kraken: Erupt from the depths to devour the Redwyne war fleet.",
+      "nextId": "euron_blood_kraken_summon"
+    }
+  ],
+  "prerequisites": [],
+  "mutuallyExclusiveWith": [],
+  "introducesPlotHole": null
+}
