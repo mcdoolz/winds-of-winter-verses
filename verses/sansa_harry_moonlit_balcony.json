@@ -1,0 +1,21 @@
+{
+  "id": "sansa_harry_moonlit_balcony",
+  "title": "THE MOONLIT BALCONY // THE VALE'S SWEET SEDUCTION",
+  "pov": "Sansa Stark",
+  "narrative": "Sansa draws Harry the Heir onto the secluded balcony beneath the frosty stars of the Eyrie. The icy mountain wind caresses her auburn hair as Harry leans close, whispering tender words of love and desire. Her soft lips meet his in a breathless kiss, her cheeks glowing with a rosy blush against the silk collar of her gown. Overcome with passion, Harry swears the sword of House Hardyng and the entire chivalry of the Vale to her gentle embrace before dawn.",
+  "resolvesPlotHole": "Sansa's Seduction of Harry the Heir",
+  "bonusAchievementId": "ach_vale_seduction",
+  "options": [
+    {
+      "text": "Command Harry to march the Knights of the Vale North to liberate Winterfell.",
+      "nextId": "battle_of_the_bastards"
+    },
+    {
+      "text": "Use Harry's army to arrest Littlefinger for treason and regicide.",
+      "nextId": "sansa_outplays_littlefinger"
+    }
+  ],
+  "prerequisites": [],
+  "mutuallyExclusiveWith": [],
+  "introducesPlotHole": null
+}

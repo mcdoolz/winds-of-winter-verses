@@ -13,6 +13,11 @@
     {
       "text": "Expose the poisoning of young Sweetrobin Arryn.",
       "nextId": "sweetrobin_fate_revealed"
+    },
+    {
+      "text": "Seduce Harry the Heir with a tender kiss on the moonlit balcony of the Eyrie.",
+      "nextId": "sansa_harry_moonlit_balcony",
+      "bonusAchievementId": "ach_vale_seduction"
     }
   ],
   "prerequisites": [],

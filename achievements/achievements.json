@@ -897,6 +897,20 @@
       "subtitle": "PLUGGED: WHY GIANTS NEVER ATE ANY HORSES",
       "plotHole": "Why Giants Never Ate Any Horses",
       "desc": "Resolved with unexpected narrative finality."
+    },
+    {
+      "id": "ach_vale_seduction",
+      "title": "THE MOONLIT BALCONY // THE VALE'S SWEET SEDUCTION",
+      "subtitle": "PLUGGED: SANSA'S SEDUCTION OF HARRY THE HEIR",
+      "plotHole": "Sansa's Seduction of Harry the Heir",
+      "desc": "A breathless balcony kiss beneath the frosty stars of the Eyrie won the entire cavalry of the Vale."
+    },
+    {
+      "id": "ach_wildling_princess_kiss",
+      "title": "THE WILDLING PRINCESS // FIRE IN THE FROST",
+      "subtitle": "PLUGGED: JON SNOW AND VAL'S ROMANTIC DESTINY",
+      "plotHole": "Jon Snow and Val's Romantic Destiny",
+      "desc": "A passionate embrace by the hearthfire in the Lord Commander's solar melted the icy dread from Jon's resurrected bones."
     }
   ],
   "introduced": [

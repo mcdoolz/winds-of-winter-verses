@@ -40,6 +40,11 @@
       "nextId": "arthur_dayne_dornish_airbnb",
       "bonusAchievementId": "ach_arthur_dayne_host",
       "introducesPlotHole": "The Red Mountain Sword Bed & Breakfast"
+    },
+    {
+      "text": "Val, the Wildling Princess: Step into the Lord Commander's solar and embrace Jon by the crackling hearth.",
+      "nextId": "jon_val_wildling_hearth",
+      "bonusAchievementId": "ach_wildling_princess_kiss"
     }
   ],
   "prerequisites": [],

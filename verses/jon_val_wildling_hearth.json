@@ -1,0 +1,21 @@
+{
+  "id": "jon_val_wildling_hearth",
+  "title": "THE WILDLING PRINCESS // FIRE IN THE FROST",
+  "pov": "Jon Snow",
+  "narrative": "Val glides into the Lord Commander's solar, her honey-blonde hair catching the amber light of the hearthfire. Beneath her pale bearskin cloak, her eyes shine like winter stars. She draws Jon close, brushing her fingertips across the fresh scars on his chest. 'A dead crow should not feel so warm,' she whispers softly, pressing her lips to his in a fierce, tender kiss. Jon feels the icy dread melt from his bones as her passionate embrace turns the frozen night to summer.",
+  "resolvesPlotHole": "Jon Snow and Val's Romantic Destiny",
+  "bonusAchievementId": "ach_wildling_princess_kiss",
+  "options": [
+    {
+      "text": "Unite the Wildlings and Northern lords under the Targaryen-Stark banner to march on Winterfell.",
+      "nextId": "ride_winterfell"
+    },
+    {
+      "text": "Commune through the Weirwood roots with Bran Stark beyond the Wall.",
+      "nextId": "find_bran"
+    }
+  ],
+  "prerequisites": [],
+  "mutuallyExclusiveWith": [],
+  "introducesPlotHole": null
+}
