@@ -1,0 +1,30 @@
+{
+  "id": "root",
+  "title": "THE WINDS OF WINTER",
+  "pov": "The Realm",
+  "narrative": "The winds of winter howl through the shattered ruins of the Wall. You stand at the precipice of the end. Aegon VI sits the Iron Throne, the Others march on the North, and Daenerys's dragons circle above. Countless plot holes, dangling threads, and unfinished prophecies pull at the realm \u2014 each choice ready to forge or doom the conclusion.",
+  "resolvesPlotHole": null,
+  "bonusAchievementId": null,
+  "options": [
+    {
+      "text": "Daenerys: Cut the Meereenese Knot once and for all \u2014 burn the Essos blockade and fly to King's Landing.",
+      "nextId": "meereenese_knot_untied",
+      "bonusAchievementId": "ach_meereen_untied"
+    },
+    {
+      "text": "Jon Snow: Wake from the dead at Castle Black and summon Howland Reed from his bog.",
+      "nextId": "howland_reed_appears",
+      "bonusAchievementId": "ach_howland_answered"
+    },
+    {
+      "text": "Euron Greyjoy: Sound the Dragonbinder horn in your Valyrian steel armor off Oldtown.",
+      "nextId": "euron_eldritch_ritual",
+      "bonusAchievementId": "ach_euron_apocalypse"
+    },
+    {
+      "text": "Jaime Lannister: Follow Brienne into the Riverlands to face Lady Stoneheart's noose.",
+      "nextId": "stoneheart_jaime",
+      "bonusAchievementId": "ach_stoneheart_trap"
+    }
+  ]
+}

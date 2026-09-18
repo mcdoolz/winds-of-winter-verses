@@ -1,0 +1,15 @@
+{
+  "id": "book_2",
+  "title": "A Clash of Kings",
+  "year": 1998,
+  "pageCount": 768,
+  "color": "#065f46",
+  "tagline": "Five kings enter, mostly poison and shadow babies exit.",
+  "summary": "Five different men declare themselves King because Roberts brothers have the combined interpersonal skills of a wet badger. Renly brings peach-flavored charisma and 100,000 soldiers, so Stannis counters by having a red priestess birth a literal shadow assassin out of her womb to shank him in a tent. In King's Landing, Tyrion saves the entire city from Stannis using green fire and a giant boom chain, and his reward is getting his nose sliced in half and his father telling him he's a biological mistake. Daenerys walks into the House of the Undying and witnesses 80 different prophecies that George has spent the last 28 years trying to untangle.",
+  "flagrantPlotHoles": [
+    "Shadow Assassins are overpowered: If Melisandre can birth a ghost dagger to execute Renly and Penrose, why didn't she just mail one to Tywin, Joffrey, and the Mountain?",
+    "The Great Ranging Logistics: Jeor Mormont took 300 Night's Watch crows past the Wall into sub-zero blizzard terrain without a supply line, food depots, or winter coats, purely on vibes.",
+    "Theon's Winterfell Conquest: Theon seized the capital of the largest kingdom in the continent with literally twenty Ironborn pirates."
+  ],
+  "georgesExcuse": "Look, the shadow baby had a cooldown timer. It's in the patch notes."
+}

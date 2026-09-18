@@ -1,0 +1,19 @@
+{
+  "id": "catspaw_dagger_truth",
+  "title": "THE CATSPAW DAGGER EXPLAINED",
+  "pov": "Jon Snow",
+  "narrative": "Howland Reed scoffs into his marsh-tea. 'Joffrey? Littlefinger? Robert? The truth was far dumber. Littlefinger lost the dagger in a drunken bet to Renly, who left it on a table in the Red Keep, where a kitchen boy stole it, sold it to a fence, who sold it to Robert's armorer, who shoved it in a baggage train wagon where Joffrey stole it to impress his father because Joffrey was an illiterate psychopath who didn't know Valyrian steel from pig-iron.' The entire court falls silent at how much continental bloodshed resulted from a petulant toddler with bad impulse control.",
+  "resolvesPlotHole": "The Catspaw Dagger",
+  "bonusAchievementId": "ach_catspaw_solved",
+  "options": [
+    {
+      "text": "Fast-forward time: address the scrapped 5-year gap before fighting the Others.",
+      "nextId": "five_year_gap_reckoning",
+      "bonusAchievementId": "ach_five_year_gap"
+    },
+    {
+      "text": "March South with the Free Folk and liberate Winterfell from Ramsay Bolton.",
+      "nextId": "ride_winterfell"
+    }
+  ]
+}

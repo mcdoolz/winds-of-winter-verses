@@ -1,0 +1,15 @@
+{
+  "id": "book_3",
+  "title": "A Storm of Swords",
+  "year": 2000,
+  "pageCount": 973,
+  "color": "#1e3a8a",
+  "tagline": "The peak of fantasy literature, after which George's outline exploded into 4,000 subplots.",
+  "summary": "The book where George wakes up and chooses absolute violence. Robb Stark wins every single military engagement against the Lannisters, but makes the catastrophic mistake of breaking a promise to a geriatric bridge toll collector with eighty inbred children. The result is the Red Wedding, which scarred an entire generation of readers. Joffrey chokes to death on pigeon pie at his own reception, Tyrion kills his dad on the toilet with a crossbow, and Oberyn Martell gives an inspiring speech right before having his skull turned into guacamole. Concludes with Catelyn Stark returning as an undead zombie who can barely speak but loves hanging teenagers.",
+  "flagrantPlotHoles": [
+    "Littlefinger's Travel Speed: Petyr Baelish travels back and forth across the Riverlands and the Vale faster than a supersonic Boeing 747.",
+    "The Grand Northern Conspiracy: Robb named an heir in a signed royal decree, sent Maege Mormont and Galbart Glover into the Neck with it, and they have been floating in a swamp canoe since August 2000.",
+    "Jaime and Brienne's Teleportation: They spent months walking in circles, somehow stumbled upon every sellsword in the continent, yet no one noticed a 6'6 blonde woman escorting the Kingslayer."
+  ],
+  "georgesExcuse": "This book was so good I decided to take the next twenty-six years off."
+}

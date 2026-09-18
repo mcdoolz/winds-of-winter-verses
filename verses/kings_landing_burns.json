@@ -1,0 +1,22 @@
+{
+  "id": "kings_landing_burns",
+  "title": "THE ASHES OF THE RED KEEP",
+  "pov": "Daenerys Targaryen",
+  "narrative": "Dragonfire paints the sky red and gold. The Red Keep's ancient stones crack and crumble as Drogon spirals through the smoke. Bells toll madly across the city. Then \u2014 silence, save for the roar of flames. The throne room is exposed to the open sky, and Cersei's golden hair is visible in the rubble, still and cold. The city is yours. At a cost no maester will ever fully count.",
+  "resolvesPlotHole": null,
+  "bonusAchievementId": null,
+  "options": [
+    {
+      "text": "Dismount into the ash and claim the Iron Throne.",
+      "nextId": "claim_throne_ending"
+    },
+    {
+      "text": "Fly north immediately \u2014 the Others still march.",
+      "nextId": "fly_north"
+    },
+    {
+      "text": "Melt the Iron Throne itself \u2014 no more kings, no more thrones.",
+      "nextId": "melt_throne_ending"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "meereenese_knot_untied",
+  "title": "UNTYING THE MEEREENESE KNOT",
+  "pov": "Daenerys Targaryen",
+  "narrative": "For fifteen real-world years, Daenerys sat on an ebony bench in Meereen debating olive oil tariffs, pit fighters, and harpy conspiracies. No more. Drogon descends like a falling star upon Slaver's Bay. Barristan Selmy draws his blade, the Iron Fleet arrives, and Daenerys orders Drogon to incinerate the Yunkish trebuchets. Four hundred pages of bureaucratic Essos stalling vaporize into smoke. The dragons turn west.",
+  "resolvesPlotHole": "The Meereenese Knot",
+  "bonusAchievementId": "ach_meereen_untied",
+  "options": [
+    {
+      "text": "Confront Young Griff (Aegon VI) outside King's Landing \u2014 demand proof of his Targaryen blood.",
+      "nextId": "faegon_blackfyre",
+      "bonusAchievementId": "ach_faegon_exposed"
+    },
+    {
+      "text": "Assault the Red Keep directly with dragonfire before Cersei can detonate wildfire.",
+      "nextId": "kings_landing_burns"
+    },
+    {
+      "text": "Bypass the capital entirely and fly directly North to the Wall.",
+      "nextId": "fly_north"
+    }
+  ]
+}

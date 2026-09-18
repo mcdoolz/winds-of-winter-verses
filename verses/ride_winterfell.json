@@ -1,0 +1,18 @@
+{
+  "id": "ride_winterfell",
+  "title": "THE BASTARD OF WINTERFELL",
+  "pov": "Jon Snow",
+  "narrative": "Jon rides at the head of five thousand Free Folk warriors through waist-deep snow. The battlements of Winterfell loom like gray teeth against the blizzard. On the walls, the flayed man of House Bolton flutters in the freezing wind. Ramsay Bolton waits with three thousand dreadfort spearmen and his howling hounds.",
+  "resolvesPlotHole": null,
+  "bonusAchievementId": null,
+  "options": [
+    {
+      "text": "Challenge Ramsay Bolton to single combat before the gates.",
+      "nextId": "king_north_ending"
+    },
+    {
+      "text": "Order Wun Wun to batter down the ancient gates of Winterfell.",
+      "nextId": "north_united_ending"
+    }
+  ]
+}

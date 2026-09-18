@@ -1,0 +1,15 @@
+{
+  "id": "book_4",
+  "title": "A Feast for Crows",
+  "year": 2005,
+  "pageCount": 753,
+  "color": "#78350f",
+  "tagline": "Zero Jon Snow. Zero Tyrion. Zero Daenerys. 400 pages of Brienne asking for directions.",
+  "summary": "George famously announced he had written too many pages, so he cut the book in half geographically. What remains is Cersei drinking flagon after flagon of Arbor Gold, convincing herself she is Tywin Lannister with cheekbones, and appointing incompetent pirates and religious extremists to high government office until the High Sparrow arrests her for her own hobbies. Meanwhile, Brienne of Tarth travels across the Riverlands asking every blacksmith, peasant, and tree if they've seen 'a maid of three-and-ten with auburn hair.' Samwell Tarly sails on a boat for nine months and gets seasick on every single page.",
+  "flagrantPlotHoles": [
+    "The Scrapped 5-Year Gap: George realized that skipping five years didn't work for Stannis at the Wall, so he cancelled it, meaning 11-year-old Arya is now a lethal Faceless assassin and 16-year-old Jon is running military diplomacy.",
+    "The Dornish Master Plan: Doran Martell spent seventeen years playing cyvasse and waiting for his enemies to die of old age, before sending his son to Essos with zero dragons and zero plan.",
+    "Euron's Magic Valyrian Armor: Euron Greyjoy suddenly appears with an entire full plate suit of Valyrian steel armor that no Valyrian dragonlord in 5,000 years ever owned."
+  ],
+  "georgesExcuse": "I had to split it by character geography, okay? The Meereenese Knot was tightening."
+}

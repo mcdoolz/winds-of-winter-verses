@@ -1,0 +1,22 @@
+{
+  "id": "cersei_standoff",
+  "title": "THE WILDFIRE GAMBIT",
+  "pov": "Daenerys Targaryen",
+  "narrative": "Cersei appears on the battlements of Maegor's Holdfast, surrounded by the Mountain and her last loyal goldcloaks. She raises one hand holding a vial of jade-green wildfire. The courtyard is threaded with the old pipes from the Mad King's reign. She smiles as if she expected this moment, as if she has been preparing for it longer than Daenerys has been alive.",
+  "resolvesPlotHole": null,
+  "bonusAchievementId": null,
+  "options": [
+    {
+      "text": "Negotiate: offer Tommen's life and a ship to Essos in exchange for abdication.",
+      "nextId": "tommen_deal_ending"
+    },
+    {
+      "text": "Send Arya Stark to resolve this the Faceless way tonight.",
+      "nextId": "arya_sent_ending"
+    },
+    {
+      "text": "Descend alone to face Cersei in the courtyard, woman to woman.",
+      "nextId": "wildfire_ending"
+    }
+  ]
+}

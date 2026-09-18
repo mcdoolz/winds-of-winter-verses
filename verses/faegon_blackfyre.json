@@ -1,0 +1,18 @@
+{
+  "id": "faegon_blackfyre",
+  "title": "THE MUMMER'S DRAGON EXPOSED",
+  "pov": "Daenerys Targaryen",
+  "narrative": "Aegon VI rides out beneath the red three-headed dragon banner, proud and silver-haired. But Drogon snarls, smelling no dragonblood \u2014 only Illyrio Mopatis's sweet perfume and candied ginger. Daenerys produces the rusted sign of the black dragon that washed ashore on the Quiet Isle. 'A dragon of black iron washed in brine,' she proclaims. 'You are no son of Rhaegar. You are a Blackfyre, raised by a cheesemonger and a eunuch!' The Golden Company freezes, looking to Jon Connington's greyscale-rotted hand.",
+  "resolvesPlotHole": "Young Griff / Faegon Legitimacy",
+  "bonusAchievementId": "ach_faegon_exposed",
+  "options": [
+    {
+      "text": "Offer Aegon mercy if the Golden Company joins your assault on King's Landing.",
+      "nextId": "cersei_standoff"
+    },
+    {
+      "text": "Unleash Drogon upon the Blackfyre pretenders and take the Iron Throne by right of conquest.",
+      "nextId": "kings_landing_burns"
+    }
+  ]
+}

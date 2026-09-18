@@ -1,0 +1,16 @@
+{
+  "id": "book_5",
+  "title": "A Dance with Dragons",
+  "year": 2011,
+  "pageCount": 1040,
+  "color": "#312e81",
+  "tagline": "Published July 12, 2011. Barack Obama was in his first term. Skyrim wasn't out yet.",
+  "summary": "The other half of the characters from Book 4. Tyrion travels down the Rhoyne River on a barge, gets captured by Jorah Mormont, gets captured by slavers, rides a pig in an arena, and asks 'Where do whores go?' ninety-four distinct times. Jon Snow spends hundreds of pages auditing grain silos and drafting loan contracts with the Iron Bank of Braavos before his Night's Watch brothers stab him in the snow like a Roman senator. Daenerys refuses to leave Meereen because she has a teenage crush on Daario Naharis (a mercenary with blue hair and a golden mustache), gets married to a guy named Hizdahr zo Loraq, and ends the book having dysentery in the Dothraki Sea. Cliffhangers everywhere. Still unresolved fifteen years later.",
+  "flagrantPlotHoles": [
+    "The Meereenese Knot: George spent a decade figuring out how to get Quentyn, Victarion, Tyrion, Barristan, and Marwyn to Meereen simultaneously, only for Dany to fly away on Drogon before any of them talked to her.",
+    "Quentyn's 'Oh': A prince of Dorne walked into a dungeon containing two forty-ton apex fire predators armed with a whip and said 'Oh.'",
+    "Young Griff / Faegon: A completely new secret heir to the Iron Throne appears out of nowhere with blue hair on a boat in Book 5, rendering the entire War of the Five Kings redundant.",
+    "Howland Reed's Complete Absence: The only living human who knows Jon Snow's actual parents is chilling in a moving floating castle in the bogs, refusing to answer all ravens."
+  ],
+  "georgesExcuse": "The winds are blowing, I'm working on it, page count is huge, don't ask me when it's done."
+}

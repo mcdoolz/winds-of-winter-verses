@@ -1,0 +1,18 @@
+{
+  "id": "find_bran",
+  "title": "THE THREE-EYED RAVEN",
+  "pov": "Jon Snow",
+  "narrative": "Beyond the Wall, inside the cavern of the Children of the Forest, Bran Stark sits entwined in white weirwood roots. His eyes are milky white, seeing through every crow, every wolf, and every snowflake in Westeros. 'You are finally here, brother,' Bran whispers in a voice like rustling leaves. 'The Others are not mindless ice \u2014 they are the first men's greatest sin, and they have come to collect their debt.'",
+  "resolvesPlotHole": null,
+  "bonusAchievementId": null,
+  "options": [
+    {
+      "text": "Learn the ancient secret to forging Lightbringer.",
+      "nextId": "long_night_secret_ending"
+    },
+    {
+      "text": "Warg into the dragon Viserion through the Weirwood network.",
+      "nextId": "viserion_warg_ending"
+    }
+  ]
+}

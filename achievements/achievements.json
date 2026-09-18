@@ -1,0 +1,104 @@
+{
+  "combo": [
+    {
+      "id": "combo_3",
+      "tier": 3,
+      "title": "TRIPLE DRAFT!",
+      "subtitle": "WORDS ARE WIND",
+      "desc": "Selected 3 choices within 3 seconds each."
+    },
+    {
+      "id": "combo_4",
+      "tier": 4,
+      "title": "MULTI-KILL!",
+      "subtitle": "THE NORTH REMEMBERS",
+      "desc": "Sustained a 4x fast-authorship streak."
+    },
+    {
+      "id": "combo_5",
+      "tier": 5,
+      "title": "M-M-M-MONSTER KILL!",
+      "subtitle": "FIRE AND BLOOD",
+      "desc": "5 consecutive fast chapter directions."
+    },
+    {
+      "id": "combo_6",
+      "tier": 6,
+      "title": "RAMPAGE!",
+      "subtitle": "VALAR MORGHULIS",
+      "desc": "6 chapter sprint \u2014 the ink boils!"
+    },
+    {
+      "id": "combo_7",
+      "tier": 7,
+      "title": "UNSTOPPABLE!",
+      "subtitle": "WINTER HAS COME",
+      "desc": "7 fast choices \u2014 faster than George can backspace."
+    },
+    {
+      "id": "combo_8",
+      "tier": 8,
+      "title": "ULTRAAAA COMBOOOOO!",
+      "subtitle": "A DREAM OF SPRING",
+      "desc": "8+ consecutive choices! The manuscript is written!"
+    }
+  ],
+  "plotholes": [
+    {
+      "id": "ach_meereen_untied",
+      "title": "KNOT UNTIED // ESSOS ABANDONED",
+      "subtitle": "400 PAGES OF MEEREEN DESTROYED IN 3 PARAGRAPHS",
+      "plotHole": "The Meereenese Knot",
+      "desc": "Bypassed 15 years of Slaver's Bay trade tariffs by burning the blockade and sailing directly to Westeros."
+    },
+    {
+      "id": "ach_howland_answered",
+      "title": "HE FINALLY PICKED UP // HOWLAND REED",
+      "subtitle": "ROWED OUT OF THE BOG AFTER 28 YEARS",
+      "plotHole": "Howland Reed Absence",
+      "desc": "Forced Howland Reed to leave Greywater Watch with the marriage certificate and Lyanna's harp."
+    },
+    {
+      "id": "ach_catspaw_solved",
+      "title": "THE WORST ASSASSIN IN HISTORY",
+      "subtitle": "WHY DID HE HAVE VALYRIAN STEEL?!",
+      "plotHole": "The Catspaw Dagger",
+      "desc": "Confronted the nonsensical logic of hiring a homeless hitman with an irreplaceable priceless heirloom."
+    },
+    {
+      "id": "ach_five_year_gap",
+      "title": "THE FIVE YEAR TIME-SKIP",
+      "subtitle": "ARYA IS FINALLY AN ADULT",
+      "plotHole": "The Scrapped 5-Year Gap",
+      "desc": "Restored George's original time-skip so teenagers aren't commanding planetary wars."
+    },
+    {
+      "id": "ach_stoneheart_trap",
+      "title": "THE SILENT ROPE // CATELYN STARK",
+      "subtitle": "RESOLVED JAIME'S 2011 CLIFFHANGER",
+      "plotHole": "Lady Stoneheart & Jaime's Disappearance",
+      "desc": "Concluded the 15-year standoff between Lady Stoneheart, Brienne of Tarth, and Jaime Lannister."
+    },
+    {
+      "id": "ach_euron_apocalypse",
+      "title": "WHAT IS DEAD MAY SUMMON SQUID",
+      "subtitle": "BLOOD MAGIC OFF THE REDWYNE STRAITS",
+      "plotHole": "Euron's Valyrian Armor & Eldritch Horn",
+      "desc": "Unleashed the kraken Euron spent two whole books hyping up."
+    },
+    {
+      "id": "ach_quentyn_lives",
+      "title": "MERE FLESH WOUND // 'OH.'",
+      "subtitle": "QUENTYN MARTELL WAS WEARING FIREPROOF OINTMENT",
+      "plotHole": "Quentyn Martell's Pointless Death",
+      "desc": "Addressed the Dorne plotline where the prince flew across the world just to turn into charcoal."
+    },
+    {
+      "id": "ach_faegon_exposed",
+      "title": "THE MUMMER'S DRAGON REVEALED",
+      "subtitle": "BLACKFYRE PATERNITY TEST RESULTS ARE IN",
+      "plotHole": "Young Griff / Faegon Legitimacy",
+      "desc": "Exposed Illyrio Mopatis and Varys's secret Blackfyre conspiracy once and for all."
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "book_1",
+  "title": "A Game of Thrones",
+  "year": 1996,
+  "pageCount": 694,
+  "color": "#7f1d1d",
+  "tagline": "Back when George thought this would be a tight, neat trilogy.",
+  "summary": "Ned Stark is hired by his alcoholic college buddy King Robert to solve the murder of Jon Arryn. Ned's investigative strategy consists of walking directly up to the murderers, announcing that he knows their secret, and asking them politely to pack their bags and leave town. Predictably, this gets his head lopped off on the steps of Baelor. Meanwhile in Essos, Daenerys eats a horse heart, gets three dragon eggs, and marries a horse lord who dies of an infected boob scratch. Up North, Jon Snow takes a lifelong vow of celibacy at sixteen because he was annoyed at Thanksgiving.",
+  "flagrantPlotHoles": [
+    "The Catspaw Dagger: Why would anyone arm a random peasant with an irreplaceable, legendary Valyrian steel dagger to murder a crippled child in a crowded castle?",
+    "Ned's Genetics Monologue: The entire succession of the Seven Kingdoms hinges on Ned discovering that every Baratheon in history had black hair, despite basic Mendelian genetics not existing in Westeros.",
+    "Winterfell Security: How did an assassin just casually wander into the High Lord of Winterfell's private bedchambers during broad daylight?"
+  ],
+  "georgesExcuse": "I was still planning on a five-year time jump between chapters. Innocent times."
+}

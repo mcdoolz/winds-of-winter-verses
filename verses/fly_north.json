@@ -1,0 +1,18 @@
+{
+  "id": "fly_north",
+  "title": "FLIGHT TO THE WALL",
+  "pov": "Daenerys Targaryen",
+  "narrative": "Leaving King's Landing behind, Drogon climbs through cold clouds. The green of the Riverlands fades to frosted pine, then the blinding expanse of the North. At the Wall, three hundred miles of ancient ice stand weeping against the dark. White shadows move across the frozen forest below.",
+  "resolvesPlotHole": null,
+  "bonusAchievementId": null,
+  "options": [
+    {
+      "text": "Unite with Jon Snow for a coordinated assault on the Night King.",
+      "nextId": "united_stand_ending"
+    },
+    {
+      "text": "Dive Drogon into the frozen forest to draw the Other commanders out.",
+      "nextId": "duel_night_king_ending"
+    }
+  ]
+}
