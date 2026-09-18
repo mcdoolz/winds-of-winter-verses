@@ -1,0 +1,18 @@
+{
+  "id": "hightower_glass_candle",
+  "title": "THE FLAME OF OBSIDIAN // CITADEL OBSERVATORY",
+  "pov": "Samwell Tarly",
+  "narrative": "In the highest chamber of the Citadel, Archmaester Marwyn strikes steel to flint. The black obsidian glass candle ignites without a wick, casting a blade of razor-sharp green luminescence across the parchment maps. In the candle's flame, Sam sees Daenerys mounting Drogon in Essos, Jon Snow waking in a storm of crows, and Euron's fleet bathed in kraken blood. 'The Citadel's maesters built a world without magic,' Marwyn rumbles, strapping on his leather apron. 'Now the magic is breaking down the doors.'",
+  "resolvesPlotHole": "The Glass Candles of Oldtown",
+  "bonusAchievementId": "ach_candle_ignited",
+  "options": [
+    {
+      "text": "Catch the novice Pate stealing the secret archmaester keys.",
+      "nextId": "pate_jaqen_conspiracy"
+    },
+    {
+      "text": "Descend into the forbidden vaults to retrieve the Death of Dragons manuscript.",
+      "nextId": "citadel_forbidden_vaults"
+    }
+  ]
+}

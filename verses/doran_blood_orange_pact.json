@@ -1,0 +1,18 @@
+{
+  "id": "doran_blood_orange_pact",
+  "title": "OVERRIPE FRUIT // WATER GARDENS UNMASKED",
+  "pov": "Doran Martell",
+  "narrative": "Prince Doran watches a heavy blood orange fall from the terrace wall, bursting against the blood-red marble tiles with a sickening squelch. 'I have waited seventeen years,' Doran whispers to Areo Hotah. 'They laughed at the gouty prince who played cyvasse. Now the Lannisters tear themselves apart, and the spears of Sunspear are thirsty.'",
+  "resolvesPlotHole": "Doran Martell's True Endgame",
+  "bonusAchievementId": "ach_overripe_orange_popped",
+  "options": [
+    {
+      "text": "Unite Dorne's host with Aegon VI outside the capital.",
+      "nextId": "arianne_aegon_marriage"
+    },
+    {
+      "text": "March on King's Landing with dragonfire.",
+      "nextId": "kings_landing_burns"
+    }
+  ]
+}

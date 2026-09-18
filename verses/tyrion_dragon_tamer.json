@@ -1,0 +1,18 @@
+{
+  "id": "tyrion_dragon_tamer",
+  "title": "THE DRAGON HAS THREE HEADS // SADDLES OF VALYRIA",
+  "pov": "Tyrion Lannister",
+  "narrative": "Tyrion steps into the charred darkness of the dragonpit beneath the Great Pyramid, holding special leather straps and brass buckles he sketched as a dwarf boy in Casterly Rock. Viserion lowers his cream-and-gold horned head, snorting plumes of white smoke. Tyrion reaches up and scratches the warm scales behind his eye. 'I am small, but so are the rider's seats of Valyria,' Tyrion smiles.",
+  "resolvesPlotHole": "Tyrion Dragon Rider Theory",
+  "bonusAchievementId": "ach_dwarf_dragon_rider",
+  "options": [
+    {
+      "text": "Warg the dragon mind alongside Bran Stark in the weirwood network.",
+      "nextId": "viserion_warg_ending"
+    },
+    {
+      "text": "Take flight across the narrow sea to reclaim Casterly Rock.",
+      "nextId": "meereenese_knot_untied"
+    }
+  ]
+}

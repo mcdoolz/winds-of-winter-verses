@@ -1,0 +1,18 @@
+{
+  "id": "blackfish_riverrun_rally",
+  "title": "SWIMMING UNDER THE WATER GATE // THE BLACKFISH",
+  "pov": "Brynden Tully",
+  "narrative": "The Blackfish surfaces from the frigid Red Fork, spitting river silt. The Frey siege lines are completely blind to the back channels of the Riverlands. Rallying three hundred Mallister archers and Blackwood scouts, Brynden sets fire to the Frey baggage trains, turning Riverrun's siege into a catastrophic rout for House Frey.",
+  "resolvesPlotHole": "The Blackfish's Escape from Riverrun",
+  "bonusAchievementId": "ach_blackfish_swims_free",
+  "options": [
+    {
+      "text": "Link up with Lady Stoneheart and Jaime Lannister.",
+      "nextId": "stoneheart_jaime"
+    },
+    {
+      "text": "Muster the Northern and Riverland lords for the final march.",
+      "nextId": "northern_muster_ending"
+    }
+  ]
+}

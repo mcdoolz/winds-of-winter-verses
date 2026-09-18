@@ -1,0 +1,18 @@
+{
+  "id": "patchface_prophecy_unlocked",
+  "title": "UNDER THE SEA // THE JESTER'S TRUTH",
+  "pov": "Shireen Baratheon",
+  "narrative": "Patchface dances in the blizzard, his antlered bells jingling: 'Under the sea the mermen feast on starfish soup, and all the serving men are crabs! The white shadows come to dance, my lord, and the horn of winter will drown the crow! I know, I know, oh oh oh!' For the first time, the riddle makes terrifying sense: every verse predicts Euron and the Long Night.",
+  "resolvesPlotHole": "Patchface's Prophetic Madness",
+  "bonusAchievementId": "ach_jester_of_the_abyss",
+  "options": [
+    {
+      "text": "Confront Euron's eldritch ritual off Oldtown.",
+      "nextId": "the_forsaken_prow"
+    },
+    {
+      "text": "Heed the jester's warning and uncover the Weirwood Pact.",
+      "nextId": "long_night_secret_ending"
+    }
+  ]
+}

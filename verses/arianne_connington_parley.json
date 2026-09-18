@@ -1,0 +1,23 @@
+{
+  "id": "arianne_connington_parley",
+  "title": "STORMLANDS RECKONING // ELEPHANTS AT GRIFFIN'S ROOST",
+  "pov": "Arianne Martell",
+  "narrative": "Arianne Martell rides through the damp rainwood toward Griffin's Roost. In the mist, colossal grey beasts with tusks bound in bronze\u2014the war elephants of the Golden Company\u2014shake the ground. Inside the solar sits Jon Connington, his hand graying with stone disease, and beside him a tall young man with indigo eyes and blue-dyed hair who looks strikingly like Rhaegar Targaryen.",
+  "resolvesPlotHole": "Arianne Meets Young Griff in TWOW",
+  "bonusAchievementId": "ach_dornish_dragon_suitor",
+  "options": [
+    {
+      "text": "Test the prince's lineage for Blackfyre counterfeit marks.",
+      "nextId": "faegon_blackfyre"
+    },
+    {
+      "text": "Offer Dorne's fifty thousand spears in marriage to Aegon VI.",
+      "nextId": "arianne_aegon_marriage"
+    },
+    {
+      "text": "Send word to Doran: dispatch Areo Hotah and Balon Swann to High Hermitage to corner Darkstar.",
+      "nextId": "darkstar_sword_dawn",
+      "bonusAchievementId": "ach_darkstar_confronted"
+    }
+  ]
+}

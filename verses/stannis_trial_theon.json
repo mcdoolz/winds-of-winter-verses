@@ -1,0 +1,18 @@
+{
+  "id": "stannis_trial_theon",
+  "title": "THE JUDGMENT BY WEIRWOOD // ASH AND BONE",
+  "pov": "Stannis Baratheon",
+  "narrative": "The King's Men drag Theon before Stannis inside the drafty watchtower. The Karstark plotters hang from pine branches outside. Lord Arnolf Karstark sits in chains, and the Northerners scream for Theon's blood to pay for Bran and Rickon Stark. Stannis looks at Theon's broken mouth and missing toes. 'A headman's sword is clean; a burning is noisy. You slew the Ned's sons, Greyjoy. The old gods demand your life beneath the weirwood.'",
+  "resolvesPlotHole": "Theon's Fate at the Crofter's Village",
+  "bonusAchievementId": "ach_weirwood_verdict",
+  "options": [
+    {
+      "text": "March Theon to the weirwood heart tree on the frozen islet.",
+      "nextId": "weirwood_blood_sacrifice"
+    },
+    {
+      "text": "Keep Theon alive as a tactical hostage to claim the Iron Islands.",
+      "nextId": "braavosi_banker_deal"
+    }
+  ]
+}

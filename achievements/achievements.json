@@ -99,6 +99,412 @@
       "subtitle": "BLACKFYRE PATERNITY TEST RESULTS ARE IN",
       "plotHole": "Young Griff / Faegon Legitimacy",
       "desc": "Exposed Illyrio Mopatis and Varys's secret Blackfyre conspiracy once and for all."
+    },
+    {
+      "id": "ach_meereenese_knot",
+      "title": "KNOT UNTIED // ESSOS ABANDONED",
+      "subtitle": "PLUGGED: THE MEEREENESE KNOT",
+      "plotHole": "The Meereenese Knot",
+      "desc": "George spent 11 years trying to coordinate 6 POV characters arriving in Slaver's Bay, only to have Dany fly away on Drogon before speaking to a single one of them."
+    },
+    {
+      "id": "ach_howland_reed",
+      "title": "HE FINALLY PICKED UP // HOWLAND REED",
+      "subtitle": "PLUGGED: HOWLAND REED'S COMPLETE ABSENCE",
+      "plotHole": "Howland Reed's Complete Absence",
+      "desc": "The only living human who survived the Tower of Joy has spent 28 years floating in a swamp castle refusing to answer any raven while the realm burns."
+    },
+    {
+      "id": "ach_catspaw_dagger",
+      "title": "THE WORST ASSASSIN IN HISTORY",
+      "subtitle": "PLUGGED: THE CATSPAW VALYRIAN STEEL DAGGER",
+      "plotHole": "The Catspaw Valyrian Steel Dagger",
+      "desc": "Handing an irreplaceable, priceless Valyrian steel dagger to a random transient to assassinate the son of the Warden of the North inside his own castle."
+    },
+    {
+      "id": "ach_five_year_gap",
+      "title": "THE FIVE YEAR TIME-SKIP",
+      "subtitle": "PLUGGED: THE SCRAPPED 5-YEAR TIME SKIP",
+      "plotHole": "The Scrapped 5-Year Time Skip",
+      "desc": "Cancelling the time-skip meant Arya is a master Faceless assassin at 11, Jon commands the continent at 16, and the dragons grew overnight on vibes."
+    },
+    {
+      "id": "ach_stoneheart_cliffhanger",
+      "title": "THE SILENT ROPE // CATELYN STARK",
+      "subtitle": "PLUGGED: LADY STONEHEART & JAIME'S DISAPPEARANCE",
+      "plotHole": "Lady Stoneheart & Jaime's Disappearance",
+      "desc": "One of the most dramatic cliffhangers in fantasy literature left Jaime and Brienne standing before an undead Catelyn Stark for over 15 years."
+    },
+    {
+      "id": "ach_euron_eldritch",
+      "title": "WHAT IS DEAD MAY SUMMON SQUID",
+      "subtitle": "PLUGGED: EURON'S VALYRIAN ARMOR & ELDRITCH SQUID",
+      "plotHole": "Euron's Valyrian Armor & Eldritch Squid",
+      "desc": "Euron suddenly shows up with an artifact that no Targaryen dragonlord in 5,000 years could afford, preparing to summon literal Cthulhu off Oldtown."
+    },
+    {
+      "id": "ach_faegon_blackfyre",
+      "title": "THE MUMMER'S DRAGON REVEALED",
+      "subtitle": "PLUGGED: YOUNG GRIFF / FAEGON'S SUDDEN EXISTENCE",
+      "plotHole": "Young Griff / Faegon's Sudden Existence",
+      "desc": "A completely unmentioned secret heir to the Iron Throne casually floats down a river with blue hair in Book 5, rendering the entire War of 5 Kings redundant."
+    },
+    {
+      "id": "ach_wildfire_under_city",
+      "title": "THE WILDFIRE GAMBIT",
+      "subtitle": "PLUGGED: THE UNEXPLODED WILDFIRE UNDER KING'S LANDING",
+      "plotHole": "The Unexploded Wildfire Under King's Landing",
+      "desc": "The entire city has lived on top of volatile explosive barrels for 20 years, while Cersei drinks wine directly above them."
+    },
+    {
+      "id": "ach_aeron_drowned_god_awakens",
+      "title": "WHAT IS DEAD MAY NEVER DIE // TSUNAMI OF THE DEEP",
+      "subtitle": "PLUGGED: THE DAMPHAIR'S SURVIVAL",
+      "plotHole": "The Damphair's Survival",
+      "desc": "Aeron survived drinking seawater for 20 years, proving either divine intervention or extraordinary ironborn kidney function."
+    },
+    {
+      "id": "ach_arianne_aegon_marriage",
+      "title": "THE SPEAR AND THE DRAGON // DORNISH ALLIANCE",
+      "subtitle": "PLUGGED: THE DORNISH BLACKFYRE ALLIANCE",
+      "plotHole": "The Dornish Blackfyre Alliance",
+      "desc": "Doran Martell had secret marriage contracts with every Targaryen in existence and managed to marry off zero of them."
+    },
+    {
+      "id": "ach_arianne_connington_parley",
+      "title": "STORMLANDS RECKONING // ELEPHANTS AT GRIFFIN'S ROOST",
+      "subtitle": "PLUGGED: ARIANNE MEETS YOUNG GRIFF IN TWOW",
+      "plotHole": "Arianne Meets Young Griff in TWOW",
+      "desc": "Princess Arianne spent two whole sample chapters riding mules through the rainwood just to look at an elephant."
+    },
+    {
+      "id": "ach_arya_mercy_theatre",
+      "title": "MERCY // NEEDLEWORK AT THE MUMMER'S TROUPE",
+      "subtitle": "PLUGGED: THE MERCY TWOW CHAPTER",
+      "plotHole": "The Mercy TWOW Chapter",
+      "desc": "Arya recited needlework quotes from Book 1 while playing a mummery maiden in Braavos just to slit a Lannister guard's femoral artery."
+    },
+    {
+      "id": "ach_arya_sails_westeros",
+      "title": "THE QUEEN OF WOLVES // HOMEWARD BOUND",
+      "subtitle": "PLUGGED: NYMERIA'S SUPER-PACK PURPOSE",
+      "plotHole": "Nymeria's Super-Pack Purpose",
+      "desc": "An army of giant feral direwolves has been terrorizing the Riverlands off-screen for four books without ever being addressed."
+    },
+    {
+      "id": "ach_barristan_battle_of_fire",
+      "title": "THE WHITE BULL'S CHARGE // BATTLE OF FIRE",
+      "subtitle": "PLUGGED: THE BATTLE OF FIRE IN TWOW",
+      "plotHole": "The Battle of Fire in TWOW",
+      "desc": "An eighty-year-old knight in white plate riding a blind silver mare is the only competent military commander in Essos."
+    },
+    {
+      "id": "ach_barristan_victarion_parley",
+      "title": "AN OLD KNIGHT AND AN IRON REAVER",
+      "subtitle": "PLUGGED: BARRISTAN AND VICTARION MEETING",
+      "plotHole": "Barristan and Victarion Meeting",
+      "desc": "The purest chivalric knight in the realm and the dumbest pirate alive trying to negotiate a military alliance."
+    },
+    {
+      "id": "ach_blackfish_riverrun_rally",
+      "title": "SWIMMING UNDER THE WATER GATE // THE BLACKFISH",
+      "subtitle": "PLUGGED: THE BLACKFISH'S ESCAPE FROM RIVERRUN",
+      "plotHole": "The Blackfish's Escape from Riverrun",
+      "desc": "An elderly warrior swam miles down the Red Fork under water gates and vanished completely into thin air."
+    },
+    {
+      "id": "ach_bloodraven_dark_truth",
+      "title": "THE THOUSAND EYES AND ONE // BRYNDEN RIVERS",
+      "subtitle": "PLUGGED: BLOODRAVEN'S ULTIMATE PLAN",
+      "plotHole": "Bloodraven's Ultimate Plan",
+      "desc": "A 125-year-old Targaryen sorcerer with a tree growing through his eye socket is somehow trusted as a reliable mentor."
+    },
+    {
+      "id": "ach_braavosi_banker_deal",
+      "title": "THE IRON BANK'S WRIT // GOLD IN THE BLIZZARD",
+      "subtitle": "PLUGGED: THE IRON BANK'S STANNIS INVESTMENT",
+      "plotHole": "The Iron Bank's Stannis Investment",
+      "desc": "Tycho Nestoris walked 500 leagues through 10-foot drifts in velvet slippers just to collect Cersei's defaulted credit card debt."
+    },
+    {
+      "id": "ach_bran_jojen_paste_mystery",
+      "title": "THE WEIRWOOD PASTE // RED SEED SACRAMENT",
+      "subtitle": "PLUGGED: THE JOJEN PASTE THEORY CONFIRMED",
+      "plotHole": "The Jojen Paste Theory Confirmed",
+      "desc": "Jojen disappeared right when the Children offered a bowl of red-veined porridge that tastes like blood and awakens tree telepathy."
+    },
+    {
+      "id": "ach_cersei_trial_by_combat",
+      "title": "THE GIANT IN STONE ARMOR // SER ROBERT STRONG",
+      "subtitle": "PLUGGED: SER ROBERT STRONG'S IDENTITY",
+      "plotHole": "Ser Robert Strong's Identity",
+      "desc": "Qyburn sent Gregor's skull to Dorne, yet a headless zombie knight is running around the Red Keep refusing to take off his helm."
+    },
+    {
+      "id": "ach_cersei_trial_judgment",
+      "title": "THE VALONQAR // HANDS OF GOLD",
+      "subtitle": "PLUGGED: THE VALONQAR PROPHECY FULFILLED",
+      "plotHole": "The Valonqar Prophecy Fulfilled",
+      "desc": "Cersei spent 30 years terrorizing Tyrion when the little brother prophecy could refer to Jaime, the Hound, or literally any younger sibling."
+    },
+    {
+      "id": "ach_citadel_forbidden_vaults",
+      "title": "THE BLOOD OF DRAGONS // THE LOST VALYRIAN ROLLS",
+      "subtitle": "PLUGGED: HOW VALYRIAN STEEL IS FORGED",
+      "plotHole": "How Valyrian Steel is Forged",
+      "desc": "The grey sheep of Oldtown have spent 300 years poisoning dragons while pretending they're just humble scholars studying ravens."
+    },
+    {
+      "id": "ach_crypts_of_winterfell_secrets",
+      "title": "THE TOMBS OF KINGS // DRAGON EGGS UNDER ICE",
+      "subtitle": "PLUGGED: THE SECRETS OF WINTERFELL CRYPTS",
+      "plotHole": "The Secrets of Winterfell Crypts",
+      "desc": "Generations of Starks walked past ancient stone kings without ever checking behind the tomb for glowing reptile eggs."
+    },
+    {
+      "id": "ach_darkstar_sword_dawn",
+      "title": "OF THE NIGHT // GEROLD DAYNE CORNERED",
+      "subtitle": "PLUGGED: THE HUNT FOR DARKSTAR IN TWOW",
+      "plotHole": "The Hunt for Darkstar in TWOW",
+      "desc": "The edgiest character in fantasy literature sliced off a little girl's ear, stole a horse, and vanished into the mountains."
+    },
+    {
+      "id": "ach_davos_skagos_cannibals",
+      "title": "THE CANNIBAL ISLE // SKAGOSIAN UNICORNS",
+      "subtitle": "PLUGGED: DAVOS ON SKAGOS / RICKON STARK",
+      "plotHole": "Davos on Skagos / Rickon Stark",
+      "desc": "Osha took the four-year-old heir of Winterfell to an island infamous for eating people and riding woolly one-horned beasts."
+    },
+    {
+      "id": "ach_dawn_sword_of_morning",
+      "title": "THE SWORD OF THE MORNING // LIGHTBRINGER'S SISTER",
+      "subtitle": "PLUGGED: THE SIGNIFICANCE OF SWORD DAWN",
+      "plotHole": "The Significance of Sword Dawn",
+      "desc": "A sword forged from a fallen meteor that is not Valyrian steel yet is sharper and paler than milk has sat in Starfall for 10,000 years."
+    },
+    {
+      "id": "ach_doran_blood_orange_pact",
+      "title": "OVERRIPE FRUIT // WATER GARDENS UNMASKED",
+      "subtitle": "PLUGGED: DORAN MARTELL'S TRUE ENDGAME",
+      "plotHole": "Doran Martell's True Endgame",
+      "desc": "Doran watched blood oranges fall and rot in the dirt for twenty years while all his secret allies died of natural causes."
+    },
+    {
+      "id": "ach_dragon_awakening_north",
+      "title": "THE VERDANT FLAME // HATCHING IN THE SNOW",
+      "subtitle": "PLUGGED: THE DRAGON OF WINTERFELL",
+      "plotHole": "The Dragon of Winterfell",
+      "desc": "Summer watched a massive fire beast rise from the castle ruins and nobody mentioned it again for five thousand pages."
+    },
+    {
+      "id": "ach_dragonbinder_horn_sounded",
+      "title": "THE BINDING OF RHAEGAL // FIRE AND SEED",
+      "subtitle": "PLUGGED: DRAGONBINDER HORN BOUND A DRAGON",
+      "plotHole": "Dragonbinder Horn Bound a Dragon",
+      "desc": "Euron brought a Valyrian hell-horn covered in glyphs that instantly turns anyone who touches their lips to it into burnt toast."
+    },
+    {
+      "id": "ach_euron_blood_kraken_summon",
+      "title": "THE WRATH OF OLD VALYRIA // THE HORN DRAGONBINDER",
+      "subtitle": "PLUGGED: EURON'S ELDRITCH BLOOD MAGIC",
+      "plotHole": "Euron's Eldritch Blood Magic",
+      "desc": "Readers have spent a decade waiting to see if Euron actually summons Cthulhu or just crashes into rocks in expensive armor."
+    },
+    {
+      "id": "ach_faceless_men_dragon_scrolls",
+      "title": "THE PRICE OF FACES // THE CONTRACT OF THE HOOF",
+      "subtitle": "PLUGGED: THE FACELESS MEN'S ULTIMATE MISSION",
+      "plotHole": "The Faceless Men's Ultimate Mission",
+      "desc": "Slave assassins in the fourteen flames destroyed an entire global dragon empire, and now they take contracts for pennies."
+    },
+    {
+      "id": "ach_faceless_men_iron_throne",
+      "title": "A COIN OF IRON // INFILTRATING KING'S LANDING",
+      "subtitle": "PLUGGED: ARYA'S VENGEANCE LIST",
+      "plotHole": "Arya's Vengeance List",
+      "desc": "Arya's bedtime death prayer has more names than the Westerosi census registry, and most of them died of random dysentery."
+    },
+    {
+      "id": "ach_ghost_of_winterfell",
+      "title": "THE GHOST OF WINTERFELL // THE CROUCHING HOOD",
+      "subtitle": "PLUGGED: IDENTITY OF THE GHOST OF WINTERFELL",
+      "plotHole": "Identity of the Ghost of Winterfell",
+      "desc": "A castle packed with thousands of angry killers and half the dead men turned out to be done by five spearwives and Theon talking to trees."
+    },
+    {
+      "id": "ach_grrm_wordstar_meta_epilogue",
+      "title": "EPILOGUE // THE WORDSTAR 4.0 BACKSPACE",
+      "subtitle": "PLUGGED: WHY WINDS OF WINTER TOOK 15 YEARS",
+      "plotHole": "Why Winds of Winter Took 15 Years",
+      "desc": "Author uses a 1987 DOS machine with no internet and an infinite backspace key to write 300 pages of turnip stew."
+    },
+    {
+      "id": "ach_high_sparrow_purged",
+      "title": "FIRE AT BAELOR // THE GREEN PYRE",
+      "subtitle": "PLUGGED: THE SEPT OF BAELOR WILDFIRE EXPLOSION",
+      "plotHole": "The Sept of Baelor Wildfire Explosion",
+      "desc": "Giving religious zealots military grade weaponry to save 200 silver stags is the most catastrophic administrative blunder in history."
+    },
+    {
+      "id": "ach_hightower_glass_candle",
+      "title": "THE FLAME OF OBSIDIAN // CITADEL OBSERVATORY",
+      "subtitle": "PLUGGED: THE GLASS CANDLES OF OLDTOWN",
+      "plotHole": "The Glass Candles of Oldtown",
+      "desc": "Leyton Hightower hasn't descended from his skyscraper in a decade while consulting sorcery books and ignoring the pirate fleet below."
+    },
+    {
+      "id": "ach_hold_the_door_revelation",
+      "title": "HOLD THE DOOR // SHATTERED TEMPORALITY",
+      "subtitle": "PLUGGED: THE ORIGIN OF HODOR'S NAME",
+      "plotHole": "The Origin of Hodor's Name",
+      "desc": "Bran psychically ruined a gentle stable boy's life across thirty years of space-time just to hold a wooden door."
+    },
+    {
+      "id": "ach_knights_of_vale_ride_north",
+      "title": "DOWN THE BLOODY GATE // LORDS OF THE MOUNTAIN",
+      "subtitle": "PLUGGED: THE VALE KNIGHTS NORTHERN RELIEF",
+      "plotHole": "The Vale Knights Northern Relief",
+      "desc": "Twenty thousand heavy armored knights sat in a mountain fortress eating lemon cakes while the rest of the continent collapsed."
+    },
+    {
+      "id": "ach_mance_bard_reveal",
+      "title": "THE SINGER OF DORNISH WIVES // ABEL UNMASKED",
+      "subtitle": "PLUGGED: MANCE RAYDER'S WINTERFELL INFILTRATION",
+      "plotHole": "Mance Rayder's Winterfell Infiltration",
+      "desc": "The King-Beyond-the-Wall disguised himself as a traveling lute player to rescue Arya Stark because Melisandre used a ruby glamor."
+    },
+    {
+      "id": "ach_manderly_pie_reveal",
+      "title": "THE NORTH REMEMBERS // THREE PUDGY CRUSTS",
+      "subtitle": "PLUGGED: THE MANDERLY FREY PIE CONSPIRACY",
+      "plotHole": "The Manderly Frey Pie Conspiracy",
+      "desc": "Lord Wyman served three human-meat pies to the Boltons while requesting the singer play The Rat Cook and asking for seconds."
+    },
+    {
+      "id": "ach_melisandre_resurrection_ritual",
+      "title": "BONES IN THE FLAME // JON SNOW RISES",
+      "subtitle": "PLUGGED: JON SNOW'S RESURRECTION IN THE BOOKS",
+      "plotHole": "Jon Snow's Resurrection in the Books",
+      "desc": "Jon has been lying face down in the snow bleeding out for fifteen real-life years while George attends conventions."
+    },
+    {
+      "id": "ach_mountain_hound_clash",
+      "title": "CLEGANEBOWL // THE GRAVEDIGGER RISES",
+      "subtitle": "PLUGGED: CLEGANEBOWL CONFIRMED",
+      "plotHole": "Cleganebowl Confirmed",
+      "desc": "The hype for Cleganebowl reached thermonuclear proportions based on a limping monk petting a horse named Stranger."
+    },
+    {
+      "id": "ach_night_lamp_lake",
+      "title": "THE NIGHT LAMP // THE FROZEN LAKE",
+      "subtitle": "PLUGGED: THE BATTLE OF ICE / NIGHT LAMP THEORY",
+      "plotHole": "The Battle of Ice / Night Lamp Theory",
+      "desc": "Fans have spent 15 years writing 40,000-word essays analyzing medieval fishing beacons while Stannis starved in a blizzard."
+    },
+    {
+      "id": "ach_patchface_prophecy_unlocked",
+      "title": "UNDER THE SEA // THE JESTER'S TRUTH",
+      "subtitle": "PLUGGED: PATCHFACE'S PROPHETIC MADNESS",
+      "plotHole": "Patchface's Prophetic Madness",
+      "desc": "A brain-damaged court jester with tattooed bells predicted the Red Wedding and the drowned apocalypse in kindergarten rhymes."
+    },
+    {
+      "id": "ach_pate_jaqen_conspiracy",
+      "title": "THE THIEF OF KEYS // THE PIG BOY'S FACE",
+      "subtitle": "PLUGGED: PATE / JAQEN H'GHAR IN OLDTOWN",
+      "plotHole": "Pate / Jaqen H'ghar in Oldtown",
+      "desc": "The greatest assassin in the world went undercover as a pig-boy novice maester to steal an iron master key from a vault."
+    },
+    {
+      "id": "ach_rickon_stark_retrieved",
+      "title": "THE HEIR APPARENT // SHAGGYDOG'S GROWL",
+      "subtitle": "PLUGGED: RICKON STARK RETURNS TO THE NORTH",
+      "plotHole": "Rickon Stark Returns to the North",
+      "desc": "The youngest Stark brother has spent 15 real-time years surviving on an uncharted rock with a direwolf named Shaggydog."
+    },
+    {
+      "id": "ach_sansa_outplays_littlefinger",
+      "title": "CHAOS IS NOT A LADDER // THE VALE DECLARES",
+      "subtitle": "PLUGGED: LITTLEFINGER'S FALL IN THE VALE",
+      "plotHole": "Littlefinger's Fall in the Vale",
+      "desc": "Petyr Baelish's entire multi-decade geopolitical scheme hinged on a teenage girl never telling anyone who she actually was."
+    },
+    {
+      "id": "ach_sansa_tourney_winged_knights",
+      "title": "THE BIRD UNCAGED // THE EYRIE'S TOURNEY",
+      "subtitle": "PLUGGED: SANSA'S VALE POLITICAL MASTERCLASS",
+      "plotHole": "Sansa's Vale Political Masterclass",
+      "desc": "Sansa has been dyeing her auburn hair brown and pretending to be a bastard girl while running an entire feudal province."
+    },
+    {
+      "id": "ach_skagos_blood_tithe",
+      "title": "THE STONE MEN OF SKAGOS // ANCIENT SACRIFICE",
+      "subtitle": "PLUGGED: SKAGOSI LOYALTY SECURED",
+      "plotHole": "Skagosi Loyalty Secured",
+      "desc": "The entire Northern fleet avoids Skagos because of rumors started by drunken sailors five hundred years ago."
+    },
+    {
+      "id": "ach_spearwife_leap",
+      "title": "THE TOWER LEAP // EIGHTY FEET OF SNOW",
+      "subtitle": "PLUGGED: THE ESCAPE FROM WINTERFELL",
+      "plotHole": "The Escape from Winterfell",
+      "desc": "Jumping off eighty-foot stone battlements into snowdrifts without breaking every bone in your body violates physics in all known dimensions."
+    },
+    {
+      "id": "ach_stannis_trial_theon",
+      "title": "THE JUDGMENT BY WEIRWOOD // ASH AND BONE",
+      "subtitle": "PLUGGED: THEON'S FATE AT THE CROFTER'S VILLAGE",
+      "plotHole": "Theon's Fate at the Crofter's Village",
+      "desc": "Stannis keeps Theon hung from the wall by iron fetters while debating Northern jurisprudence in negative 40 degree weather."
+    },
+    {
+      "id": "ach_sweetrobin_fate_revealed",
+      "title": "THE FALCON SOARS // SWEETROBIN'S SEED",
+      "subtitle": "PLUGGED: SWEETROBIN SURVIVED THE SWEETSLEEP",
+      "plotHole": "Sweetrobin Survived the Sweetsleep",
+      "desc": "Maester Colemon kept prescribing lethal neurological narcotics to an epileptic child because Petyr asked nicely."
+    },
+    {
+      "id": "ach_the_forsaken_prow",
+      "title": "THE FORSAKEN // BOUND TO THE PROW OF SILENCE",
+      "subtitle": "PLUGGED: THE FORSAKEN TWOW CHAPTER",
+      "plotHole": "The Forsaken TWOW Chapter",
+      "desc": "Tying every septon and holy man on the continent to ship prows to cast an oceanic blood spell is peak fantasy metal."
+    },
+    {
+      "id": "ach_tyrion_cyvasse_turncoat",
+      "title": "INK AND BLOOD // THE SECOND SONS FLIPPED",
+      "subtitle": "PLUGGED: TYRION FLIPS THE SECOND SONS IN TWOW",
+      "plotHole": "Tyrion Flips the Second Sons in TWOW",
+      "desc": "Tyrion signed sixty promissory notes in blood for millions of gold dragons backed by Casterly Rock which he doesn't own."
+    },
+    {
+      "id": "ach_tyrion_dragon_tamer",
+      "title": "THE DRAGON HAS THREE HEADS // SADDLES OF VALYRIA",
+      "subtitle": "PLUGGED: TYRION DRAGON RIDER THEORY",
+      "plotHole": "Tyrion Dragon Rider Theory",
+      "desc": "Tyrion's childhood obsession with dragons and horse saddles was foreshadowed 30 years ago and has yet to pay off."
+    },
+    {
+      "id": "ach_victarion_iron_fleet_arrives",
+      "title": "THE SMOKING ARM // BLOOD ON SLAVER'S BAY",
+      "subtitle": "PLUGGED: VICTARION'S BATTLE OF MEEREEN ARRIVAL",
+      "plotHole": "Victarion's Battle of Meereen Arrival",
+      "desc": "Victarion sailed halfway around the world in full plate armor with a smoking black arm healed by a red priest."
+    },
+    {
+      "id": "ach_weirwood_blood_sacrifice",
+      "title": "THE ROOTS OF TIME // THE TREE SPEAKS",
+      "subtitle": "PLUGGED: THE WEIRWOOD TIME-WHISPER",
+      "plotHole": "The Weirwood Time-Whisper",
+      "desc": "The ancient magical trees have high-speed temporal broadband allowing a paralyzed boy to whisper in his dead father's ear."
+    },
+    {
+      "id": "ach_winterfell_siege_assault",
+      "title": "THE FLAYED MAN FALLS // GATES OF WINTERFELL",
+      "subtitle": "PLUGGED: THE LIBERATION OF WINTERFELL",
+      "plotHole": "The Liberation of Winterfell",
+      "desc": "Decades of fan speculation concluded in a single choice."
     }
   ]
 }

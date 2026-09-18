@@ -1,0 +1,14 @@
+{
+  "id": "grrm_wordstar_meta_epilogue",
+  "title": "EPILOGUE // THE WORDSTAR 4.0 BACKSPACE",
+  "pov": "George R.R. Martin",
+  "narrative": "The CRT monitor glows in the dark Santa Fe cabin. George takes a long sip from his Stark coffee mug, sighs, and looks at the four thousand words written tonight. 'Too fast,' he murmurs. 'The pacing is too brisk. We need three more chapters describing grease running down Stannis's chin and four pages on turnip stew.' He hits BACKSPACE, holds it down for twenty-two seconds, and smiles. '2028 is going to be my year.'",
+  "resolvesPlotHole": "Why Winds of Winter Took 15 Years",
+  "bonusAchievementId": "ach_the_infinite_backspace",
+  "options": [
+    {
+      "text": "Draft the true story from the beginning once more.",
+      "nextId": "root"
+    }
+  ]
+}

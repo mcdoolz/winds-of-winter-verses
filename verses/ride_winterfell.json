@@ -13,6 +13,21 @@
     {
       "text": "Order Wun Wun to batter down the ancient gates of Winterfell.",
       "nextId": "north_united_ending"
+    },
+    {
+      "text": "Wyman Manderly's feast: Carve three massive pork pies for the Freys in the Great Hall.",
+      "nextId": "manderly_pie_reveal",
+      "bonusAchievementId": "ach_frey_pie_connoisseur"
+    },
+    {
+      "text": "The Ghost of Winterfell: Stalk the snowy battlements as Bolton men die one by one.",
+      "nextId": "ghost_of_winterfell",
+      "bonusAchievementId": "ach_ghost_unmasked"
+    },
+    {
+      "text": "Descend into the crypts: search for the hidden dragon eggs of Vermax beneath the tombs.",
+      "nextId": "crypts_of_winterfell_secrets",
+      "bonusAchievementId": "ach_harp_of_rhaegar"
     }
   ]
 }

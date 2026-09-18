@@ -18,6 +18,16 @@
     {
       "text": "Commune through the Weirwood roots with Bran Stark beyond the Wall.",
       "nextId": "find_bran"
+    },
+    {
+      "text": "Lord Wyman Manderly whispers: Send Davos Seaworth to Skagos to retrieve Rickon Stark.",
+      "nextId": "davos_skagos_cannibals",
+      "bonusAchievementId": "ach_skagos_unicorn_tamer"
+    },
+    {
+      "text": "Melisandre of Asshai: Gaze into the flames at Castle Black and whisper the words of R'hllor over Jon.",
+      "nextId": "melisandre_resurrection_ritual",
+      "bonusAchievementId": "ach_resurrection_flame"
     }
   ]
 }

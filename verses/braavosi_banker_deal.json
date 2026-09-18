@@ -1,0 +1,18 @@
+{
+  "id": "braavosi_banker_deal",
+  "title": "THE IRON BANK'S WRIT // GOLD IN THE BLIZZARD",
+  "pov": "Tycho Nestoris",
+  "narrative": "Tycho Nestoris adjusts his three-tiered purple beaver hat and dips a golden goose-quill into freeze-proof squid ink. 'The Iron Bank will have its due, Your Grace. The boy on the Iron Throne refuses our debt; therefore, you are the Iron Throne.' Stannis signs twenty promissory drafts binding the Seven Kingdoms to twenty million golden dragons. With this ink, twenty thousand seasoned sellswords and three hundred ships are purchased from Essos.",
+  "resolvesPlotHole": "The Iron Bank's Stannis Investment",
+  "bonusAchievementId": "ach_iron_bank_credit_limit",
+  "options": [
+    {
+      "text": "March the reinforced vanguard on Winterfell to crush the Boltons.",
+      "nextId": "winterfell_siege_assault"
+    },
+    {
+      "text": "Send word to the Golden Company to coordinate a two-front strike.",
+      "nextId": "faegon_blackfyre"
+    }
+  ]
+}

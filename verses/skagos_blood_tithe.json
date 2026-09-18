@@ -1,0 +1,18 @@
+{
+  "id": "skagos_blood_tithe",
+  "title": "THE STONE MEN OF SKAGOS // ANCIENT SACRIFICE",
+  "pov": "Davos Seaworth",
+  "narrative": "The Magnar of Skagos holds a carved obsidian sickle to Davos's throat: 'What does an onion lord have to trade for the blood of kings?' Davos reaches into his belt pouch and presents simple salt, parsnip seed, and honest iron nails. The cannibals laugh\u2014a good, clean belly laugh\u2014and pledge twenty galleys to the Onion Knight.",
+  "resolvesPlotHole": "Skagosi Loyalty Secured",
+  "bonusAchievementId": "ach_onion_diplomacy",
+  "options": [
+    {
+      "text": "Sail the Skagosi fleet straight into White Harbor with Rickon.",
+      "nextId": "rickon_stark_retrieved"
+    },
+    {
+      "text": "Transport Tycho Nestoris's mercenary gold to the Wall.",
+      "nextId": "braavosi_banker_deal"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": "ghost_of_winterfell",
+  "title": "THE GHOST OF WINTERFELL // THE CROUCHING HOOD",
+  "pov": "Theon Greyjoy",
+  "narrative": "Morning reveals another corpse frozen stiff in the snowbank by the burned library tower\u2014a Frey crossbowman with his throat opened cleanly from ear to ear. Fear spreads like frost through the Dreadfort garrison. Theon limps through the glass gardens, clutching his missing fingers, and finds a solitary hooded figure standing before the broken panes. The hood slips back: a face carved from Northern stone and old vengeance. 'A turncloak has no place in Winterfell, Reek,' the shadow whispers. 'Remember your name.'",
+  "resolvesPlotHole": "Identity of the Ghost of Winterfell",
+  "bonusAchievementId": "ach_ghost_unmasked",
+  "options": [
+    {
+      "text": "Help the spearwives smuggle Jeyne Poole to the battlements.",
+      "nextId": "spearwife_leap"
+    },
+    {
+      "text": "Follow Abel the Singer into the crypts beneath the castle.",
+      "nextId": "mance_bard_reveal"
+    }
+  ]
+}

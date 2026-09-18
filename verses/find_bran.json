@@ -13,6 +13,16 @@
     {
       "text": "Warg into the dragon Viserion through the Weirwood network.",
       "nextId": "viserion_warg_ending"
+    },
+    {
+      "text": "The Children of the Forest: Eat the bitter weirwood seed-paste to awaken greensight.",
+      "nextId": "bran_jojen_paste_mystery",
+      "bonusAchievementId": "ach_jojen_paste_sacrament"
+    },
+    {
+      "text": "Lord Bloodraven: Open your third eye to the thousand eyes and one trapped in the roots.",
+      "nextId": "bloodraven_dark_truth",
+      "bonusAchievementId": "ach_thousand_eyes_one_truth"
     }
   ]
 }

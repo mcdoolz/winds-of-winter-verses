@@ -1,0 +1,18 @@
+{
+  "id": "cersei_trial_by_combat",
+  "title": "THE GIANT IN STONE ARMOR // SER ROBERT STRONG",
+  "pov": "Cersei Lannister",
+  "narrative": "The High Sparrow gathers five hundred Warrior's Sons inside the courtyard of the Great Sept of Baelor. Cersei announces her champion. The courtyard falls into dead silence as Ser Robert Strong emerges. Standing eight feet tall in white enamel plate, he never eats, never sleeps, and never removes his great helm. When three Faith Militant champions charge, Strong shears the first man in half with a single casual horizontal sweep of his six-foot greatsword.",
+  "resolvesPlotHole": "Ser Robert Strong's Identity",
+  "bonusAchievementId": "ach_franken_mountain_rampage",
+  "options": [
+    {
+      "text": "A hooded gravedigger with a scarred face steps into the courtyard.",
+      "nextId": "mountain_hound_clash"
+    },
+    {
+      "text": "Order Qyburn to ignite the wildfire caches beneath the Faith's septs.",
+      "nextId": "high_sparrow_purged"
+    }
+  ]
+}

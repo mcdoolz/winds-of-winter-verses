@@ -1,0 +1,18 @@
+{
+  "id": "arya_mercy_theatre",
+  "title": "MERCY // NEEDLEWORK AT THE MUMMER'S TROUPE",
+  "pov": "Arya Stark",
+  "narrative": "Arya adjusts her blond wig and laced bodice backstage at the Gate. Raff the Sweetling, escorting Harys Swyft's Lannister diplomatic party, stumbles drunk into her dressing room. 'You're a pretty thing,' he slurs. Arya smiles sweetly, leads him into the dark alley behind the theatre, and slips Needle cleanly under his jawbone. 'I am not Mercy,' she whispers as his eyes turn glassy. 'I am Arya Stark of Winterfell, and the North remembers.'",
+  "resolvesPlotHole": "The Mercy TWOW Chapter",
+  "bonusAchievementId": "ach_mercy_needlework",
+  "options": [
+    {
+      "text": "Board the Titan's Daughter and set sail for the Riverlands.",
+      "nextId": "arya_sails_westeros"
+    },
+    {
+      "text": "Slip through the secret passages into Cersei's royal apartments.",
+      "nextId": "faceless_men_iron_throne"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": "barristan_battle_of_fire",
+  "title": "THE WHITE BULL'S CHARGE // BATTLE OF FIRE",
+  "pov": "Barristan Selmy",
+  "narrative": "The trumpet of Meereen sounds the charge. Ser Barristan Selmy rides forth in enameled silver armor upon a white charger, leading five thousand pit fighters and Unsullied through the copper gates. 'Here I am, dogs of Yunkai! Come kill an old knight if you can!' His spear shatters three slavemasters in three heartbeats as the trebuchets raining infected corpses are overturned into the dust.",
+  "resolvesPlotHole": "The Battle of Fire in TWOW",
+  "bonusAchievementId": "ach_bold_barristan_charge",
+  "options": [
+    {
+      "text": "Rendezvous with the newly arrived Iron Fleet in the bay.",
+      "nextId": "victarion_iron_fleet_arrives"
+    },
+    {
+      "text": "Coordinate with Tyrion Lannister inside the Second Sons camp.",
+      "nextId": "tyrion_cyvasse_turncoat"
+    }
+  ]
+}

@@ -18,6 +18,16 @@
     {
       "text": "Bypass the capital entirely and fly directly North to the Wall.",
       "nextId": "fly_north"
+    },
+    {
+      "text": "Victarion Greyjoy: Crash the Iron Fleet into Slaver's Bay with your smoking black arm.",
+      "nextId": "victarion_iron_fleet_arrives",
+      "bonusAchievementId": "ach_smoking_axe_rampage"
+    },
+    {
+      "text": "Ser Barristan Selmy: Lead the city garrison through the bronze gates to break the Yunkish lines.",
+      "nextId": "barristan_battle_of_fire",
+      "bonusAchievementId": "ach_bold_barristan_charge"
     }
   ]
 }

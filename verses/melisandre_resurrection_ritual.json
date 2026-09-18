@@ -1,0 +1,23 @@
+{
+  "id": "melisandre_resurrection_ritual",
+  "title": "BONES IN THE FLAME // JON SNOW RISES",
+  "pov": "Melisandre",
+  "narrative": "Melisandre washes the dried crimson from Jon Snow's thirteen stab wounds at Castle Black. In the fire brazier, she casts hair and drops of kingsblood. 'Lord of Light, cast your light upon us! Arise, Jon Snow!' Ghost leaps onto the funeral bier with a savage shriek. Jon's lungs gasp for icy air; his gray eyes snap open, burning with ancient Stark frost.",
+  "resolvesPlotHole": "Jon Snow's Resurrection in the Books",
+  "bonusAchievementId": "ach_resurrection_flame",
+  "options": [
+    {
+      "text": "Summon Howland Reed to verify Jon's true name and crown.",
+      "nextId": "howland_reed_appears"
+    },
+    {
+      "text": "Ride South to judge Theon Greyjoy and reclaim Winterfell.",
+      "nextId": "stannis_trial_theon"
+    },
+    {
+      "text": "Listen to the drowned visions of Patchface: 'Under the sea, the birds have scales for feathers...'",
+      "nextId": "patchface_prophecy_unlocked",
+      "bonusAchievementId": "ach_jester_of_the_abyss"
+    }
+  ]
+}

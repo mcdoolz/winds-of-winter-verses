@@ -1,0 +1,18 @@
+{
+  "id": "high_sparrow_purged",
+  "title": "FIRE AT BAELOR // THE GREEN PYRE",
+  "pov": "Cersei Lannister",
+  "narrative": "Cersei stands on the terrace of Maegor's Holdfast, holding a goblet of dark arbor wine. Across the city, the great glass dome of the Sept of Baelor lifts thirty feet into the air as a geyser of emerald wildfire detonates beneath the foundations. The High Sparrow, the Tyrell lords, and the smallfolk are incinerated in three seconds of blinding green fury. King's Landing is hers once more\u2014or what little is left of it.",
+  "resolvesPlotHole": "The Sept of Baelor Wildfire Explosion",
+  "bonusAchievementId": "ach_emerald_reckoning",
+  "options": [
+    {
+      "text": "Retreat into the vaults as the fire spreads uncontrollable across the city.",
+      "nextId": "wildfire_ending"
+    },
+    {
+      "text": "Barricade the Red Keep gates against the approaching dragon queen.",
+      "nextId": "cersei_standoff"
+    }
+  ]
+}

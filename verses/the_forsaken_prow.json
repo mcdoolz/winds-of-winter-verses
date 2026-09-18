@@ -1,0 +1,18 @@
+{
+  "id": "the_forsaken_prow",
+  "title": "THE FORSAKEN // BOUND TO THE PROW OF SILENCE",
+  "pov": "Aeron Damphair",
+  "narrative": "The stench of sour wine and stale bile fills the pitch-black hold of the Silence. Aeron Greyjoy hangs from iron shackles, starved and hallucinating as Euron glides into the cell, his smiling eye gleaming in torchlight. The Crow's Eye forces open Aeron's mouth and pours down a flagon of thick, oily blue shade of the evening. Visions of sea serpents, bleeding thrones, and tall black towers writhing with tentacles tear through the priest's sanity as Euron drags him toward the deck: 'I need holy blood to call the god of the deep, little brother.'",
+  "resolvesPlotHole": "The Forsaken TWOW Chapter",
+  "bonusAchievementId": "ach_forsaken_prophet",
+  "options": [
+    {
+      "text": "Watch Euron slaughter the priests to summon the eldritch kraken.",
+      "nextId": "euron_blood_kraken_summon"
+    },
+    {
+      "text": "Call upon the true Drowned God to shatter the iron fleet.",
+      "nextId": "aeron_drowned_god_awakens"
+    }
+  ]
+}

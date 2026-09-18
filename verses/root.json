@@ -25,6 +25,26 @@
       "text": "Jaime Lannister: Follow Brienne into the Riverlands to face Lady Stoneheart's noose.",
       "nextId": "stoneheart_jaime",
       "bonusAchievementId": "ach_stoneheart_trap"
+    },
+    {
+      "text": "Stannis Baratheon: Plant the false beacon on the frozen lake outside Winterfell to drown the Freys.",
+      "nextId": "night_lamp_lake",
+      "bonusAchievementId": "ach_night_lamp_mastermind"
+    },
+    {
+      "text": "Ser Barristan Selmy: Blow the silver warhorns and lead the cavalry sortie in the Battle of Fire.",
+      "nextId": "barristan_battle_of_fire",
+      "bonusAchievementId": "ach_bold_barristan_charge"
+    },
+    {
+      "text": "Sansa Stark: Dance with Harry the Heir at the Tourney of the Winged Knights in the Eyrie.",
+      "nextId": "sansa_tourney_winged_knights",
+      "bonusAchievementId": "ach_falcon_queen_awakens"
+    },
+    {
+      "text": "Princess Arianne Martell: Ride into the storm at Griffin's Roost to investigate Young Griff and the Golden Company.",
+      "nextId": "arianne_connington_parley",
+      "bonusAchievementId": "ach_dornish_dragon_suitor"
     }
   ]
 }

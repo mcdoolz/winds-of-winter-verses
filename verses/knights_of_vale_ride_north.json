@@ -1,0 +1,18 @@
+{
+  "id": "knights_of_vale_ride_north",
+  "title": "DOWN THE BLOODY GATE // LORDS OF THE MOUNTAIN",
+  "pov": "Sansa Stark",
+  "narrative": "Forty thousand silver lances gleam in the winter sun as the cavalry of the Vale pours through Moat Cailin. Sansa rides at the head of the vanguard beneath the quartered banners of Stark and Arryn. The Northern snows welcome them like long-lost brothers, sweeping through the Dreadfort rear guard like an avalanche.",
+  "resolvesPlotHole": "The Vale Knights Northern Relief",
+  "bonusAchievementId": "ach_knights_of_the_vale_charge",
+  "options": [
+    {
+      "text": "Assault the walls of Winterfell alongside Stannis Baratheon.",
+      "nextId": "winterfell_siege_assault"
+    },
+    {
+      "text": "CROWN the rightful heir in the Great Hall of Winterfell.",
+      "nextId": "north_united_ending"
+    }
+  ]
+}

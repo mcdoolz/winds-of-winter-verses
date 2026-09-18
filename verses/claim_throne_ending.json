@@ -17,6 +17,11 @@
     {
       "text": "Citadel Archival Query: Uncover Howland Reed's hidden truth.",
       "nextId": "howland_reed_appears"
+    },
+    {
+      "text": "The Meta Epilogue: George R.R. Martin ponders the final draft on his 1987 WordStar PC.",
+      "nextId": "grrm_wordstar_meta_epilogue",
+      "bonusAchievementId": "ach_the_infinite_backspace"
     }
   ]
 }

@@ -17,6 +17,11 @@
     {
       "text": "Descend alone to face Cersei in the courtyard, woman to woman.",
       "nextId": "wildfire_ending"
+    },
+    {
+      "text": "The Faith Militant demands trial: Ser Robert Strong steps forward into the Great Sept.",
+      "nextId": "cersei_trial_by_combat",
+      "bonusAchievementId": "ach_franken_mountain_rampage"
     }
   ]
 }

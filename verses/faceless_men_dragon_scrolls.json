@@ -1,0 +1,18 @@
+{
+  "id": "faceless_men_dragon_scrolls",
+  "title": "THE PRICE OF FACES // THE CONTRACT OF THE HOOF",
+  "pov": "Arya Stark",
+  "narrative": "In the subterranean sanctuary of the Many-Faced God, the Kindly Man leads Arya to the iron ledger. The Faceless Men were founded by slaves in the volcanic mines of the Fourteen Flames. Their first gift was to their masters\u2014the Doom of Valyria itself. The final entry in the book is signed in royal dragonblood: an iron bank bond to ensure dragons never rule the Seven Kingdoms again.",
+  "resolvesPlotHole": "The Faceless Men's Ultimate Mission",
+  "bonusAchievementId": "ach_doom_of_valyria_solved",
+  "options": [
+    {
+      "text": "Infiltrate the mummer troupe bound for King's Landing as Mercy.",
+      "nextId": "arya_mercy_theatre"
+    },
+    {
+      "text": "Steal a face from the wall and board the first galley to Westeros.",
+      "nextId": "arya_sails_westeros"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": "weirwood_blood_sacrifice",
+  "title": "THE ROOTS OF TIME // THE TREE SPEAKS",
+  "pov": "Bran Stark",
+  "narrative": "The great carved face on the ancient weirwood weeps thick crimson sap. Stannis draws Lightbringer, the blade shimmering with synthetic red luminescence. As the steel touches Theon's neck, the thousand red leaves begin to rustle in unnatural unison, though the wind has died. From deep within the hollow wood, a child's voice echoes across the frozen lake: 'Theon... Ned... remember who you are.' Stannis freezes mid-swing, the blade trembling in his grip.",
+  "resolvesPlotHole": "The Weirwood Time-Whisper",
+  "bonusAchievementId": "ach_tree_that_spoke",
+  "options": [
+    {
+      "text": "Slip deeper into the subterranean weirwood network with Bloodraven.",
+      "nextId": "bloodraven_dark_truth"
+    },
+    {
+      "text": "Search the greenseer timeline for the origin of the Others.",
+      "nextId": "long_night_secret_ending"
+    }
+  ]
+}

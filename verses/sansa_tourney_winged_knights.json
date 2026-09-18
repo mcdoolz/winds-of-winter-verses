@@ -1,0 +1,18 @@
+{
+  "id": "sansa_tourney_winged_knights",
+  "title": "THE BIRD UNCAGED // THE EYRIE'S TOURNEY",
+  "pov": "Sansa Stark",
+  "narrative": "At the Gates of the Moon, sixty-four knights of the Vale tilt for the eight silver wings of the Brotherhood of Winged Knights. Sansa pours wine for Harry the Heir while Littlefinger watches smugly from the dais, calculating dowries and deaths. But Sansa catches the eye of Bronze Yohn Royce. She whispers a secret that only Ned Stark's daughter could know, shattering Littlefinger's web of deceit in a single breath.",
+  "resolvesPlotHole": "Sansa's Vale Political Masterclass",
+  "bonusAchievementId": "ach_falcon_queen_awakens",
+  "options": [
+    {
+      "text": "Denounce Littlefinger before the Lords Declarant of the Vale.",
+      "nextId": "sansa_outplays_littlefinger"
+    },
+    {
+      "text": "Expose the poisoning of young Sweetrobin Arryn.",
+      "nextId": "sweetrobin_fate_revealed"
+    }
+  ]
+}

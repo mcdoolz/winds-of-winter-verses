@@ -1,0 +1,18 @@
+{
+  "id": "pate_jaqen_conspiracy",
+  "title": "THE THIEF OF KEYS // THE PIG BOY'S FACE",
+  "pov": "Samwell Tarly",
+  "narrative": "Sam corners Pate the novice in the candlelit scriptorium. Pate holds an ancient iron key with four teeth shaped like snakes. As Sam grabs his wrist, Pate's features ripple like oil on water: the soft freckles vanish, replaced by the hooked nose and gold tooth of the Alchemist. 'A man has debts to collect in Oldtown,' the Faceless assassin whispers in Braavosi accents before melting into the shadows of the stacks.",
+  "resolvesPlotHole": "Pate / Jaqen H'ghar in Oldtown",
+  "bonusAchievementId": "ach_alchemist_caught",
+  "options": [
+    {
+      "text": "Pursue the assassin into the restricted underground scriptoriums.",
+      "nextId": "citadel_forbidden_vaults"
+    },
+    {
+      "text": "Follow the trail to the House of Black and White's secret contracts.",
+      "nextId": "faceless_men_dragon_scrolls"
+    }
+  ]
+}

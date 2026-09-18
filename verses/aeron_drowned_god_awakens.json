@@ -1,0 +1,18 @@
+{
+  "id": "aeron_drowned_god_awakens",
+  "title": "WHAT IS DEAD MAY NEVER DIE // TSUNAMI OF THE DEEP",
+  "pov": "Aeron Damphair",
+  "narrative": "Aeron's prayer reaches the abyssal trenches. The sea answers not with krakens, but with pure gravitational fury. A seventy-foot rogue tidal wave erupts from the horizon, smashing directly into Euron's flagship. The Silence lists wildly, iron armor dragging reavers into the deep while Aeron washes ashore onto the shores of Oldtown, salt water pouring from his lungs, alive and reborn.",
+  "resolvesPlotHole": "The Damphair's Survival",
+  "bonusAchievementId": "ach_drowned_miracle",
+  "options": [
+    {
+      "text": "Infiltrate the subterranean vaults beneath the Citadel.",
+      "nextId": "sub_vault_ending"
+    },
+    {
+      "text": "Warn Archmaester Marwyn of the blood magic at sea.",
+      "nextId": "hightower_glass_candle"
+    }
+  ]
+}

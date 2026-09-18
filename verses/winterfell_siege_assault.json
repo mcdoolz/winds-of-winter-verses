@@ -1,0 +1,18 @@
+{
+  "id": "winterfell_siege_assault",
+  "title": "THE FLAYED MAN FALLS // GATES OF WINTERFELL",
+  "pov": "Stannis Baratheon",
+  "narrative": "The combined hosts of Stannis, Wyman Manderly, and the hill clans crash against the outer walls of Winterfell. Ramsay Bolton rushes out with three hundred dreadfort horsemen, only to find Manderly knights closing from the flanks. The great gate of Winterfell splinters under a battering ram forged from ironwood pines. Ramsay's flayed banners are torn from the battlements and cast into the snow, replaced by the blazing heart of Baratheon.",
+  "resolvesPlotHole": "The Liberation of Winterfell",
+  "bonusAchievementId": "ach_flayed_man_flayed",
+  "options": [
+    {
+      "text": "Descend into the ancient subterranean crypts to uncover the Stark legacy.",
+      "nextId": "crypts_of_winterfell_secrets"
+    },
+    {
+      "text": "Send ravens to Castle Black declaring the North reunited.",
+      "nextId": "king_north_ending"
+    }
+  ]
+}

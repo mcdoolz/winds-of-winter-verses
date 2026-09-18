@@ -1,0 +1,18 @@
+{
+  "id": "darkstar_sword_dawn",
+  "title": "OF THE NIGHT // GEROLD DAYNE CORNERED",
+  "pov": "Areo Hotah",
+  "narrative": "High in the Red Mountains, Areo Hotah and Balon Swann corner Gerold Dayne at High Hermitage. 'Men call me Darkstar,' Dayne sneers, unsheathing a blade of pale milky stone that captures the starlight. Dawn hums in his hand, sharp enough to slice through armor like silk. 'And I am of the night!'",
+  "resolvesPlotHole": "The Hunt for Darkstar in TWOW",
+  "bonusAchievementId": "ach_darkstar_confronted",
+  "options": [
+    {
+      "text": "Claim Dawn as the true ancestral blade of the First Men.",
+      "nextId": "dawn_sword_of_morning"
+    },
+    {
+      "text": "Return the sword to the Water Gardens for Doran's secret masterplan.",
+      "nextId": "doran_blood_orange_pact"
+    }
+  ]
+}

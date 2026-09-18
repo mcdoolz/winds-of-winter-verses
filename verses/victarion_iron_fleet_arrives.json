@@ -1,0 +1,18 @@
+{
+  "id": "victarion_iron_fleet_arrives",
+  "title": "THE SMOKING ARM // BLOOD ON SLAVER'S BAY",
+  "pov": "Victarion Greyjoy",
+  "narrative": "Victarion stands at the prow of the Iron Victory, his right arm blackened and smoking from Moqorro's blood magic. 'The dragon has arrived!' he bellows. The Ironborn longships ram the Ghiscari galleys at full speed, boarding ladders smashing down. Victarion leaps into the fray, his broadaxe cleaving three slaver captains before their boots touch the deck.",
+  "resolvesPlotHole": "Victarion's Battle of Meereen Arrival",
+  "bonusAchievementId": "ach_smoking_axe_rampage",
+  "options": [
+    {
+      "text": "Blow the Dragonbinder horn to steal Rhaegal from the sky.",
+      "nextId": "dragonbinder_horn_sounded"
+    },
+    {
+      "text": "Parley with Ser Barristan Selmy beneath the walls of Meereen.",
+      "nextId": "barristan_victarion_parley"
+    }
+  ]
+}

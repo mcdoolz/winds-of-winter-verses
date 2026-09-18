@@ -1,0 +1,18 @@
+{
+  "id": "mance_bard_reveal",
+  "title": "THE SINGER OF DORNISH WIVES // ABEL UNMASKED",
+  "pov": "Mance Rayder",
+  "narrative": "Abel plucks his twelve-string lute by the roaring hearth, singing The Dornishman's Wife while Roose Bolton's cold eyes dissect the room. Beneath his shirt of boiled leather, the glamour ruby burns against Mance's collarbone. Between verses, he slips a parchment map of the crypts to his spearwives: 'The lower vaults are older than the Wall. If Bran Stark's brother left a sword down there, we will find it before the bastards know we're gone.'",
+  "resolvesPlotHole": "Mance Rayder's Winterfell Infiltration",
+  "bonusAchievementId": "ach_king_beyond_the_lute",
+  "options": [
+    {
+      "text": "Pry open the stone ironwood doors of the ancient lower crypts.",
+      "nextId": "crypts_of_winterfell_secrets"
+    },
+    {
+      "text": "Join the spearwives to execute the planned diversion in the stables.",
+      "nextId": "ghost_of_winterfell"
+    }
+  ]
+}

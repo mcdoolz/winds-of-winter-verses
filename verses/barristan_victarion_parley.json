@@ -1,0 +1,18 @@
+{
+  "id": "barristan_victarion_parley",
+  "title": "AN OLD KNIGHT AND AN IRON REAVER",
+  "pov": "Barristan Selmy",
+  "narrative": "Barristan and Victarion meet on the bloody sand outside the Great Pyramid. Victarion boasts he has come to wed the dragon queen. Barristan's hand rests cold on the pommel of his longsword: 'Daenerys Stormborn takes no pirate for a husband. But if you have ships to carry her army home to Westeros, she might spare your fleet.'",
+  "resolvesPlotHole": "Barristan and Victarion Meeting",
+  "bonusAchievementId": "ach_queen_guard_vs_ironborn",
+  "options": [
+    {
+      "text": "Load the Unsullied and Dothraki onto the Iron Fleet and sail for Westeros.",
+      "nextId": "meereenese_knot_untied"
+    },
+    {
+      "text": "Sign the contract drafted by Tyrion Lannister.",
+      "nextId": "tyrion_cyvasse_turncoat"
+    }
+  ]
+}

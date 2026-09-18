@@ -1,0 +1,18 @@
+{
+  "id": "dragonbinder_horn_sounded",
+  "title": "THE BINDING OF RHAEGAL // FIRE AND SEED",
+  "pov": "Victarion Greyjoy",
+  "narrative": "Three thralls blow the colossal horn of ancient Valyria. The glyphs along the horn glow white-hot, setting the thralls' lungs on fire as smoke bursts from their ears. Across the bay, Rhaegal circles in confusion, his green scales flashing in the morning sun, before descending toward the Iron Victory with an obedient roar.",
+  "resolvesPlotHole": "Dragonbinder Horn Bound a Dragon",
+  "bonusAchievementId": "ach_horn_blew_dragon_bent",
+  "options": [
+    {
+      "text": "Mount Rhaegal and cut the Meereenese Knot toward Westeros.",
+      "nextId": "meereenese_knot_untied"
+    },
+    {
+      "text": "Raid the Arbor and Oldtown with the newly captured dragon.",
+      "nextId": "kraken_arbor_ending"
+    }
+  ]
+}

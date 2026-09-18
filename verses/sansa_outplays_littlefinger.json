@@ -1,0 +1,18 @@
+{
+  "id": "sansa_outplays_littlefinger",
+  "title": "CHAOS IS NOT A LADDER // THE VALE DECLARES",
+  "pov": "Sansa Stark",
+  "narrative": "Sansa casts aside her dyed hair and stepped out in a cloak of grey wool trimmed with white ermine. 'My name is Sansa Stark of House Stark, Lady of Winterfell! Petyr Baelish murdered Lysa Arryn and sold our realm into war!' Bronze Yohn Royce draws his bronze-runed broadsword and salutes: 'The Vale answers the call of Ned Stark's blood!'",
+  "resolvesPlotHole": "Littlefinger's Fall in the Vale",
+  "bonusAchievementId": "ach_chaos_ladder_toppled",
+  "options": [
+    {
+      "text": "Lead the forty thousand knights of the Vale north to save Winterfell.",
+      "nextId": "knights_of_vale_ride_north"
+    },
+    {
+      "text": "Muster the Riverlords alongside the Blackfish.",
+      "nextId": "northern_muster_ending"
+    }
+  ]
+}

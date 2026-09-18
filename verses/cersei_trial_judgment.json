@@ -1,0 +1,18 @@
+{
+  "id": "cersei_trial_judgment",
+  "title": "THE VALONQAR // HANDS OF GOLD",
+  "pov": "Jaime Lannister",
+  "narrative": "Jaime Lannister walks through the smoking throne room, his golden hand glinting in the dying light. Cersei runs to him, crying with relief: 'You've come back to save me, Jaime!' But Jaime looks upon the green stains of wildfire on her skirts and sees King Aerys all over again. He steps forward, casts down his sword, and wraps his cold golden fingers and his living flesh hand around her throat until her breathing ceases.",
+  "resolvesPlotHole": "The Valonqar Prophecy Fulfilled",
+  "bonusAchievementId": "ach_valonqar_closure",
+  "options": [
+    {
+      "text": "Surrender the Iron Throne to Daenerys Targaryen.",
+      "nextId": "claim_throne_ending"
+    },
+    {
+      "text": "Melt down the swords of the conqueror with dragonfire.",
+      "nextId": "melt_throne_ending"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": "sweetrobin_fate_revealed",
+  "title": "THE FALCON SOARS // SWEETROBIN'S SEED",
+  "pov": "Sansa Stark",
+  "narrative": "Young Robert Arryn slaps the vial of sweetsleep from Maester Colemon's hand. 'No more sleep!' the sickly boy shouts, his cheeks flushed with stubborn defiance. 'Alayne says I am the Lord of the Eyrie, and bad men want me to fly! Put Petyr Baelish in the sky cells!' The guards obey their rightful lord without hesitation.",
+  "resolvesPlotHole": "Sweetrobin Survived the Sweetsleep",
+  "bonusAchievementId": "ach_sweetrobin_flies",
+  "options": [
+    {
+      "text": "Ride down the Bloody Gate with the combined host of the Vale.",
+      "nextId": "knights_of_vale_ride_north"
+    },
+    {
+      "text": "Declare the sovereign independence of the Mountain and Vale.",
+      "nextId": "north_united_ending"
+    }
+  ]
+}

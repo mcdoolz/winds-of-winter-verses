@@ -1,0 +1,18 @@
+{
+  "id": "faceless_men_iron_throne",
+  "title": "A COIN OF IRON // INFILTRATING KING'S LANDING",
+  "pov": "Arya Stark",
+  "narrative": "Arya wears the wrinkled face of an old turnspit kitchen maid in Maegor's Holdfast. She navigates the crawlspaces behind the tapestries, listening to Cersei's frantic whispers to Qyburn. In the shadows behind the Iron Throne, she sharpens her Valyrian dagger, checking off the names on her nightly list one by one.",
+  "resolvesPlotHole": "Arya's Vengeance List",
+  "bonusAchievementId": "ach_shadow_assassin_red_keep",
+  "options": [
+    {
+      "text": "Watch Cersei's trial by combat explode in the Great Sept.",
+      "nextId": "cersei_trial_by_combat"
+    },
+    {
+      "text": "Set fire to the Red Keep's hidden wildfire passages.",
+      "nextId": "kings_landing_burns"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": "davos_skagos_cannibals",
+  "title": "THE CANNIBAL ISLE // SKAGOSIAN UNICORNS",
+  "pov": "Davos Seaworth",
+  "narrative": "Davos lands his skiff upon the volcanic beaches of Skagos under a sky of bruised purple clouds. In the high mountain crags, wild men ride shaggy four-legged beasts with great spiraling horns like ivory spears. In a deep obsidian cavern, a wild eight-year-old boy with unkempt black hair gnaws on smoked goat meat beside a monstrous black direwolf whose eyes burn like green wildfire.",
+  "resolvesPlotHole": "Davos on Skagos / Rickon Stark",
+  "bonusAchievementId": "ach_skagos_unicorn_tamer",
+  "options": [
+    {
+      "text": "Bring Rickon Stark and Shaggydog back to White Harbor.",
+      "nextId": "rickon_stark_retrieved"
+    },
+    {
+      "text": "Bargain with the Magnar of Skagos for an alliance of stone men.",
+      "nextId": "skagos_blood_tithe"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": "tyrion_cyvasse_turncoat",
+  "title": "INK AND BLOOD // THE SECOND SONS FLIPPED",
+  "pov": "Tyrion Lannister",
+  "narrative": "Tyrion rolls a three on his ivory dice, capturing Brown Ben Plumm's jade dragon on the cyvasse board. 'I told you, Ben. A dragon in the center board always controls the diagonals.' Tyrion unrolls a roll of parchment signed in blood and gold: sixty thousand gold dragons from Casterly Rock. Brown Ben grins: 'Boys, turn the trebuchets around. We're with the Dragon Queen now.'",
+  "resolvesPlotHole": "Tyrion Flips the Second Sons in TWOW",
+  "bonusAchievementId": "ach_cyvasse_grandmaster",
+  "options": [
+    {
+      "text": "Slip into the dragonpit with custom saddles designed for Viserion.",
+      "nextId": "tyrion_dragon_tamer"
+    },
+    {
+      "text": "Unite the sellswords and burn the blockade of Slaver's Bay.",
+      "nextId": "meereenese_knot_untied"
+    }
+  ]
+}

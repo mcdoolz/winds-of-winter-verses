@@ -1,0 +1,18 @@
+{
+  "id": "spearwife_leap",
+  "title": "THE TOWER LEAP // EIGHTY FEET OF SNOW",
+  "pov": "Theon Greyjoy",
+  "narrative": "Hounds howl in the kennel yards behind them. Ramsey's dreadfort flayers pound on the heavy oak tower doors. The spearwife Frenya turns to face them with a battleaxe while Holly and Rowan shove Theon toward the crenel. 'Jump!' they roar. 'Jump, turncloak, or Ramsay skins you into boots!' Theon grabs the shivering girl Jeyne Poole by the waist and hurls them both into the screaming blizzard. Eighty feet of terrifying freefall ends in a suffocating explosion of powder snowbank. Dazed, bruised, but alive, Theon drags the crying girl toward the pines.",
+  "resolvesPlotHole": "The Escape from Winterfell",
+  "bonusAchievementId": "ach_snowdrift_paratrooper",
+  "options": [
+    {
+      "text": "Crawl toward the crofter's village where Stannis's beacon burns.",
+      "nextId": "night_lamp_lake"
+    },
+    {
+      "text": "Surrender to the Northern mountain clan scouts patrolling the treeline.",
+      "nextId": "stannis_trial_theon"
+    }
+  ]
+}

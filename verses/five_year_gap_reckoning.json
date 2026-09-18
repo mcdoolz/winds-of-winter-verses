@@ -13,6 +13,16 @@
     {
       "text": "Send Arya through the shadow of the weirwoods to end the war.",
       "nextId": "arya_sent_ending"
+    },
+    {
+      "text": "Arya in Braavos: Don the face of Mercy the mummer actress before Raff the Sweetling.",
+      "nextId": "arya_mercy_theatre",
+      "bonusAchievementId": "ach_mercy_needlework"
+    },
+    {
+      "text": "George R.R. Martin hits backspace for 22 seconds on DOS WordStar 4.0.",
+      "nextId": "grrm_wordstar_meta_epilogue",
+      "bonusAchievementId": "ach_the_infinite_backspace"
     }
   ]
 }

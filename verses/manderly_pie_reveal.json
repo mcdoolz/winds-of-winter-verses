@@ -1,0 +1,18 @@
+{
+  "id": "manderly_pie_reveal",
+  "title": "THE NORTH REMEMBERS // THREE PUDGY CRUSTS",
+  "pov": "Wyman Manderly",
+  "narrative": "Lord Wyman Manderly sits wedged into two oak armchairs in the Great Hall of Winterfell, chin greased with mutton fat and dark brown gravy. Three colossal meat pies are borne into the hall on silver platters, steam curling rich with pepper and suet. Roose Bolton and the Frey cousins eat hungrily, praising the rich filling. Wyman smiles a broad, doughy smile and calls for the singer to play the Rat King. 'The best pie you have ever tasted, Lord Bolton,' Wyman chuckles into his tankard. 'Three hearty cousins went into the baking, and not a scrap was wasted.'",
+  "resolvesPlotHole": "The Manderly Frey Pie Conspiracy",
+  "bonusAchievementId": "ach_frey_pie_connoisseur",
+  "options": [
+    {
+      "text": "Give the signal to the White Harbor knights to slit the throat of Hosteen Frey.",
+      "nextId": "winterfell_siege_assault"
+    },
+    {
+      "text": "Slip into the snow-covered courtyard to find the mysterious cloaked killer.",
+      "nextId": "ghost_of_winterfell"
+    }
+  ]
+}

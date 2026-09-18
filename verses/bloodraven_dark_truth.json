@@ -1,0 +1,18 @@
+{
+  "id": "bloodraven_dark_truth",
+  "title": "THE THOUSAND EYES AND ONE // BRYNDEN RIVERS",
+  "pov": "Bran Stark",
+  "narrative": "The three-eyed crow, Brynden Rivers, sits embedded in the weirwood throne, roots coiling through his skeletal body. 'You think the Others are demons, boy? They are the First Men's broken weapon, forged by the children to halt our ancestors' axes. Now the seasons are broken, and only a greenseer can mend the wheel of time.'",
+  "resolvesPlotHole": "Bloodraven's Ultimate Plan",
+  "bonusAchievementId": "ach_thousand_eyes_one_truth",
+  "options": [
+    {
+      "text": "Seal the ancient Weirwood Pact to end the Long Night without bloodshed.",
+      "nextId": "long_night_secret_ending"
+    },
+    {
+      "text": "Warg Viserion to watch over Westeros as an immortal dragon-seer.",
+      "nextId": "viserion_warg_ending"
+    }
+  ]
+}

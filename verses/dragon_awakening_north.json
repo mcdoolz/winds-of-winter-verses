@@ -1,0 +1,18 @@
+{
+  "id": "dragon_awakening_north",
+  "title": "THE VERDANT FLAME // HATCHING IN THE SNOW",
+  "pov": "Jon Snow",
+  "narrative": "The sulfurous water in the hot springs boils violently. Steam pours from every crack in Winterfell's stone walls. With a sound like thunder, the stone egg fractures along lines of jade and emerald. A winged serpent of smoke and iridescent scales crawls into the torchlight, snapping its jaws of tiny needle teeth. Jon reaches his burned hand forward\u2014and the hatchling nuzzles his palm without singing the skin.",
+  "resolvesPlotHole": "The Dragon of Winterfell",
+  "bonusAchievementId": "ach_winter_dragon_born",
+  "options": [
+    {
+      "text": "Ride South alongside Daenerys and Jaime to break the Long Night.",
+      "nextId": "united_stand_ending"
+    },
+    {
+      "text": "Fly North to the Wall to face the Night King in single combat.",
+      "nextId": "duel_night_king_ending"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": "bran_jojen_paste_mystery",
+  "title": "THE WEIRWOOD PASTE // RED SEED SACRAMENT",
+  "pov": "Bran Stark",
+  "narrative": "In the deep cavern beneath the roots, Leaf hands Bran a carved weirwood bowl filled with white paste streaked with veins of dark red. 'Eat this, Bran,' the child of the forest says softly. Jojen Reed is nowhere to be seen in the cave. The taste is bitter at first, then sweet as blood and copper. As Bran swallows, his consciousness rips through the weirwood root network, connecting every tree from the Wall to the Isle of Faces.",
+  "resolvesPlotHole": "The Jojen Paste Theory Confirmed",
+  "bonusAchievementId": "ach_jojen_paste_sacrament",
+  "options": [
+    {
+      "text": "Confront Bloodraven about his thousand eyes and secret motives.",
+      "nextId": "bloodraven_dark_truth"
+    },
+    {
+      "text": "Warg through time to witness the tragedy of Hodor.",
+      "nextId": "hold_the_door_revelation"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": "mountain_hound_clash",
+  "title": "CLEGANEBOWL // THE GRAVEDIGGER RISES",
+  "pov": "Sandor Clegane",
+  "narrative": "The giant novice from the Quiet Isle drops his woolen cowl. Sandor Clegane looks upon the undead abomination that wears his brother's armor. 'You always were a dead bastard, Gregor,' Sandor growls, swinging a heavy ironwood shovel into the monster's helm. Steel shatters stone; the helm falls off, revealing Qyburn's dark necromantic graft beneath. The Hound laughs and drives his torch into the chest of his brother, conquering the fire that haunted his entire life.",
+  "resolvesPlotHole": "Cleganebowl Confirmed",
+  "bonusAchievementId": "ach_cleganebowl_champion",
+  "options": [
+    {
+      "text": "Enter the throne room to deliver judgment upon Cersei.",
+      "nextId": "cersei_trial_judgment"
+    },
+    {
+      "text": "Purge the corrupt Faith Militant and flee the capital.",
+      "nextId": "high_sparrow_purged"
+    }
+  ]
+}

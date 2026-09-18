@@ -17,6 +17,21 @@
     {
       "text": "Sail directly up the Mander to sack Highgarden and claim the Reach.",
       "nextId": "kraken_arbor_ending"
+    },
+    {
+      "text": "Aeron Damphair: Lash the holy priests to the prows of the Silence for the blood tithe.",
+      "nextId": "the_forsaken_prow",
+      "bonusAchievementId": "ach_forsaken_prophet"
+    },
+    {
+      "text": "Ascend the Hightower: Lord Leyton and the Mad Maid light the obsidian glass candles.",
+      "nextId": "hightower_glass_candle",
+      "bonusAchievementId": "ach_candle_ignited"
+    },
+    {
+      "text": "The Citadel Thieves: Pate delivers the stolen Archmaester master key to the Alchemist.",
+      "nextId": "pate_jaqen_conspiracy",
+      "bonusAchievementId": "ach_alchemist_caught"
     }
   ]
 }

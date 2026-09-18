@@ -1,0 +1,18 @@
+{
+  "id": "arianne_aegon_marriage",
+  "title": "THE SPEAR AND THE DRAGON // DORNISH ALLIANCE",
+  "pov": "Arianne Martell",
+  "narrative": "Arianne kisses Young Griff beneath the three-headed dragon banner. With fifty thousand Dornish spears, ten thousand Golden Company veterans, and the lords of the Stormlands joining their host, Aegon VI marches up the Kingsroad toward King's Landing. The Lannister regency trembles as the South rises in open revolt.",
+  "resolvesPlotHole": "The Dornish Blackfyre Alliance",
+  "bonusAchievementId": "ach_queen_of_the_south",
+  "options": [
+    {
+      "text": "Besiege King's Landing before Daenerys arrives.",
+      "nextId": "cersei_standoff"
+    },
+    {
+      "text": "Ignite the wildfire stores beneath the Red Keep.",
+      "nextId": "kings_landing_burns"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": "dawn_sword_of_morning",
+  "title": "THE SWORD OF THE MORNING // LIGHTBRINGER'S SISTER",
+  "pov": "Areo Hotah",
+  "narrative": "The blade forged from the heart of a fallen star does not burn with red flame\u2014it blazes with clean, cold white starlight. Legend says the Sword of the Morning was wielded in the original Battle for the Dawn ten thousand years ago. In the hands of a worthy warrior, it slices through the ice armor of the Others like sunlight melting frost.",
+  "resolvesPlotHole": "The Significance of Sword Dawn",
+  "bonusAchievementId": "ach_sword_of_morning_claimed",
+  "options": [
+    {
+      "text": "Carry Dawn north to Castle Black to stand against the Others.",
+      "nextId": "united_stand_ending"
+    },
+    {
+      "text": "Face the Night King in single combat at the Trident.",
+      "nextId": "duel_night_king_ending"
+    }
+  ]
+}

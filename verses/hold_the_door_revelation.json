@@ -1,0 +1,18 @@
+{
+  "id": "hold_the_door_revelation",
+  "title": "HOLD THE DOOR // SHATTERED TEMPORALITY",
+  "pov": "Bran Stark",
+  "narrative": "Wights claw through the roots into the cavern. Bran's mind stretches across forty years, warging the stableboy Wylis in the Winterfell courtyard while commanding Hodor to hold the heavy subterranean ironwood door. The psychic echo shatters Wylis's mind into a single desperate command: 'Hold the door! Hold the door! Hodor...'",
+  "resolvesPlotHole": "The Origin of Hodor's Name",
+  "bonusAchievementId": "ach_door_held_forever",
+  "options": [
+    {
+      "text": "Make the final stand against the Night King at the Wall.",
+      "nextId": "united_stand_ending"
+    },
+    {
+      "text": "Discover the ancient secret of the Long Night.",
+      "nextId": "long_night_secret_ending"
+    }
+  ]
+}

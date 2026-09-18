@@ -13,6 +13,11 @@
     {
       "text": "Ride North to Castle Black to fulfill Jaime's oath to protect the realms of men.",
       "nextId": "united_stand_ending"
+    },
+    {
+      "text": "Ser Brynden 'Blackfish' Tully swims under the Water Gate to rally the Riverlands resistance.",
+      "nextId": "blackfish_riverrun_rally",
+      "bonusAchievementId": "ach_blackfish_swims_free"
     }
   ]
 }

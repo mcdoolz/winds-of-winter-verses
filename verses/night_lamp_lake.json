@@ -1,0 +1,22 @@
+{
+  "id": "night_lamp_lake",
+  "title": "THE NIGHT LAMP // THE FROZEN LAKE",
+  "pov": "Stannis Baratheon",
+  "narrative": "The blizzard screams across the crofter's village. Upon the tiny islet between the two frozen lakes, Stannis orders the false beacon lit high in the watchtower. Below, disguised beneath a dusting of fresh powder, the fishermen's holes perforate the ice like swiss cheese. When Hosteen Frey's heavy barded warhorses charge the glowing beacon with banners raised, the lake gives a sickening groan. Three thousand knights and spearmen crash through the shattered crust into the black sub-zero depths, swallowed by the freezing water while Stannis watches without blinking, his teeth grinding like millstones.",
+  "resolvesPlotHole": "The Battle of Ice / Night Lamp Theory",
+  "bonusAchievementId": "ach_night_lamp_mastermind",
+  "options": [
+    {
+      "text": "March the victorious army toward the snow-choked walls of Winterfell.",
+      "nextId": "winterfell_siege_assault"
+    },
+    {
+      "text": "Send riders to rendezvous with Wyman Manderly's advancing vanguard.",
+      "nextId": "manderly_pie_reveal"
+    },
+    {
+      "text": "Summon the Braavosi banker Tycho Nestoris to seal the war loan.",
+      "nextId": "braavosi_banker_deal"
+    }
+  ]
+}
