@@ -5,5 +5,18 @@
   "narrative": "Ramsay Bolton's hounds feast upon their master in the kennels of Winterfell. In the great hall, the Northern lords draw their steel and beat the stone tables until the timbers shake. 'The King in the North! The White Wolf!' they roar. Jon Snow accepts the bronze crown of Winter, uniting Free Folk and Northmen under an eternal pact.",
   "resolvesPlotHole": null,
   "bonusAchievementId": null,
-  "options": []
+  "options": [
+    {
+      "text": "Continue the Draft: Turn the page to A Dream of Spring prologue...",
+      "nextId": "root"
+    },
+    {
+      "text": "Explore an Alternate POV: Ride into the Riverlands to confront Lady Stoneheart.",
+      "nextId": "stoneheart_jaime"
+    },
+    {
+      "text": "Citadel Archival Query: Uncover Howland Reed's hidden truth.",
+      "nextId": "howland_reed_appears"
+    }
+  ]
 }

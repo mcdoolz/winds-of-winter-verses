@@ -5,5 +5,18 @@
   "narrative": "A shadow with no face slips past the Goldcloaks into the royal bedchamber. A flash of Valyrian steel in the dark, a whisper of a girl from Winterfell, and the last name on the list is crossed off in blood. When dawn breaks over the Red Keep, the queen is dead and Arya is already sailing west of Westeros, into the unknown sea.",
   "resolvesPlotHole": null,
   "bonusAchievementId": null,
-  "options": []
+  "options": [
+    {
+      "text": "Continue the Draft: Turn the page to A Dream of Spring prologue...",
+      "nextId": "root"
+    },
+    {
+      "text": "Explore an Alternate POV: Ride into the Riverlands to confront Lady Stoneheart.",
+      "nextId": "stoneheart_jaime"
+    },
+    {
+      "text": "Citadel Archival Query: Uncover Howland Reed's hidden truth.",
+      "nextId": "howland_reed_appears"
+    }
+  ]
 }

@@ -5,5 +5,18 @@
   "narrative": "Winterfell's gates are shattered and restored. The direwolf banner flies from every battlement from the Neck to the Wall. With the South in ashes, the North proclaims sovereign independence, closing Moat Cailin forever to the squabbling lords of the Iron Throne.",
   "resolvesPlotHole": null,
   "bonusAchievementId": null,
-  "options": []
+  "options": [
+    {
+      "text": "Continue the Draft: Turn the page to A Dream of Spring prologue...",
+      "nextId": "root"
+    },
+    {
+      "text": "Explore an Alternate POV: Ride into the Riverlands to confront Lady Stoneheart.",
+      "nextId": "stoneheart_jaime"
+    },
+    {
+      "text": "Citadel Archival Query: Uncover Howland Reed's hidden truth.",
+      "nextId": "howland_reed_appears"
+    }
+  ]
 }

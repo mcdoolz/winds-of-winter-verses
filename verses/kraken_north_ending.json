@@ -5,5 +5,18 @@
   "narrative": "The leviathans summoned from the abyss swim north, shattering the ice sheets of the Shivering Sea. Coastlines flood and kingdoms drown as the ocean claims what was always its own. What is dead may never die, but rises again with harder, colder fury.",
   "resolvesPlotHole": null,
   "bonusAchievementId": null,
-  "options": []
+  "options": [
+    {
+      "text": "Continue the Draft: Turn the page to A Dream of Spring prologue...",
+      "nextId": "root"
+    },
+    {
+      "text": "Explore an Alternate POV: Ride into the Riverlands to confront Lady Stoneheart.",
+      "nextId": "stoneheart_jaime"
+    },
+    {
+      "text": "Citadel Archival Query: Uncover Howland Reed's hidden truth.",
+      "nextId": "howland_reed_appears"
+    }
+  ]
 }

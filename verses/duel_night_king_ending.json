@@ -5,5 +5,18 @@
   "narrative": "In the eye of the blizzard, Jon Snow meets the King of the Others blade to blade. Valyrian steel rings against ancient frost with a resonance that shakes the mountains. With a final dying surge of Stark and Targaryen will, Longclaw finds its mark. The ice shatters. The army of the dead collapses into silent mounds of bone. Dawn breaks over the realm.",
   "resolvesPlotHole": null,
   "bonusAchievementId": null,
-  "options": []
+  "options": [
+    {
+      "text": "Continue the Draft: Turn the page to A Dream of Spring prologue...",
+      "nextId": "root"
+    },
+    {
+      "text": "Explore an Alternate POV: Ride into the Riverlands to confront Lady Stoneheart.",
+      "nextId": "stoneheart_jaime"
+    },
+    {
+      "text": "Citadel Archival Query: Uncover Howland Reed's hidden truth.",
+      "nextId": "howland_reed_appears"
+    }
+  ]
 }

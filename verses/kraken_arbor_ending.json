@@ -5,5 +5,18 @@
   "narrative": "The Iron Fleet sweeps through the Arbor and the Reach like a scythe through wheat. The ancient vineyards are razed, and Oldtown's Hightower burns as a signal fire for the new iron empire. Euron Greyjoy crowns himself with driftwood and drowned gold.",
   "resolvesPlotHole": null,
   "bonusAchievementId": null,
-  "options": []
+  "options": [
+    {
+      "text": "Continue the Draft: Turn the page to A Dream of Spring prologue...",
+      "nextId": "root"
+    },
+    {
+      "text": "Explore an Alternate POV: Ride into the Riverlands to confront Lady Stoneheart.",
+      "nextId": "stoneheart_jaime"
+    },
+    {
+      "text": "Citadel Archival Query: Uncover Howland Reed's hidden truth.",
+      "nextId": "howland_reed_appears"
+    }
+  ]
 }

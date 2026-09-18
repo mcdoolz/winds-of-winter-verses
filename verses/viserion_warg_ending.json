@@ -5,5 +5,18 @@
   "narrative": "Bran slips his consciousness beneath the golden-cream scales of Viserion. Dragon and greenseer merge into an all-seeing immortal guardian circling the clouds above Westeros. Kings and queens will rise and fall, but the dragon-seer watches over the realm forever from the sky.",
   "resolvesPlotHole": null,
   "bonusAchievementId": null,
-  "options": []
+  "options": [
+    {
+      "text": "Continue the Draft: Turn the page to A Dream of Spring prologue...",
+      "nextId": "root"
+    },
+    {
+      "text": "Explore an Alternate POV: Ride into the Riverlands to confront Lady Stoneheart.",
+      "nextId": "stoneheart_jaime"
+    },
+    {
+      "text": "Citadel Archival Query: Uncover Howland Reed's hidden truth.",
+      "nextId": "howland_reed_appears"
+    }
+  ]
 }

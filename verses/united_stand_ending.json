@@ -5,5 +5,18 @@
   "narrative": "At the Trident, where Rhaegar fell, the living make their stand. Dragonfire and dragonglass clash against the endless cold. Alongside Daenerys and Jaime Lannister, Jon drives his blade into the heart of winter. The Others shatter into crystalline mist. The Long Night is broken, and a Dream of Spring blooms across the blood-soaked snow.",
   "resolvesPlotHole": null,
   "bonusAchievementId": null,
-  "options": []
+  "options": [
+    {
+      "text": "Continue the Draft: Turn the page to A Dream of Spring prologue...",
+      "nextId": "root"
+    },
+    {
+      "text": "Explore an Alternate POV: Ride into the Riverlands to confront Lady Stoneheart.",
+      "nextId": "stoneheart_jaime"
+    },
+    {
+      "text": "Citadel Archival Query: Uncover Howland Reed's hidden truth.",
+      "nextId": "howland_reed_appears"
+    }
+  ]
 }

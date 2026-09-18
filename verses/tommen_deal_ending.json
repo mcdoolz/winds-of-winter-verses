@@ -5,5 +5,18 @@
   "narrative": "Cersei boards a swift galley bound for Pentos, Tommen clutched tightly to her chest. She watches King's Landing dwindle into the mist, her crown surrendered, but her child alive. In Essos, golden dragons will buy wine and safety, far from the throne that devoured her family.",
   "resolvesPlotHole": null,
   "bonusAchievementId": null,
-  "options": []
+  "options": [
+    {
+      "text": "Continue the Draft: Turn the page to A Dream of Spring prologue...",
+      "nextId": "root"
+    },
+    {
+      "text": "Explore an Alternate POV: Ride into the Riverlands to confront Lady Stoneheart.",
+      "nextId": "stoneheart_jaime"
+    },
+    {
+      "text": "Citadel Archival Query: Uncover Howland Reed's hidden truth.",
+      "nextId": "howland_reed_appears"
+    }
+  ]
 }

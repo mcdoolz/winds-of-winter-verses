@@ -5,5 +5,18 @@
   "narrative": "In the deepest subterranean vaults beneath the Hightower, Euron breaks the seal of the Archmaesters. Forbidden blood scrolls from ancient Valyria reveal the true origin of dragons and men. Armed with the lost magic of the Freehold, the Crow's Eye reshapes the world in his eldritch image.",
   "resolvesPlotHole": null,
   "bonusAchievementId": null,
-  "options": []
+  "options": [
+    {
+      "text": "Continue the Draft: Turn the page to A Dream of Spring prologue...",
+      "nextId": "root"
+    },
+    {
+      "text": "Explore an Alternate POV: Ride into the Riverlands to confront Lady Stoneheart.",
+      "nextId": "stoneheart_jaime"
+    },
+    {
+      "text": "Citadel Archival Query: Uncover Howland Reed's hidden truth.",
+      "nextId": "howland_reed_appears"
+    }
+  ]
 }
