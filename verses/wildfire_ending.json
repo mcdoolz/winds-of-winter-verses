@@ -20,6 +20,16 @@
     }
   ],
   "prerequisites": [],
-  "mutuallyExclusiveWith": [],
+  "mutuallyExclusiveWith": [
+    "cersei_wine_connoisseur_sommelier",
+    "cersei_trial_by_combat",
+    "cersei_trial_judgment",
+    "ser_pounce_azor_ahai",
+    "tywin_secret_brothel_tunnel_subway",
+    "boros_blount_food_tester_championship",
+    "high_sparrow_purged",
+    "varys_merman_revelation",
+    "tommen_deal_ending"
+  ],
   "introducesPlotHole": null
 }

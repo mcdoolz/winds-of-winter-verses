@@ -7,7 +7,10 @@
   "bonusAchievementId": "ach_boros_competitive_eater",
   "introducesPlotHole": "The Royal Kingsguard Competitive Hot Dog Eating Trophy",
   "prerequisites": [],
-  "mutuallyExclusiveWith": [],
+  "mutuallyExclusiveWith": [
+    "kings_landing_burns",
+    "wildfire_ending"
+  ],
   "options": [
     {
       "text": "Step into the sept to face Ser Robert Strong in an eating duel.",

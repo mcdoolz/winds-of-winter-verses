@@ -7,7 +7,7 @@
   "bonusAchievementId": "ach_meereen_untied",
   "options": [
     {
-      "text": "Confront Young Griff (Aegon VI) outside King's Landing \u2014 demand proof of his Targaryen blood.",
+      "text": "Confront Young Griff (Aegon VI) outside King's Landing — demand proof of his Targaryen blood.",
       "nextId": "faegon_blackfyre",
       "bonusAchievementId": "ach_faegon_exposed"
     },

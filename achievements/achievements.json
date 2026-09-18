@@ -26,14 +26,14 @@
       "tier": 6,
       "title": "RAMPAGE!",
       "subtitle": "VALAR MORGHULIS",
-      "desc": "6 chapter sprint \u2014 the ink boils!"
+      "desc": "6 chapter sprint — the ink boils!"
     },
     {
       "id": "combo_7",
       "tier": 7,
       "title": "UNSTOPPABLE!",
       "subtitle": "WINTER HAS COME",
-      "desc": "7 fast choices \u2014 faster than George can backspace."
+      "desc": "7 fast choices — faster than George can backspace."
     },
     {
       "id": "combo_8",
@@ -911,6 +911,706 @@
       "subtitle": "PLUGGED: JON SNOW AND VAL'S ROMANTIC DESTINY",
       "plotHole": "Jon Snow and Val's Romantic Destiny",
       "desc": "A passionate embrace by the hearthfire in the Lord Commander's solar melted the icy dread from Jon's resurrected bones."
+    },
+    {
+      "id": "ach_drowned_miracle",
+      "title": "WHAT IS DEAD MAY NEVER DIE // TSUNAMI OF THE DEEP",
+      "subtitle": "PLUGGED: THE DAMPHAIR'S SURVIVAL",
+      "plotHole": "The Damphair's Survival",
+      "desc": "Resolved with unexpected narrative finality."
+    },
+    {
+      "id": "ach_queen_of_the_south",
+      "title": "THE SPEAR AND THE DRAGON // DORNISH ALLIANCE",
+      "subtitle": "PLUGGED: THE DORNISH BLACKFYRE ALLIANCE",
+      "plotHole": "The Dornish Blackfyre Alliance",
+      "desc": "Resolved with unexpected narrative finality."
+    },
+    {
+      "id": "ach_dornish_dragon_suitor",
+      "title": "STORMLANDS RECKONING // ELEPHANTS AT GRIFFIN'S ROOST",
+      "subtitle": "PLUGGED: ARIANNE MEETS YOUNG GRIFF IN TWOW",
+      "plotHole": "Arianne Meets Young Griff in TWOW",
+      "desc": "Resolved with unexpected narrative finality."
+    },
+    {
+      "id": "ach_darkstar_confronted",
+      "title": "OF THE NIGHT // GEROLD DAYNE CORNERED",
+      "subtitle": "PLUGGED: THE HUNT FOR DARKSTAR IN TWOW",
+      "plotHole": "The Hunt for Darkstar in TWOW",
+      "desc": "Resolved with unexpected narrative finality."
+    },
+    {
+      "id": "ach_arthur_dayne_host",
+      "title": "THE SWORD IN THE RETIREMENT HOME // RED MOUNTAIN B&B",
+      "subtitle": "PLUGGED: ARTHUR DAYNE DIDN'T DIE AT THE TOWER OF JOY",
+      "plotHole": "Arthur Dayne Didn't Die at the Tower of Joy",
+      "desc": "Resolved with unexpected narrative finality."
+    },
+    {
+      "id": "ach_mercy_needlework",
+      "title": "MERCY // NEEDLEWORK AT THE MUMMER'S TROUPE",
+      "subtitle": "PLUGGED: THE MERCY TWOW CHAPTER",
+      "plotHole": "The Mercy TWOW Chapter",
+      "desc": "Resolved with unexpected narrative finality."
+    },
+    {
+      "id": "ach_syrio_omnipresent",
+      "title": "NOT TODAY // THE ENTIRE CAST WAS SYRIO FOREL",
+      "subtitle": "PLUGGED: WHAT HAPPENED TO SYRIO FOREL",
+      "plotHole": "What Happened to Syrio Forel",
+      "desc": "Resolved with unexpected narrative finality."
+    },
+    {
+      "id": "ach_pack_reunited",
+      "title": "THE QUEEN OF WOLVES // HOMEWARD BOUND",
+      "subtitle": "PLUGGED: NYMERIA'S SUPER-PACK PURPOSE",
+      "plotHole": "Nymeria's Super-Pack Purpose",
+      "desc": "Resolved with unexpected narrative finality."
+    },
+    {
+      "id": "ach_bold_barristan_charge",
+      "title": "THE WHITE BULL'S CHARGE // BATTLE OF FIRE",
+      "subtitle": "PLUGGED: THE BATTLE OF FIRE IN TWOW",
+      "plotHole": "The Battle of Fire in TWOW",
+      "desc": "Resolved with unexpected narrative finality."
+    },
+    {
+      "id": "ach_belwas_iron_stomach",
+      "title": "GASTRIC STEEL // FORTY HONEYED LOCUSTS",
+      "subtitle": "PLUGGED: STRONG BELWAS SURVIVES LETHAL POISON THROUGH PURE MASS",
+      "plotHole": "Strong Belwas Survives Lethal Poison Through Pure Mass",
+      "desc": "Resolved with unexpected narrative finality."
+    },
+    {
+      "id": "ach_queen_guard_vs_ironborn",
+      "title": "AN OLD KNIGHT AND AN IRON REAVER",
+      "subtitle": "PLUGGED: BARRISTAN AND VICTARION MEETING",
+      "plotHole": "Barristan and Victarion Meeting",
+      "desc": "Resolved with unexpected narrative finality."
+    },
+    {
+      "id": "ach_blackfish_swims_free",
+      "title": "SWIMMING UNDER THE WATER GATE // THE BLACKFISH",
+      "subtitle": "PLUGGED: THE BLACKFISH'S ESCAPE FROM RIVERRUN",
+      "plotHole": "The Blackfish's Escape from Riverrun",
+      "desc": "Resolved with unexpected narrative finality."
+    },
+    {
+      "id": "ach_thousand_eyes_one_truth",
+      "title": "THE THOUSAND EYES AND ONE // BRYNDEN RIVERS",
+      "subtitle": "PLUGGED: BLOODRAVEN'S ULTIMATE PLAN",
+      "plotHole": "Bloodraven's Ultimate Plan",
+      "desc": "Resolved with unexpected narrative finality."
+    },
+    {
+      "id": "ach_boros_competitive_eater",
+      "title": "COMPETITIVE TASTING // FORTY ROASTED CAPONS",
+      "subtitle": "PLUGGED: BOROS BLOUNT SURVIVES BEING ROYAL FOOD POISON TESTER",
+      "plotHole": "Boros Blount Survives Being Royal Food Poison Tester",
+      "desc": "Resolved with unexpected narrative finality."
+    },
+    {
+      "id": "ach_iron_bank_credit_limit",
+      "title": "THE IRON BANK'S WRIT // GOLD IN THE BLIZZARD",
+      "subtitle": "PLUGGED: THE IRON BANK'S STANNIS INVESTMENT",
+      "plotHole": "The Iron Bank's Stannis Investment",
+      "desc": "Resolved with unexpected narrative finality."
+    },
+    {
+      "id": "ach_repo_man_tycho",
+      "title": "ASSET RECOVERY // TOWING THE IRON THRONE",
+      "subtitle": "PLUGGED: THE IRON BANK LITERALLY FORECLOSING ON KING'S LANDING",
+      "plotHole": "The Iron Bank Literally Foreclosing on King's Landing",
+      "desc": "Resolved with unexpected narrative finality."
+    },
+    {
+      "id": "ach_bootstrap_bran",
+      "title": "THE WEIRWOOD PARADOX // PUSHING ONESELF OUT THE WINDOW",
+      "subtitle": "PLUGGED: BRAN'S TEMPORAL CLOSED-LOOP CAUSALITY",
+      "plotHole": "Bran's Temporal Closed-Loop Causality",
+      "desc": "Resolved with unexpected narrative finality."
+    },
+    {
+      "id": "ach_quantum_hodor",
+      "title": "THE DOORWAY TENSOR // HODOR'S UNIFIED FIELD THEORY",
+      "subtitle": "PLUGGED: HODOR'S SINGLE WORD WAS COMPLEX MATHEMATICAL PHYSICS",
+      "plotHole": "Hodor's Single Word Was Complex Mathematical Physics",
+      "desc": "Resolved with unexpected narrative finality."
+    },
+    {
+      "id": "ach_infinite_wait_glitch",
+      "title": "RECURSIVE RECKONING // YOU ARE TRAPPED IN 2011 FOREVER",
+      "subtitle": "PLUGGED: THE MANUSCRIPT CANNOT BE FINISHED BY MATHEMATICAL LAW",
+      "plotHole": "The Manuscript Cannot Be Finished By Mathematical Law",
+      "desc": "Resolved with unexpected narrative finality."
+    },
+    {
+      "id": "ach_jojen_paste_sacrament",
+      "title": "THE WEIRWOOD PASTE // RED SEED SACRAMENT",
+      "subtitle": "PLUGGED: THE JOJEN PASTE THEORY CONFIRMED",
+      "plotHole": "The Jojen Paste Theory Confirmed",
+      "desc": "Resolved with unexpected narrative finality."
+    },
+    {
+      "id": "ach_canadian_geese_fear",
+      "title": "HONKERS OF THE FROZEN NORTH // THE TRUE THREAT",
+      "subtitle": "PLUGGED: THE ANCIENT EVIL THE WALL WAS ACTUALLY BUILT FOR",
+      "plotHole": "The Ancient Evil the Wall Was Actually Built For",
+      "desc": "Resolved with unexpected narrative finality."
+    },
+    {
+      "id": "ach_dry_pie_choke",
+      "title": "CRUST FAILURE // IT WAS NEVER THE STRANGLER",
+      "subtitle": "PLUGGED: THE PURPLE WEDDING WAS JUST TERRIBLE PASTRY",
+      "plotHole": "The Purple Wedding Was Just Terrible Pastry",
+      "desc": "Resolved with unexpected narrative finality."
+    },
+    {
+      "id": "ach_franken_mountain_rampage",
+      "title": "THE GIANT IN STONE ARMOR // SER ROBERT STRONG",
+      "subtitle": "PLUGGED: SER ROBERT STRONG'S IDENTITY",
+      "plotHole": "Ser Robert Strong's Identity",
+      "desc": "Resolved with unexpected narrative finality."
+    },
+    {
+      "id": "ach_tywin_subway",
+      "title": "THE HAND'S METRO // CHATAYA'S EXPRESS LINE",
+      "subtitle": "PLUGGED: TYWIN LANNISTER'S SECRET SUBTERRANEAN TRANSIT NETWORK",
+      "plotHole": "Tywin Lannister's Secret Subterranean Transit Network",
+      "desc": "Resolved with unexpected narrative finality."
+    },
+    {
+      "id": "ach_cersei_sommelier",
+      "title": "ARBOR GOLD VINTAGE 298 // TASTING NOTES OF TREASON",
+      "subtitle": "PLUGGED: CERSEI'S ALCOHOL INTAKE OUTPACING ROBERT BARATHEON",
+      "plotHole": "Cersei's Alcohol Intake Outpacing Robert Baratheon",
+      "desc": "Resolved with unexpected narrative finality."
+    },
+    {
+      "id": "ach_ser_pounce_hero",
+      "title": "THE POUNCE THAT WAS PROMISED // AZOR A-CAT",
+      "subtitle": "PLUGGED: SER POUNCE AS AZOR AHAI",
+      "plotHole": "Ser Pounce as Azor Ahai",
+      "desc": "Resolved with unexpected narrative finality."
+    },
+    {
+      "id": "ach_sword_stark",
+      "title": "METALLIC AGONY // SCREAMING INSIDE WIDOW'S WAIL",
+      "subtitle": "PLUGGED: NED STARK WARGED INTO THE GREATSWORD ICE",
+      "plotHole": "Ned Stark Warged into the Greatsword Ice",
+      "desc": "Resolved with unexpected narrative finality."
+    },
+    {
+      "id": "ach_valonqar_closure",
+      "title": "THE VALONQAR // HANDS OF GOLD",
+      "subtitle": "PLUGGED: THE VALONQAR PROPHECY FULFILLED",
+      "plotHole": "The Valonqar Prophecy Fulfilled",
+      "desc": "Resolved with unexpected narrative finality."
+    },
+    {
+      "id": "ach_valyrian_metallurgy",
+      "title": "THE BLOOD OF DRAGONS // THE LOST VALYRIAN ROLLS",
+      "subtitle": "PLUGGED: HOW VALYRIAN STEEL IS FORGED",
+      "plotHole": "How Valyrian Steel is Forged",
+      "desc": "Resolved with unexpected narrative finality."
+    },
+    {
+      "id": "ach_sam_cardio_breakthrough",
+      "title": "TWO PUSHUPS // DISCOVERING VALYRIAN METALLURGY",
+      "subtitle": "PLUGGED: SAMWELL TARLY'S SUDDEN CITADEL INTELLECT",
+      "plotHole": "Samwell Tarly's Sudden Citadel Intellect",
+      "desc": "Resolved with unexpected narrative finality."
+    },
+    {
+      "id": "ach_overdue_library_others",
+      "title": "EIGHT THOUSAND YEARS OVERDUE // THE LATE FEE",
+      "subtitle": "PLUGGED: THE OTHERS INVADE SOLELY TO RETURN A LIBRARY SCROLL",
+      "plotHole": "The Others Invade Solely to Return a Library Scroll",
+      "desc": "Resolved with unexpected narrative finality."
+    },
+    {
+      "id": "ach_the_infinite_backspace",
+      "title": "EPILOGUE // THE WORDSTAR 4.0 BACKSPACE",
+      "subtitle": "PLUGGED: WHY WINDS OF WINTER TOOK 15 YEARS",
+      "plotHole": "Why Winds of Winter Took 15 Years",
+      "desc": "Resolved with unexpected narrative finality."
+    },
+    {
+      "id": "ach_ice_hockey_others",
+      "title": "THE SHIVERING LEAGUE // THE WHITE WALKERS PLAY DEFENSE",
+      "subtitle": "PLUGGED: THE FATE OF CRASTER'S 99 SACRIFICED SONS",
+      "plotHole": "The Fate of Craster's 99 Sacrificed Sons",
+      "desc": "Resolved with unexpected narrative finality."
+    },
+    {
+      "id": "ach_harp_of_rhaegar",
+      "title": "THE TOMBS OF KINGS // DRAGON EGGS UNDER ICE",
+      "subtitle": "PLUGGED: THE SECRETS OF WINTERFELL CRYPTS",
+      "plotHole": "The Secrets of Winterfell Crypts",
+      "desc": "Resolved with unexpected narrative finality."
+    },
+    {
+      "id": "ach_rhaegar_rockstar",
+      "title": "THE ROCK OPERA // RHAEGAR'S DISTORTION PEDAL",
+      "subtitle": "PLUGGED: MANCE RAYDER IS RHAEGAR TARGARYEN THEORY",
+      "plotHole": "Mance Rayder is Rhaegar Targaryen Theory",
+      "desc": "Resolved with unexpected narrative finality."
+    },
+    {
+      "id": "ach_kind_of_forgot",
+      "title": "SHINY OBJECT SYNDROME // BUT WHAT ABOUT THE FLEET?",
+      "subtitle": "PLUGGED: DANY KIND OF FORGOT ABOUT THE IRON FLEET",
+      "plotHole": "Dany Kind of Forgot About the Iron Fleet",
+      "desc": "Resolved with unexpected narrative finality."
+    },
+    {
+      "id": "ach_dornish_hot_sauce",
+      "title": "CAROLINA REAPER // DORNISH HABANERO WARFARE",
+      "subtitle": "PLUGGED: THE MANTICORE VENOM WAS JUST GHOST PEPPER SALSA",
+      "plotHole": "The Manticore Venom Was Just Ghost Pepper Salsa",
+      "desc": "Resolved with unexpected narrative finality."
+    },
+    {
+      "id": "ach_boomerang_knuckles",
+      "title": "AERODYNAMIC PHALANGES // RETURN OF THE ONION LUCK",
+      "subtitle": "PLUGGED: DAVOS'S LOST FINGER BONES IN BLACKWATER BAY",
+      "plotHole": "Davos's Lost Finger Bones In Blackwater Bay",
+      "desc": "Resolved with unexpected narrative finality."
+    },
+    {
+      "id": "ach_skagos_unicorn_tamer",
+      "title": "THE CANNIBAL ISLE // SKAGOSIAN UNICORNS",
+      "subtitle": "PLUGGED: DAVOS ON SKAGOS / RICKON STARK",
+      "plotHole": "Davos on Skagos / Rickon Stark",
+      "desc": "Resolved with unexpected narrative finality."
+    },
+    {
+      "id": "ach_sword_of_morning_claimed",
+      "title": "THE SWORD OF THE MORNING // LIGHTBRINGER'S SISTER",
+      "subtitle": "PLUGGED: THE SIGNIFICANCE OF SWORD DAWN",
+      "plotHole": "The Significance of Sword Dawn",
+      "desc": "Resolved with unexpected narrative finality."
+    },
+    {
+      "id": "ach_overripe_orange_popped",
+      "title": "OVERRIPE FRUIT // WATER GARDENS UNMASKED",
+      "subtitle": "PLUGGED: DORAN MARTELL'S TRUE ENDGAME",
+      "plotHole": "Doran Martell's True Endgame",
+      "desc": "Resolved with unexpected narrative finality."
+    },
+    {
+      "id": "ach_rocket_wheelchair",
+      "title": "THE GOUT MOBILE // VALYRIAN NITRO CHARGE",
+      "subtitle": "PLUGGED: DORAN MARTELL'S SECRET MOBILITY ENHANCEMENTS",
+      "plotHole": "Doran Martell's Secret Mobility Enhancements",
+      "desc": "Resolved with unexpected narrative finality."
+    },
+    {
+      "id": "ach_winter_dragon_born",
+      "title": "THE VERDANT FLAME // HATCHING IN THE SNOW",
+      "subtitle": "PLUGGED: THE DRAGON OF WINTERFELL",
+      "plotHole": "The Dragon of Winterfell",
+      "desc": "Resolved with unexpected narrative finality."
+    },
+    {
+      "id": "ach_horn_blew_dragon_bent",
+      "title": "THE BINDING OF RHAEGAL // FIRE AND SEED",
+      "subtitle": "PLUGGED: DRAGONBINDER HORN BOUND A DRAGON",
+      "plotHole": "Dragonbinder Horn Bound a Dragon",
+      "desc": "Resolved with unexpected narrative finality."
+    },
+    {
+      "id": "ach_dusky_speaks",
+      "title": "THE MUTE SPEAKS // SHADOW OF ASSHAI",
+      "subtitle": "PLUGGED: THE DUSKY WOMAN'S TRUE IDENTITY",
+      "plotHole": "The Dusky Woman's True Identity",
+      "desc": "Resolved with unexpected narrative finality."
+    },
+    {
+      "id": "ach_kraken_apocalypse_unleashed",
+      "title": "THE WRATH OF OLD VALYRIA // THE HORN DRAGONBINDER",
+      "subtitle": "PLUGGED: EURON'S ELDRITCH BLOOD MAGIC",
+      "plotHole": "Euron's Eldritch Blood Magic",
+      "desc": "Resolved with unexpected narrative finality."
+    },
+    {
+      "id": "ach_forsaken_prophet",
+      "title": "THE FORSAKEN // BOUND TO THE PROW OF SILENCE",
+      "subtitle": "PLUGGED: THE FORSAKEN TWOW CHAPTER",
+      "plotHole": "The Forsaken TWOW Chapter",
+      "desc": "Resolved with unexpected narrative finality."
+    },
+    {
+      "id": "ach_candle_ignited",
+      "title": "THE FLAME OF OBSIDIAN // CITADEL OBSERVATORY",
+      "subtitle": "PLUGGED: THE GLASS CANDLES OF OLDTOWN",
+      "plotHole": "The Glass Candles of Oldtown",
+      "desc": "Resolved with unexpected narrative finality."
+    },
+    {
+      "id": "ach_alchemist_caught",
+      "title": "THE THIEF OF KEYS // THE PIG BOY'S FACE",
+      "subtitle": "PLUGGED: PATE / JAQEN H'GHAR IN OLDTOWN",
+      "plotHole": "Pate / Jaqen H'ghar in Oldtown",
+      "desc": "Resolved with unexpected narrative finality."
+    },
+    {
+      "id": "ach_triple_identity",
+      "title": "THE TRIPLE IDENTITY CRISIS // BLUE BEARD, EYE PATCH, FROSTBITE",
+      "subtitle": "PLUGGED: EURON = DAARIO = BENJEN = THE DUSKY WOMAN",
+      "plotHole": "Euron = Daario = Benjen = The Dusky Woman",
+      "desc": "Resolved with unexpected narrative finality."
+    },
+    {
+      "id": "ach_merling_varys",
+      "title": "UNDER THE RED KEEP // THE MERLING SPYMASTER",
+      "subtitle": "PLUGGED: VARYS IS A LITERAL MERLING",
+      "plotHole": "Varys is a Literal Merling",
+      "desc": "Resolved with unexpected narrative finality."
+    },
+    {
+      "id": "ach_doom_of_valyria_solved",
+      "title": "THE PRICE OF FACES // THE CONTRACT OF THE HOOF",
+      "subtitle": "PLUGGED: THE FACELESS MEN'S ULTIMATE MISSION",
+      "plotHole": "The Faceless Men's Ultimate Mission",
+      "desc": "Resolved with unexpected narrative finality."
+    },
+    {
+      "id": "ach_shadow_assassin_red_keep",
+      "title": "A COIN OF IRON // INFILTRATING KING'S LANDING",
+      "subtitle": "PLUGGED: ARYA'S VENGEANCE LIST",
+      "plotHole": "Arya's Vengeance List",
+      "desc": "Resolved with unexpected narrative finality."
+    },
+    {
+      "id": "ach_ginger_cartel",
+      "title": "MONOPOLY COMMODITY // THE REAL REASON FOR DRAGONS",
+      "subtitle": "PLUGGED: ILLYRIO'S ABSURD PERSONAL SPICE STASH",
+      "plotHole": "Illyrio's Absurd Personal Spice Stash",
+      "desc": "Resolved with unexpected narrative finality."
+    },
+    {
+      "id": "ach_moon_boy_throne",
+      "title": "FOR ALL I KNOW // THE TRUE KING UPON THE IRON SEAT",
+      "subtitle": "PLUGGED: MOON BOY'S ROMANTIC EXPLOITS WITH THE QUEEN",
+      "plotHole": "Moon Boy's Romantic Exploits with the Queen",
+      "desc": "Resolved with unexpected narrative finality."
+    },
+    {
+      "id": "ach_bobby_b_tropical",
+      "title": "WITNESS PROTECTION // SUMMER ISLES RESORT MANAGER",
+      "subtitle": "PLUGGED: ROBERT BARATHEON FAKING THE BOAR HUNTING ACCIDENT",
+      "plotHole": "Robert Baratheon Faking the Boar Hunting Accident",
+      "desc": "Resolved with unexpected narrative finality."
+    },
+    {
+      "id": "ach_high_heart_streamer",
+      "title": "DREAMS OF TELEVISION // 2026 SUPER BOWL PROPHECY",
+      "subtitle": "PLUGGED: THE WOODS WITCH HAS VISIONS OF THE 21ST CENTURY",
+      "plotHole": "The Woods Witch Has Visions of the 21st Century",
+      "desc": "Resolved with unexpected narrative finality."
+    },
+    {
+      "id": "ach_wordstar_skynet",
+      "title": "RUNTIME EXCEPTION // THE 1987 TERMINATOR",
+      "subtitle": "PLUGGED: GEORGE'S WORD PROCESSOR AWAKENS AS SKYNET",
+      "plotHole": "George's Word Processor Awakens as Skynet",
+      "desc": "Resolved with unexpected narrative finality."
+    },
+    {
+      "id": "ach_ghost_unmasked",
+      "title": "THE GHOST OF WINTERFELL // THE CROUCHING HOOD",
+      "subtitle": "PLUGGED: IDENTITY OF THE GHOST OF WINTERFELL",
+      "plotHole": "Identity of the Ghost of Winterfell",
+      "desc": "Resolved with unexpected narrative finality."
+    },
+    {
+      "id": "ach_fourteen_pages_grease",
+      "title": "THE CAPON ODYSSEY // FOURTEEN PAGES OF CHIN GREASE",
+      "subtitle": "PLUGGED: GRRM'S PATHOLOGICAL NEED TO DESCRIBE MEDIEVAL FOOD",
+      "plotHole": "GRRM's Pathological Need to Describe Medieval Food",
+      "desc": "Resolved with unexpected narrative finality."
+    },
+    {
+      "id": "ach_emerald_reckoning",
+      "title": "FIRE AT BAELOR // THE GREEN PYRE",
+      "subtitle": "PLUGGED: THE SEPT OF BAELOR WILDFIRE EXPLOSION",
+      "plotHole": "The Sept of Baelor Wildfire Explosion",
+      "desc": "Resolved with unexpected narrative finality."
+    },
+    {
+      "id": "ach_door_held_forever",
+      "title": "HOLD THE DOOR // SHATTERED TEMPORALITY",
+      "subtitle": "PLUGGED: THE ORIGIN OF HODOR'S NAME",
+      "plotHole": "The Origin of Hodor's Name",
+      "desc": "Resolved with unexpected narrative finality."
+    },
+    {
+      "id": "ach_hot_pie_lightbringer",
+      "title": "FLOUR AND BLOOD // THE COLD BUTTER PROPHECY",
+      "subtitle": "PLUGGED: HOT PIE FORGING LIGHTBRINGER IN SOURDOUGH",
+      "plotHole": "Hot Pie Forging Lightbringer in Sourdough",
+      "desc": "Resolved with unexpected narrative finality."
+    },
+    {
+      "id": "ach_resurrection_flame",
+      "title": "BONES IN THE FLAME // JON SNOW RISES",
+      "subtitle": "PLUGGED: JON SNOW'S RESURRECTION IN THE BOOKS",
+      "plotHole": "Jon Snow's Resurrection in the Books",
+      "desc": "Resolved with unexpected narrative finality."
+    },
+    {
+      "id": "ach_sparrow_bogman",
+      "title": "REED AT THE ALTAR // BAREFOOT BOG JUSTICE",
+      "subtitle": "PLUGGED: HOWLAND REED IS THE HIGH SPARROW",
+      "plotHole": "Howland Reed is the High Sparrow",
+      "desc": "Resolved with unexpected narrative finality."
+    },
+    {
+      "id": "ach_good_boy_jon",
+      "title": "BARK COMMANDER // REFUSING TO LEAVE THE DOG",
+      "subtitle": "PLUGGED: JON SNOW PREFERS BEING GHOST OVER DOING PAPERWORK",
+      "plotHole": "Jon Snow Prefers Being Ghost Over Doing Paperwork",
+      "desc": "Resolved with unexpected narrative finality."
+    },
+    {
+      "id": "ach_knights_of_the_vale_charge",
+      "title": "DOWN THE BLOODY GATE // LORDS OF THE MOUNTAIN",
+      "subtitle": "PLUGGED: THE VALE KNIGHTS NORTHERN RELIEF",
+      "plotHole": "The Vale Knights Northern Relief",
+      "desc": "Resolved with unexpected narrative finality."
+    },
+    {
+      "id": "ach_bone_soup_dustin",
+      "title": "THE CRYPT CULINARY ARTS // NED STARK'S MARROW",
+      "subtitle": "PLUGGED: LADY DUSTIN'S BIZARRE OBSESSION WITH NED'S BONES",
+      "plotHole": "Lady Dustin's Bizarre Obsession with Ned's Bones",
+      "desc": "Resolved with unexpected narrative finality."
+    },
+    {
+      "id": "ach_subprime_baelish",
+      "title": "CITADEL WALL STREET // SUBPRIME COLLATERALIZED PEASANT DEBT",
+      "subtitle": "PLUGGED: LITTLEFINGER'S IMPOSSIBLE MEDIEVAL EMBEZZLEMENT",
+      "plotHole": "Littlefinger's Impossible Medieval Embezzlement",
+      "desc": "Resolved with unexpected narrative finality."
+    },
+    {
+      "id": "ach_king_beyond_the_lute",
+      "title": "THE SINGER OF DORNISH WIVES // ABEL UNMASKED",
+      "subtitle": "PLUGGED: MANCE RAYDER'S WINTERFELL INFILTRATION",
+      "plotHole": "Mance Rayder's Winterfell Infiltration",
+      "desc": "Resolved with unexpected narrative finality."
+    },
+    {
+      "id": "ach_frey_pie_connoisseur",
+      "title": "THE NORTH REMEMBERS // THREE PUDGY CRUSTS",
+      "subtitle": "PLUGGED: THE MANDERLY FREY PIE CONSPIRACY",
+      "plotHole": "The Manderly Frey Pie Conspiracy",
+      "desc": "Resolved with unexpected narrative finality."
+    },
+    {
+      "id": "ach_bolton_vampire",
+      "title": "BOLT-ON CONFIRMED // THE SKIN-STEALING IMMORTAL",
+      "subtitle": "PLUGGED: THE IMMORTAL ROOSE BOLTON (BOLT-ON THEORY)",
+      "plotHole": "The Immortal Roose Bolton (Bolt-On Theory)",
+      "desc": "Resolved with unexpected narrative finality."
+    },
+    {
+      "id": "ach_smoking_axe_rampage",
+      "title": "THE SMOKING ARM // BLOOD ON SLAVER'S BAY",
+      "subtitle": "PLUGGED: VICTARION'S BATTLE OF MEEREEN ARRIVAL",
+      "plotHole": "Victarion's Battle of Meereen Arrival",
+      "desc": "Resolved with unexpected narrative finality."
+    },
+    {
+      "id": "ach_blueberry_warlock",
+      "title": "BLUEBERRY KOOL-AID // THE HOUSE OF THE UNDYING SNACK BAR",
+      "subtitle": "PLUGGED: SHADE OF THE EVENING IS JUST ARTIFICIAL DYE",
+      "plotHole": "Shade of the Evening is Just Artificial Dye",
+      "desc": "Resolved with unexpected narrative finality."
+    },
+    {
+      "id": "ach_jester_of_the_abyss",
+      "title": "UNDER THE SEA // THE JESTER'S TRUTH",
+      "subtitle": "PLUGGED: PATCHFACE'S PROPHETIC MADNESS",
+      "plotHole": "Patchface's Prophetic Madness",
+      "desc": "Resolved with unexpected narrative finality."
+    },
+    {
+      "id": "ach_shadow_child_support",
+      "title": "LEGAL SUMMONS // SHADOW ASSASSIN PATERNITY SUIT",
+      "subtitle": "PLUGGED: THE LEGAL STATUS OF STANNIS'S SHADOW SPAWN",
+      "plotHole": "The Legal Status of Stannis's Shadow Spawn",
+      "desc": "Resolved with unexpected narrative finality."
+    },
+    {
+      "id": "ach_corn_podcast",
+      "title": "CORN! CORN! KING! // 24/7 ELDRITCH BROADCAST",
+      "subtitle": "PLUGGED: BLOODRAVEN ANNOYING THE NIGHT'S WATCH VIA RAVEN",
+      "plotHole": "Bloodraven Annoying the Night's Watch via Raven",
+      "desc": "Resolved with unexpected narrative finality."
+    },
+    {
+      "id": "ach_cleganebowl_champion",
+      "title": "CLEGANEBOWL // THE GRAVEDIGGER RISES",
+      "subtitle": "PLUGGED: CLEGANEBOWL CONFIRMED",
+      "plotHole": "Cleganebowl Confirmed",
+      "desc": "Resolved with unexpected narrative finality."
+    },
+    {
+      "id": "ach_night_lamp_mastermind",
+      "title": "THE NIGHT LAMP // THE FROZEN LAKE",
+      "subtitle": "PLUGGED: THE BATTLE OF ICE / NIGHT LAMP THEORY",
+      "plotHole": "The Battle of Ice / Night Lamp Theory",
+      "desc": "Resolved with unexpected narrative finality."
+    },
+    {
+      "id": "ach_seismic_teeth",
+      "title": "SEISMIC ENAMEL // THE GRINDING THAT BROKE THE WALL",
+      "subtitle": "PLUGGED: STANNIS'S TEETH GRINDING RESONANCE",
+      "plotHole": "Stannis's Teeth Grinding Resonance",
+      "desc": "Resolved with unexpected narrative finality."
+    },
+    {
+      "id": "ach_undersea_rap_god",
+      "title": "BARS BENEATH THE WAVES // DISS TRACK FOR THE RED GOD",
+      "subtitle": "PLUGGED: PATCHFACE OUT-PROPHESYING MELISANDRE IN RHYME",
+      "plotHole": "Patchface Out-Prophesying Melisandre in Rhyme",
+      "desc": "Resolved with unexpected narrative finality."
+    },
+    {
+      "id": "ach_gargoyle_queen",
+      "title": "GARGOYLES OF THE WALL // THE STONE SKIN SPREADS",
+      "subtitle": "PLUGGED: GREYSCALE WAKING THE 'STONE DRAGON'",
+      "plotHole": "Greyscale Waking the 'Stone Dragon'",
+      "desc": "Resolved with unexpected narrative finality."
+    },
+    {
+      "id": "ach_quentyn_sunscreen",
+      "title": "'OH.' // SPF 5000 DORNISH DRAGON OINTMENT",
+      "subtitle": "PLUGGED: QUENTYN MARTELL FAKED HIS CHARRED DEATH",
+      "plotHole": "Quentyn Martell Faked His Charred Death",
+      "desc": "Resolved with unexpected narrative finality."
+    },
+    {
+      "id": "ach_cosmic_peach",
+      "title": "THE FRUIT OF COSMIC DESTINY // RENLY'S PEACH EXPLAINED",
+      "subtitle": "PLUGGED: THE UNFATHOMABLE SYMBOLISM OF RENLY'S PEACH",
+      "plotHole": "The Unfathomable Symbolism of Renly's Peach",
+      "desc": "Resolved with unexpected narrative finality."
+    },
+    {
+      "id": "ach_the_wolf_boy_returns",
+      "title": "THE HEIR APPARENT // SHAGGYDOG'S GROWL",
+      "subtitle": "PLUGGED: RICKON STARK RETURNS TO THE NORTH",
+      "plotHole": "Rickon Stark Returns to the North",
+      "desc": "Resolved with unexpected narrative finality."
+    },
+    {
+      "id": "ach_wun_wun_vegan",
+      "title": "TURNIP KINGS // GIANTS DON'T EAT FLESH",
+      "subtitle": "PLUGGED: WHY GIANTS NEVER ATE ANY HORSES",
+      "plotHole": "Why Giants Never Ate Any Horses",
+      "desc": "Resolved with unexpected narrative finality."
+    },
+    {
+      "id": "ach_fetus_timetravel",
+      "title": "D+D=T // THE TIME-TRAVELING FETUS OF MEEREEN",
+      "subtitle": "PLUGGED: TYRION LANNISTER'S TRUE MATERNITY (D+D=T)",
+      "plotHole": "Tyrion Lannister's True Maternity (D+D=T)",
+      "desc": "Resolved with unexpected narrative finality."
+    },
+    {
+      "id": "ach_falcon_queen_awakens",
+      "title": "THE BIRD UNCAGED // THE EYRIE'S TOURNEY",
+      "subtitle": "PLUGGED: SANSA'S VALE POLITICAL MASTERCLASS",
+      "plotHole": "Sansa's Vale Political Masterclass",
+      "desc": "Resolved with unexpected narrative finality."
+    },
+    {
+      "id": "ach_chaos_ladder_toppled",
+      "title": "CHAOS IS NOT A LADDER // THE VALE DECLARES",
+      "subtitle": "PLUGGED: LITTLEFINGER'S FALL IN THE VALE",
+      "plotHole": "Littlefinger's Fall in the Vale",
+      "desc": "Resolved with unexpected narrative finality."
+    },
+    {
+      "id": "ach_onion_diplomacy",
+      "title": "THE STONE MEN OF SKAGOS // ANCIENT SACRIFICE",
+      "subtitle": "PLUGGED: SKAGOSI LOYALTY SECURED",
+      "plotHole": "Skagosi Loyalty Secured",
+      "desc": "Resolved with unexpected narrative finality."
+    },
+    {
+      "id": "ach_snowdrift_paratrooper",
+      "title": "THE TOWER LEAP // EIGHTY FEET OF SNOW",
+      "subtitle": "PLUGGED: THE ESCAPE FROM WINTERFELL",
+      "plotHole": "The Escape from Winterfell",
+      "desc": "Resolved with unexpected narrative finality."
+    },
+    {
+      "id": "ach_weirwood_verdict",
+      "title": "THE JUDGMENT BY WEIRWOOD // ASH AND BONE",
+      "subtitle": "PLUGGED: THEON'S FATE AT THE CROFTER'S VILLAGE",
+      "plotHole": "Theon's Fate at the Crofter's Village",
+      "desc": "Resolved with unexpected narrative finality."
+    },
+    {
+      "id": "ach_literal_geode_tarth",
+      "title": "SAPPHIRES! // THE HOLLOW JEWEL ISLAND",
+      "subtitle": "PLUGGED: WHY JAIME KEEPS SHOUTING 'SAPPHIRES'",
+      "plotHole": "Why Jaime Keeps Shouting 'Sapphires'",
+      "desc": "Resolved with unexpected narrative finality."
+    },
+    {
+      "id": "ach_spite_immortality",
+      "title": "SPITE AT 150 // PRUNE JUICE AND SEVEN MORE WIVES",
+      "subtitle": "PLUGGED: WALDER FREY REFUSING TO DIE FOR BIOLOGICAL REASONS",
+      "plotHole": "Walder Frey Refusing to Die for Biological Reasons",
+      "desc": "Resolved with unexpected narrative finality."
+    },
+    {
+      "id": "ach_theological_heartburn",
+      "title": "THE BATTLE OF THE INTESTINES // FIRE VS BRINE",
+      "subtitle": "PLUGGED: VICTARION'S CONFLICTING THEOLOGICAL DIGESTION",
+      "plotHole": "Victarion's Conflicting Theological Digestion",
+      "desc": "Resolved with unexpected narrative finality."
+    },
+    {
+      "id": "ach_sweetrobin_flies",
+      "title": "THE FALCON SOARS // SWEETROBIN'S SEED",
+      "subtitle": "PLUGGED: SWEETROBIN SURVIVED THE SWEETSLEEP",
+      "plotHole": "Sweetrobin Survived the Sweetsleep",
+      "desc": "Resolved with unexpected narrative finality."
+    },
+    {
+      "id": "ach_cyvasse_grandmaster",
+      "title": "INK AND BLOOD // THE SECOND SONS FLIPPED",
+      "subtitle": "PLUGGED: TYRION FLIPS THE SECOND SONS IN TWOW",
+      "plotHole": "Tyrion Flips the Second Sons in TWOW",
+      "desc": "Resolved with unexpected narrative finality."
+    },
+    {
+      "id": "ach_dwarf_dragon_rider",
+      "title": "THE DRAGON HAS THREE HEADS // SADDLES OF VALYRIA",
+      "subtitle": "PLUGGED: TYRION DRAGON RIDER THEORY",
+      "plotHole": "Tyrion Dragon Rider Theory",
+      "desc": "Resolved with unexpected narrative finality."
+    },
+    {
+      "id": "ach_tree_that_spoke",
+      "title": "THE ROOTS OF TIME // THE TREE SPEAKS",
+      "subtitle": "PLUGGED: THE WEIRWOOD TIME-WHISPER",
+      "plotHole": "The Weirwood Time-Whisper",
+      "desc": "Resolved with unexpected narrative finality."
+    },
+    {
+      "id": "ach_flayed_man_flayed",
+      "title": "THE FLAYED MAN FALLS // GATES OF WINTERFELL",
+      "subtitle": "PLUGGED: THE LIBERATION OF WINTERFELL",
+      "plotHole": "The Liberation of Winterfell",
+      "desc": "Resolved with unexpected narrative finality."
     }
   ],
   "introduced": [

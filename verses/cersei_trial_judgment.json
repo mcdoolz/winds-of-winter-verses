@@ -16,6 +16,9 @@
     }
   ],
   "prerequisites": [],
-  "mutuallyExclusiveWith": [],
+  "mutuallyExclusiveWith": [
+    "kings_landing_burns",
+    "wildfire_ending"
+  ],
   "introducesPlotHole": null
 }

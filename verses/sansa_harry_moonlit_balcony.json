@@ -8,14 +8,16 @@
   "options": [
     {
       "text": "Command Harry to march the Knights of the Vale North to liberate Winterfell.",
-      "nextId": "battle_of_the_bastards"
+      "nextId": "knights_of_vale_ride_north"
     },
     {
       "text": "Use Harry's army to arrest Littlefinger for treason and regicide.",
       "nextId": "sansa_outplays_littlefinger"
     }
   ],
-  "prerequisites": [],
+  "prerequisites": [
+    "sansa_tourney_winged_knights"
+  ],
   "mutuallyExclusiveWith": [],
   "introducesPlotHole": null
 }

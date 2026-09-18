@@ -2,7 +2,7 @@
   "id": "citadel_forbidden_vaults",
   "title": "THE BLOOD OF DRAGONS // THE LOST VALYRIAN ROLLS",
   "pov": "Samwell Tarly",
-  "narrative": "Deep in the sealed archives beneath the Honeywine, Sam breaks the red wax seal of Septon Barth's Unnatural History. The suppressed pages describe the origins of dragons\u2014not born of natural biology, but spliced from wyrms and human blood by Valyrian sorcerers. Crucially, the margin notes contain the exact recipe for forging Valyrian steel using dragonglass dust and high-carbon iron.",
+  "narrative": "Deep in the sealed archives beneath the Honeywine, Sam breaks the red wax seal of Septon Barth's Unnatural History. The suppressed pages describe the origins of dragons—not born of natural biology, but spliced from wyrms and human blood by Valyrian sorcerers. Crucially, the margin notes contain the exact recipe for forging Valyrian steel using dragonglass dust and high-carbon iron.",
   "resolvesPlotHole": "How Valyrian Steel is Forged",
   "bonusAchievementId": "ach_valyrian_metallurgy",
   "options": [

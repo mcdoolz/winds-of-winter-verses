@@ -15,7 +15,12 @@
       "nextId": "king_north_ending"
     }
   ],
-  "prerequisites": [],
+  "prerequisites": [
+    "night_lamp_lake",
+    "knights_of_vale_ride_north",
+    "ride_winterfell",
+    "rickon_stark_retrieved"
+  ],
   "mutuallyExclusiveWith": [],
   "introducesPlotHole": null
 }

@@ -2,7 +2,7 @@
   "id": "faegon_blackfyre",
   "title": "THE MUMMER'S DRAGON EXPOSED",
   "pov": "Daenerys Targaryen",
-  "narrative": "Aegon VI rides out beneath the red three-headed dragon banner, proud and silver-haired. But Drogon snarls, smelling no dragonblood \u2014 only Illyrio Mopatis's sweet perfume and candied ginger. Daenerys produces the rusted sign of the black dragon that washed ashore on the Quiet Isle. 'A dragon of black iron washed in brine,' she proclaims. 'You are no son of Rhaegar. You are a Blackfyre, raised by a cheesemonger and a eunuch!' The Golden Company freezes, looking to Jon Connington's greyscale-rotted hand.",
+  "narrative": "Aegon VI rides out beneath the red three-headed dragon banner, proud and silver-haired. But Drogon snarls, smelling no dragonblood — only Illyrio Mopatis's sweet perfume and candied ginger. Daenerys produces the rusted sign of the black dragon that washed ashore on the Quiet Isle. 'A dragon of black iron washed in brine,' she proclaims. 'You are no son of Rhaegar. You are a Blackfyre, raised by a cheesemonger and a eunuch!' The Golden Company freezes, looking to Jon Connington's greyscale-rotted hand.",
   "resolvesPlotHole": "Young Griff / Faegon Legitimacy",
   "bonusAchievementId": "ach_faegon_exposed",
   "options": [
@@ -28,6 +28,8 @@
     }
   ],
   "prerequisites": [],
-  "mutuallyExclusiveWith": [],
+  "mutuallyExclusiveWith": [
+    "arianne_aegon_marriage"
+  ],
   "introducesPlotHole": null
 }

@@ -24,7 +24,13 @@
       "bonusAchievementId": "ach_the_infinite_backspace"
     }
   ],
-  "prerequisites": [],
+  "prerequisites": [
+    "cersei_standoff",
+    "cersei_trial_judgment",
+    "faceless_men_iron_throne",
+    "meereenese_knot_untied",
+    "arianne_aegon_marriage"
+  ],
   "mutuallyExclusiveWith": [],
   "introducesPlotHole": null
 }

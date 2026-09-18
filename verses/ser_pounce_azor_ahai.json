@@ -2,13 +2,14 @@
   "id": "ser_pounce_azor_ahai",
   "title": "THE POUNCE THAT WAS PROMISED // AZOR A-CAT",
   "pov": "Ser Pounce",
-  "narrative": "Tommen's black-and-tan kitten steps onto the Iron Throne. His whiskers twitch with ancient Valyrian fire. He plunges his tiny claw into a bowl of cream, drawing forth Lightbringer\u2014a glowing three-inch flaming needle of celestial heat. \"Meow,\" whispers the Prince That Was Promised. The Great Other trembles in the frozen north as Ser Pounce bats a burning ball of yarn across the Red Keep floors.",
+  "narrative": "Tommen's black-and-tan kitten steps onto the Iron Throne. His whiskers twitch with ancient Valyrian fire. He plunges his tiny claw into a bowl of cream, drawing forth Lightbringer—a glowing three-inch flaming needle of celestial heat. \"Meow,\" whispers the Prince That Was Promised. The Great Other trembles in the frozen north as Ser Pounce bats a burning ball of yarn across the Red Keep floors.",
   "resolvesPlotHole": "Ser Pounce as Azor Ahai",
   "bonusAchievementId": "ach_ser_pounce_hero",
   "introducesPlotHole": "Feline Azor Ahai Whiskers Prophecy",
   "prerequisites": [],
   "mutuallyExclusiveWith": [
-    "kings_landing_burns"
+    "kings_landing_burns",
+    "wildfire_ending"
   ],
   "options": [
     {

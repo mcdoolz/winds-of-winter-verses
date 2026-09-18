@@ -8,7 +8,8 @@
   "introducesPlotHole": "Cersei's Sommelier Certification in Arbor Gold",
   "prerequisites": [],
   "mutuallyExclusiveWith": [
-    "wildfire_ending"
+    "wildfire_ending",
+    "kings_landing_burns"
   ],
   "options": [
     {

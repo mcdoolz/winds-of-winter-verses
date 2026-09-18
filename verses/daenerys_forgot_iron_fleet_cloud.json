@@ -6,7 +6,9 @@
   "resolvesPlotHole": "Dany Kind of Forgot About the Iron Fleet",
   "bonusAchievementId": "ach_kind_of_forgot",
   "introducesPlotHole": "Severe Tactical Amnesia Due to Fluffy Clouds",
-  "prerequisites": [],
+  "prerequisites": [
+    "meereenese_knot_untied"
+  ],
   "mutuallyExclusiveWith": [],
   "options": [
     {

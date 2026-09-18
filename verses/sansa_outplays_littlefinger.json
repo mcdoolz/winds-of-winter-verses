@@ -22,6 +22,8 @@
     }
   ],
   "prerequisites": [],
-  "mutuallyExclusiveWith": [],
+  "mutuallyExclusiveWith": [
+    "littlefinger_subprime_debt_crisis"
+  ],
   "introducesPlotHole": null
 }

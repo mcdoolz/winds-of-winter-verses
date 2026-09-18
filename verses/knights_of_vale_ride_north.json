@@ -15,7 +15,9 @@
       "nextId": "north_united_ending"
     }
   ],
-  "prerequisites": [],
+  "prerequisites": [
+    "sansa_tourney_winged_knights"
+  ],
   "mutuallyExclusiveWith": [],
   "introducesPlotHole": null
 }

@@ -15,7 +15,11 @@
       "nextId": "find_bran"
     }
   ],
-  "prerequisites": [],
-  "mutuallyExclusiveWith": [],
+  "prerequisites": [
+    "howland_reed_appears"
+  ],
+  "mutuallyExclusiveWith": [
+    "jon_snow_refuses_human_resurrection"
+  ],
   "introducesPlotHole": null
 }

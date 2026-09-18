@@ -24,7 +24,13 @@
       "bonusAchievementId": "ach_the_infinite_backspace"
     }
   ],
-  "prerequisites": [],
-  "mutuallyExclusiveWith": [],
+  "prerequisites": [
+    "meereenese_knot_untied",
+    "cersei_standoff",
+    "cersei_trial_judgment"
+  ],
+  "mutuallyExclusiveWith": [
+    "iron_bank_repo_crane"
+  ],
   "introducesPlotHole": null
 }

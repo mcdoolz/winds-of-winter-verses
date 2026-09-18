@@ -6,7 +6,11 @@
   "resolvesPlotHole": "Samwell Tarly's Sudden Citadel Intellect",
   "bonusAchievementId": "ach_sam_cardio_breakthrough",
   "introducesPlotHole": "Valyrian Steel Metallurgy Solved via Calisthenics",
-  "prerequisites": [],
+  "prerequisites": [
+    "citadel_forbidden_vaults",
+    "pate_jaqen_conspiracy",
+    "hightower_glass_candle"
+  ],
   "mutuallyExclusiveWith": [],
   "options": [
     {

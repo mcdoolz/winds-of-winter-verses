@@ -15,7 +15,12 @@
       "nextId": "kings_landing_burns"
     }
   ],
-  "prerequisites": [],
-  "mutuallyExclusiveWith": [],
+  "prerequisites": [
+    "arianne_connington_parley",
+    "doran_blood_orange_pact"
+  ],
+  "mutuallyExclusiveWith": [
+    "faegon_blackfyre"
+  ],
   "introducesPlotHole": null
 }

@@ -19,7 +19,14 @@
       "nextId": "howland_reed_appears"
     }
   ],
-  "prerequisites": [],
-  "mutuallyExclusiveWith": [],
+  "prerequisites": [
+    "winterfell_siege_assault",
+    "knights_of_vale_ride_north",
+    "ride_winterfell",
+    "rickon_stark_retrieved"
+  ],
+  "mutuallyExclusiveWith": [
+    "roose_bolton_skinstealer_vampire"
+  ],
   "introducesPlotHole": null
 }

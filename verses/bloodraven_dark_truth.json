@@ -15,7 +15,10 @@
       "nextId": "viserion_warg_ending"
     }
   ],
-  "prerequisites": [],
+  "prerequisites": [
+    "find_bran",
+    "hold_the_door_revelation"
+  ],
   "mutuallyExclusiveWith": [],
   "introducesPlotHole": null
 }

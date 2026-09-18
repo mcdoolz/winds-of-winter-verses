@@ -15,7 +15,10 @@
       "nextId": "hold_the_door_revelation"
     }
   ],
-  "prerequisites": [],
+  "prerequisites": [
+    "find_bran",
+    "hold_the_door_revelation"
+  ],
   "mutuallyExclusiveWith": [],
   "introducesPlotHole": null
 }

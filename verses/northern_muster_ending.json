@@ -2,7 +2,7 @@
   "id": "northern_muster_ending",
   "title": "EPILOGUE // THE WINTER LORDS",
   "pov": "Jaime Lannister & Lady Stoneheart",
-  "narrative": "The banners of the wolf and the direwolf ride side by side across the Trident. Together with the surviving loyalists of the Riverlands, the Red Wedding is avenged at the Twins. Justice is rendered in stone and steel. The North and the Riverlands remember, and peace returns to the riverbanks under a cold, clear winter sun.\n\n\u2014 THE END",
+  "narrative": "The banners of the wolf and the direwolf ride side by side across the Trident. Together with the surviving loyalists of the Riverlands, the Red Wedding is avenged at the Twins. Justice is rendered in stone and steel. The North and the Riverlands remember, and peace returns to the riverbanks under a cold, clear winter sun.\n\n— THE END",
   "resolvesPlotHole": null,
   "bonusAchievementId": null,
   "options": [
@@ -20,6 +20,8 @@
     }
   ],
   "prerequisites": [],
-  "mutuallyExclusiveWith": [],
+  "mutuallyExclusiveWith": [
+    "walder_frey_spite_immortality"
+  ],
   "introducesPlotHole": null
 }

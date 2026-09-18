@@ -20,6 +20,8 @@
     }
   ],
   "prerequisites": [],
-  "mutuallyExclusiveWith": [],
+  "mutuallyExclusiveWith": [
+    "jon_snow_refuses_human_resurrection"
+  ],
   "introducesPlotHole": null
 }

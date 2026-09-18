@@ -2,11 +2,14 @@
   "id": "hodor_quantum_relativity_thesis",
   "title": "THE DOORWAY TENSOR // HODOR'S UNIFIED FIELD THEORY",
   "pov": "Hodor",
-  "narrative": "Walder stands before the ironwood door of the Winterfell crypts, holding a piece of chalk. 'Hodor,' he explains, writing out the Einstein-Hilbert action with cosmological constant: R_\u03bc\u03bd - 1/2 R g_\u03bc\u03bd + \u039b g_\u03bc\u03bd = 8\u03c0G T_\u03bc\u03bd. 'Hodor, hodor hodor\u2014HODOR!' ('By constraining the gravitational metric across the event horizon of the door hinge, spatial causality collapses, allowing non-local quantum state transfer into the mind of my past self!') Bran nods sagely: 'I always knew you were a physicist.'",
+  "narrative": "Walder stands before the ironwood door of the Winterfell crypts, holding a piece of chalk. 'Hodor,' he explains, writing out the Einstein-Hilbert action with cosmological constant: R_μν - 1/2 R g_μν + Λ g_μν = 8πG T_μν. 'Hodor, hodor hodor—HODOR!' ('By constraining the gravitational metric across the event horizon of the door hinge, spatial causality collapses, allowing non-local quantum state transfer into the mind of my past self!') Bran nods sagely: 'I always knew you were a physicist.'",
   "resolvesPlotHole": "Hodor's Single Word Was Complex Mathematical Physics",
   "bonusAchievementId": "ach_quantum_hodor",
   "introducesPlotHole": "Hodor's Unified Door-Holding Tensor Metric",
-  "prerequisites": [],
+  "prerequisites": [
+    "find_bran",
+    "hold_the_door_revelation"
+  ],
   "mutuallyExclusiveWith": [],
   "options": [
     {

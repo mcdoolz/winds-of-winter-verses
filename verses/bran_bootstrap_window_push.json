@@ -6,7 +6,10 @@
   "resolvesPlotHole": "Bran's Temporal Closed-Loop Causality",
   "bonusAchievementId": "ach_bootstrap_bran",
   "introducesPlotHole": "The Temporal Defenestration Bootstrap Paradox",
-  "prerequisites": [],
+  "prerequisites": [
+    "find_bran",
+    "hold_the_door_revelation"
+  ],
   "mutuallyExclusiveWith": [],
   "options": [
     {

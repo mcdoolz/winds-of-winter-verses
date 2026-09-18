@@ -16,6 +16,9 @@
     }
   ],
   "prerequisites": [],
-  "mutuallyExclusiveWith": [],
+  "mutuallyExclusiveWith": [
+    "euron_is_daario_benjen",
+    "victarion_dual_god_stomach_rumble"
+  ],
   "introducesPlotHole": null
 }

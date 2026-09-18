@@ -8,7 +8,9 @@
   "introducesPlotHole": "Canine Lord Commander Administrative Gridlock",
   "prerequisites": [],
   "mutuallyExclusiveWith": [
-    "king_north_ending"
+    "king_north_ending",
+    "jon_val_wildling_hearth",
+    "united_stand_ending"
   ],
   "options": [
     {
